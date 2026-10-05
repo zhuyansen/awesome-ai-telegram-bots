@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-03",
+ "generated": "2026-10-05",
  "source": "https://agentskillshub.top/best/telegram-bot/",
  "kinds": [
   {
@@ -41,9 +41,79 @@
  ],
  "skills": [
   {
+   "repo_full_name": "father-bot/chatgpt_telegram_bot",
+   "path": null,
+   "stars": 5536,
+   "description": "💬 Telegram bot with ChatGPT & Claude Python-based, using OpenAI's API.",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "tbxark/ChatGPT-Telegram-Workers",
+   "path": null,
+   "stars": 3807,
+   "description": "Easily deploy your Telegram ChatGPT bot on Cloudflare Workers (or Vercel, Docker...).",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "TypeScript",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "altryne/chatGPT-telegram-bot",
+   "path": null,
+   "stars": 1637,
+   "description": "This is a very early attempt at having chatGPT work within a telegram bot",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "yym68686/ChatGPT-Telegram-Bot",
+   "path": null,
+   "stars": 1290,
+   "description": "TeleChat: 🤖️ an AI chat Telegram bot can Web Search Powered by GPT-5, DALL·E , Groq, Gemini 2.5 Pro/Flash and the official Claude4.1 API using Python on Zeabur, fly.io and Replit.",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "GPL-3.0"
+  },
+  {
+   "repo_full_name": "V-know/ChatGPT-Telegram-Bot",
+   "path": null,
+   "stars": 649,
+   "description": "A Telegram bot with a silky smooth AI experience. UI enabled.",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "linuz90/claude-telegram-bot",
+   "path": null,
+   "stars": 448,
+   "description": null,
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "TypeScript",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "polakowo/gpt2bot",
+   "path": null,
+   "stars": 442,
+   "description": "Your new Telegram buddy powered by transformers",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "Jupyter Notebook",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "smixs/agent-second-brain",
    "path": null,
-   "stars": 390,
+   "stars": 391,
    "description": "An always-on second brain you talk to. Voice notes in Telegram → typed, linked knowledge in your Obsidian vault. Runs 24/7 on the Claude subscription you already have.",
    "kind": "assistant",
    "security_grade": "safe",
@@ -51,9 +121,89 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "smixs/iva",
+   "repo_full_name": "Johnsheng1/cf-ai-TGbot",
    "path": null,
-   "stars": 228,
+   "stars": 384,
+   "description": "CF-ai-TGbot is a customizable Telegram bot powered by Node.js, integrating Cloudflare AI Gateway for smart, context-aware conversations. 🌐🤖",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "JavaScript",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "F33RNI/GPT-Telegramus",
+   "path": null,
+   "stars": 353,
+   "description": "💜 The best free Telegram bot for ChatGPT, Microsoft Copilot (aka Bing AI / Sidney / EdgeGPT), Microsoft Copilot Designer (aka BingImageCreator), Gemini and Groq with stream writing, requests with images, multiple languages, admin control, data logging and more!",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "AGPL-3.0"
+  },
+  {
+   "repo_full_name": "nalgeon/pokitoki",
+   "path": null,
+   "stars": 342,
+   "description": "Humble AI Telegram Bot",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "pyfbsdk59/Flask-ChatGPT-TelegramBot-Vercel",
+   "path": null,
+   "stars": 304,
+   "description": "一個Flask ChatGPT TelegramBot快速建置於平台Vercel。",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": null
+  },
+  {
+   "repo_full_name": "yesbhautik/Master-AI-BOT",
+   "path": null,
+   "stars": 267,
+   "description": "Master AI BOT 🤖: Unleash the power of GPT-4 Turbo with our fast and limitless Telegram bot. Say goodbye to daily usage limits and laggy interfaces. Explore special chat modes, group chat support, and DALLE 2 integration. Chat seamlessly, recognize voice messages, and more. Deploy your own or use our streamlined version. Get started today! Demo 🔽",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "14790897/tg-voice-ai",
+   "path": null,
+   "stars": 254,
+   "description": "telegram voice chat ai bot with image generate",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "TypeScript",
+   "license": null
+  },
+  {
+   "repo_full_name": "Helixform/TeleGPT",
+   "path": null,
+   "stars": 237,
+   "description": "An out-of-box ChatGPT bot for Telegram.",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "Rust",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "tpai/summary-gpt-bot",
+   "path": null,
+   "stars": 234,
+   "description": "An AI-powered text summarization Telegram bot that generates concise summaries of text, URLs, PDFs, and YouTube videos.",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": null
+  },
+  {
+   "repo_full_name": "smixs/iva-agent",
+   "path": null,
+   "stars": 230,
    "description": "AI assistant in Telegram that remembers everything and helps you run your life. Self-hosted in one command.",
    "kind": "assistant",
    "security_grade": "safe",
@@ -63,7 +213,7 @@
   {
    "repo_full_name": "smixs/iva-agent",
    "path": null,
-   "stars": 228,
+   "stars": 230,
    "description": "AI assistant in Telegram that remembers everything and helps you run your life. Self-hosted in one command.",
    "kind": "assistant",
    "security_grade": "safe",
@@ -81,6 +231,116 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "asukaminato0721/telegram-summary-bot",
+   "path": null,
+   "stars": 201,
+   "description": "Summarize group chat with AI, LLM && query group chat, FREE to deploy your own, support img, link meta info, reply to, auto fold result, 支持中文检索.",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "TypeScript",
+   "license": "Apache-2.0"
+  },
+  {
+   "repo_full_name": "sudo-eugene/Connect-Telegram-Bot-to-Google-Sheets-ChatGPT-OpenAI",
+   "path": null,
+   "stars": 190,
+   "description": "Connect Telegram Bot to Google Sheets via Google Apps Scripts",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "JavaScript",
+   "license": "GPL-3.0"
+  },
+  {
+   "repo_full_name": "flynnoct/chatgpt-telegram-bot",
+   "path": null,
+   "stars": 170,
+   "description": "Telegram bot implemented by OFFICIAL OpenAI ChatGPT API (gpt-3.5-turbo, released on 2023-03-01)",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "HexyeDEV/Telegram-Chatbot-Gpt4Free",
+   "path": null,
+   "stars": 168,
+   "description": "This is a Python-based Telegram bot using the telethon library. The bot responds to messages using the evagpt4 reverse engeneered api from GPT4FREE repo",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "Timmy-web/Poe-Telegram-Chatbot",
+   "path": null,
+   "stars": 168,
+   "description": "调用Poe官方API实现Telegram对话机器人，主要调用GPT-4和Claude-3-Opus模型。",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": null
+  },
+  {
+   "repo_full_name": "kargarisaac/telegram_link_summarizer_agent",
+   "path": null,
+   "stars": 156,
+   "description": "Agentic Telegram bot that summarizes links (articles, papers, tweets, LinkedIn posts, PDFs) shared in a channel. Instantly provides concise summaries so users can quickly decide what to read. Open source, deployed on Google Cloud Run. ",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "Apache-2.0"
+  },
+  {
+   "repo_full_name": "innightwolfsleep/llm_telegram_bot",
+   "path": null,
+   "stars": 135,
+   "description": "LLM telegram bot",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "Kourva/AwesomeChatGPTBot",
+   "path": null,
+   "stars": 121,
+   "description": "ChatGPT Telegram bot: Free & Rich-Feature bot for enhanced conversations.",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "ma2za/telegram-llm-bot",
+   "path": null,
+   "stars": 112,
+   "description": "Local-first Telegram AI bot with Ollama tool calling, voice transcription, MinIO storage, SearchApi web search, and readiness checks",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "Leask/halbot",
+   "path": null,
+   "stars": 103,
+   "description": "Just another AI powered Telegram bot, which is simple design, easy to use, extendable and fun.",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "JavaScript",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "Hamster-Prime/Smart_Group_Bot",
+   "path": null,
+   "stars": 98,
+   "description": "基于 LLM 的 Telegram 群聊智能管理机器人 — 智能决策、知识库 RAG、内容审查、贴纸学习、联网搜索、多层记忆架构",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "htlin222/mini-claw",
    "path": null,
    "stars": 93,
@@ -89,6 +349,96 @@
    "security_grade": "safe",
    "language": "TypeScript",
    "license": "MIT"
+  },
+  {
+   "repo_full_name": "LexiestLeszek/scrapeGPT",
+   "path": null,
+   "stars": 87,
+   "description": "ScrapeGPT is a RAG-based Telegram bot designed to scrape and analyze websites, then answer questions based on the scraped content. The bot utilizes Retrieval Augmented Generation and webscraping to return natural language answers to the user's queries.",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "Lifailon/openrouter-bot",
+   "path": null,
+   "stars": 86,
+   "description": "This project allows to launch your Telegram bot in a few minutes to communicate with free or paid AI models via OpenRouter.",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "Go",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "wxc971231/TelegramChatBot",
+   "path": null,
+   "stars": 85,
+   "description": "A telegram chatbot powered by OpenAI GPT API",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": null
+  },
+  {
+   "repo_full_name": "ChiSonKon/telegram-business-ai-bot",
+   "path": null,
+   "stars": 81,
+   "description": "【聊天自动化】一个24小时在线的 Telegram 智能双向私聊机器人 🤖 /[Chat Automation] A 24/7 online smart Telegram bot for two-way private messaging 🤖",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "Apache-2.0"
+  },
+  {
+   "repo_full_name": "Rai220/TelegramChatGPT",
+   "path": null,
+   "stars": 81,
+   "description": "Personal telegram chat-bot based on OpenAI GPT-3 finetuning.",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "noes14155/Telegrambot-with-GPT",
+   "path": null,
+   "stars": 80,
+   "description": "telegram bot with gpt",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "GPL-2.0"
+  },
+  {
+   "repo_full_name": "Magerko/TelegramHelper",
+   "path": null,
+   "stars": 74,
+   "description": "Персональный AI-ассистент для Telegram: userbot + control bot с агентом, понимающим голос и свободный текст. SQLite FTS5, Qdrant, Whisper, OpenAI/Gemini.",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "dudynets/Telegram-Summarize-Bot",
+   "path": null,
+   "stars": 74,
+   "description": "A Telegram bot that summarizes messages from a chat using AI.",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "tusharhero/aitelegrambot",
+   "path": null,
+   "stars": 74,
+   "description": "aitelegrambot is a telegram bot which uses Ollama as its backend.",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "GPL-3.0"
   },
   {
    "repo_full_name": "sazonovanton/SirChatalot",
@@ -101,12 +451,192 @@
    "license": "GPL-3.0"
   },
   {
+   "repo_full_name": "flows-network/telegram-llm",
+   "path": null,
+   "stars": 71,
+   "description": "A Telegram LLM bot written in Rust",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "Rust",
+   "license": "GPL-3.0"
+  },
+  {
+   "repo_full_name": "harshitethic/ChatGPT-Telegram-Bot",
+   "path": null,
+   "stars": 71,
+   "description": null,
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": null
+  },
+  {
+   "repo_full_name": "xluxeq/GPT2-Telegram-Chatbot",
+   "path": null,
+   "stars": 69,
+   "description": "GPT-2 Telegram Chat bot",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": null
+  },
+  {
+   "repo_full_name": "jf3tt/chatgpt-telegram-bot",
+   "path": null,
+   "stars": 62,
+   "description": "Python telegram bot, which utilizes the OpenAI API for implementing GPT-4 and speech-to-text functionality. The bot handles text and voice input from users, transcribes voice input to text, and generates responses using GPT-4",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "Apache-2.0"
+  },
+  {
+   "repo_full_name": "thaolst/tara-bot",
+   "path": null,
+   "stars": 61,
+   "description": "Tara Bot — AI Telegram agent: search flights, compare prices, inject affiliate links",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "s-nagaev/chibi",
    "path": null,
    "stars": 56,
    "description": "Your Digital Companion. Self-hosted Telegram bot orchestrating multiple AI providers (OpenAI, Anthropic, Google, xAI, DeepSeek, Mistral, Alibaba, MiniMax) with autonomous agent capabilities, MCP integrations, and async task execution. Not a tool. A partner.",
    "kind": "assistant",
    "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "vladislav-bordiug/ChatGPT_DALL_E_StableDiffusion_Telegram_Bot",
+   "path": null,
+   "stars": 56,
+   "description": "This is ChatGPT, DALL·E, Stable Diffusion python-telegram-bot with cryptocurrency payments. It allows you to generate images and chat with ChatGPT. ",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "Apache-2.0"
+  },
+  {
+   "repo_full_name": "KonstantinVanov/Article-Assistant--RAG-Telegram-Bot",
+   "path": null,
+   "stars": 55,
+   "description": "A sophisticated RAG (Retrieval-Augmented Generation) Telegram bot that transforms articles and documents into interactive knowledge bases. Upload PDFs/URLs and get AI-powered answers with source citations.",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "Mostafa-Abbasi/HyperTAG",
+   "path": null,
+   "stars": 53,
+   "description": "HyperTAG Bot - AI-Generated Tags and Summaries for Telegram Messages",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "JavaScript",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "emingenc/telegramGPT",
+   "path": null,
+   "stars": 53,
+   "description": "step-by-step guide on creating your very own AI bot using Python, Telegram, and OpenAI GPT models.",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "GPL-3.0"
+  },
+  {
+   "repo_full_name": "AlexTs10/ai-girlfriend-with-voice-telegram-bot",
+   "path": null,
+   "stars": 51,
+   "description": "GPT Telegram Bot",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": null
+  },
+  {
+   "repo_full_name": "ahkarimi/chapar",
+   "path": null,
+   "stars": 43,
+   "description": "Self-hosted Telegram bot for AI-driven chart analysis and market intelligence. FastAPI + Celery + Redis + PostgreSQL.",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "AbuZar-Ansarii/Openclaw-phone-control",
+   "path": null,
+   "stars": 37,
+   "description": "OpenClaw allows you to manage your phone via a Telegram bot using the power of local AI (Ollama). No root access is required, making it accessible for almost any modern Android device",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": null,
+   "license": null
+  },
+  {
+   "repo_full_name": "zhuchangyi/Gemini2tg",
+   "path": null,
+   "stars": 31,
+   "description": "Gemini2tg is a project which deploys Google Gemini's API to a Telegram bot, giving you your own AI bot powerd by Gemini",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "xingty/CatGPT",
+   "path": null,
+   "stars": 30,
+   "description": "A telegram bot for OpenAI API",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": null
+  },
+  {
+   "repo_full_name": "aneeshjoy/llama-telegram-bot",
+   "path": null,
+   "stars": 28,
+   "description": "A simple telegram chat bot for LLMs supported by llama.cpp",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "maddness/vkusvill-mcp-bot",
+   "path": null,
+   "stars": 28,
+   "description": "Telegram-бот для сбора продуктовой корзины ВкусВилл через mcp ",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "shanzi/Telegram-ChatGPT",
+   "path": null,
+   "stars": 28,
+   "description": "A customizable Telegram bot with a ChatGPT (or GPT4, bring your own API key) backend. You can configure the bot’s context and prompt in template settings.",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "Rust",
+   "license": "GPL-3.0"
+  },
+  {
+   "repo_full_name": "AbhiTheModder/gemini-ai-telegram",
+   "path": null,
+   "stars": 26,
+   "description": "Pyrogram(Pyrofork) Based Python script for Telegram Userbots and Bots",
+   "kind": "assistant",
+   "security_grade": "unknown",
    "language": "Python",
    "license": "MIT"
   },
@@ -121,6 +651,256 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "anxkhn/OpynGPT-Chat",
+   "path": null,
+   "stars": 23,
+   "description": "A Telegram chat bot powered by OpynGPT for natural language responses without the need for API keys. Easy to set up and use.",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": null
+  },
+  {
+   "repo_full_name": "JackBekket/Hellper",
+   "path": null,
+   "stars": 21,
+   "description": "Telegram bot which can work with both openAI and LocalAI modes, it also uses UncensoredGPT models like Wizard-Uncensored. It can be launch at ordinary gamer PC without specific ai-gpu hardware",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "Go",
+   "license": null
+  },
+  {
+   "repo_full_name": "muthupriyan-dev/telegram-ai-bot",
+   "path": null,
+   "stars": 21,
+   "description": null,
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "JavaScript",
+   "license": null
+  },
+  {
+   "repo_full_name": "EzeSandes/ChatGPT-OpenAI-TelegramBot",
+   "path": null,
+   "stars": 15,
+   "description": "Unofficial OpenAI Telegram bot to interact with chatGPT",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "JavaScript",
+   "license": null
+  },
+  {
+   "repo_full_name": "Tobiaspk/gpt3_telebot",
+   "path": null,
+   "stars": 15,
+   "description": "Telegram Bot using GPT3 and enhanced functions",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": null
+  },
+  {
+   "repo_full_name": "pyfbsdk59/Flask-ChatGPT-TelegramBot-Render",
+   "path": null,
+   "stars": 15,
+   "description": "一個Flask ChatGPT TelegramBot快速建置於平台Render。",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": null
+  },
+  {
+   "repo_full_name": "andykras/gptbot",
+   "path": null,
+   "stars": 14,
+   "description": "Telegram bot with Assistant AsyncOpenAI API client and aiogram lib",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "Exdenta/OinkAIJobSearch",
+   "path": null,
+   "stars": 10,
+   "description": "AI job-search agent in Telegram — scrapes 25+ job boards, scores every posting against your CV with Claude, pushes real matches to your chat. Self-host free or use the hosted bot.",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "NOASSERTION"
+  },
+  {
+   "repo_full_name": "alifgardika/CatatAja",
+   "path": null,
+   "stars": 9,
+   "description": "Bot Telegram pencatat pengeluaran tanpa server. Ketik transaksi pakai bahasa sehari-hari, bot memahaminya dengan Gemini AI lalu menyimpannya ke Google Sheets.",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "JavaScript",
+   "license": null
+  },
+  {
+   "repo_full_name": "deseven/telegram-actual-llm-helper",
+   "path": null,
+   "stars": 9,
+   "description": "A bot to assist with logging transactions in Actual Budget, leveraging the capabilities of ChatGPT or other LLMs",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "JavaScript",
+   "license": "Unlicense"
+  },
+  {
+   "repo_full_name": "dhir4j/chatgpt-bot-telegram",
+   "path": null,
+   "stars": 9,
+   "description": "A Python script that implements a basic chatbot using the OpenAI GPT-3 API.",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": null
+  },
+  {
+   "repo_full_name": "evgenyigumnov/ai-agent-telegram-bot",
+   "path": null,
+   "stars": 8,
+   "description": "A smart and friendly AI-powered Telegram bot that can answer questions, store and forget information, and even execute terminal commands on request. Built with Rust, powered by LLMs and vector search via Qdrant.",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "Rust",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "backmeupplz/telegram-ai-searcher",
+   "path": null,
+   "stars": 7,
+   "description": "Telegram bot that searches the web and streams AI answers live. Live demo: https://t.me/frdy_bot — built with grammY, Fireworks AI, and self-hosted SearXNG.",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "TypeScript",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "hschickdevs/Telegram-AI-Software-Architect",
+   "path": null,
+   "stars": 7,
+   "description": "Telegram bot that uses AI to generate full codebases from user prompts, providing structured, ready-to-deploy software projects, differentiating from simple code generation by offering entire architectural solutions.",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "GPL-3.0"
+  },
+  {
+   "repo_full_name": "DoctorSB/GPT_Telegram_Bot",
+   "path": null,
+   "stars": 6,
+   "description": "Код для работы с api openai ",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": null
+  },
+  {
+   "repo_full_name": "c17hawke/chatGPT-Telegram-bot",
+   "path": null,
+   "stars": 6,
+   "description": "chatGPT-Telegram-bot",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": null
+  },
+  {
+   "repo_full_name": "ibidathoillah/gemini-cli-telegram",
+   "path": null,
+   "stars": 6,
+   "description": "Run Google Gemini CLI as a Telegram bot. AI coding assistant with project management, scheduled tasks, and autopilot mode.",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "TypeScript",
+   "license": "Apache-2.0"
+  },
+  {
+   "repo_full_name": "irfan-yulianto/Telegram-Finance-Bot",
+   "path": null,
+   "stars": 6,
+   "description": "AI-powered personal finance tracker bot for Telegram. Track income &  expenses with receipt scanning, natural language input, and automatic  Google Sheets sync. Built with Python & Google Gemini API.",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "rokoss21/OpenBot-2.0",
+   "path": null,
+   "stars": 6,
+   "description": "This Telegram bot interfaces with AI models via OpenRouter, enabling users to authenticate with an API key, select AI models for interaction, process and send messages, and log activities.",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "Aman262626/DarkGPT-Telegram-Bot",
+   "path": null,
+   "stars": 5,
+   "description": "🌑 DarkGPT - A powerful Telegram bot powered by Claude Opus AI with conversation memory and multi-language support",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": null
+  },
+  {
+   "repo_full_name": "Cloudveerge/Gemini-1.5-flash-AI-Telegram-Bot",
+   "path": null,
+   "stars": 5,
+   "description": "An intelligent, conversational Telegram bot built on Node.js, leveraging the gemini-1.5-flash generative AI model.",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "JavaScript",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "YevgeniyKapustin/VanessaAI",
+   "path": null,
+   "stars": 5,
+   "description": "Telegram AI Bot",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "Apache-2.0"
+  },
+  {
+   "repo_full_name": "aleksbuss/termux-voice-bot",
+   "path": null,
+   "stars": 5,
+   "description": "A pocket-sized AI server running on your Android smartphone. This project turns your phone into a fully autonomous Telegram bot for voice and text processing. No cloud APIs, no paid subscriptions, no data leaks — everything runs 100% locally on your device's CPU.",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "binnwkwk/SylvieAi-Telegram-Bot",
+   "path": null,
+   "stars": 5,
+   "description": "This is the source code of the Sylvie AI telegram bot",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "JavaScript",
+   "license": null
+  },
+  {
+   "repo_full_name": "bisbeebucky/ai-bot",
+   "path": null,
+   "stars": 5,
+   "description": "AI Telegram personal finance bot with cashflow forecasting and overdraft prediction",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "JavaScript",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "divanshusingh-ds/TELREGRAM-BOT",
    "path": null,
    "stars": 5,
@@ -129,6 +909,26 @@
    "security_grade": "safe",
    "language": "Python",
    "license": "MIT"
+  },
+  {
+   "repo_full_name": "djblack1209-coder/OpenClaw-Bot",
+   "path": null,
+   "stars": 5,
+   "description": "OpenEverything — Personal AI automation with Telegram, a Tauri console, and traceable model budgets. Python/FastAPI + React/Rust.",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "Apache-2.0"
+  },
+  {
+   "repo_full_name": "flows-network/telegram-claude",
+   "path": null,
+   "stars": 5,
+   "description": null,
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "Rust",
+   "license": "GPL-3.0"
   },
   {
    "repo_full_name": "nickathens/MyOldMachine",
@@ -141,9 +941,49 @@
    "license": null
   },
   {
+   "repo_full_name": "palaklohade/pdf_Sumarizer_telegram_bot",
+   "path": null,
+   "stars": 5,
+   "description": "A Telegram bot built with Python that summarizes PDF files using an LLM model. Users can send PDFs to the bot and receive concise summaries or answers to their queries directly in chat. The project streamlines document analysis and information retrieval via Telegram. ",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": null
+  },
+  {
+   "repo_full_name": "tanishra/Telegram-Smart-Agent-Bot",
+   "path": null,
+   "stars": 5,
+   "description": "SmartAgent Bot is an AI-powered Telegram bot built using n8n workflows and Google Gemini models. It processes both text and voice messages, intelligently routing requests to specialized AI agents for email, calendar, stock data, growth analytics, prompt generation, or image creation. The bot logs interactions in Google Sheets,saves images to Google",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": null,
+   "license": null
+  },
+  {
+   "repo_full_name": "zkrige/zoidberg",
+   "path": null,
+   "stars": 5,
+   "description": "Your own Claude on your own hardware, running on your Claude subscription instead of metered API credit. Talk to it on Telegram; it runs your scheduled work.",
+   "kind": "assistant",
+   "security_grade": "unknown",
+   "language": "Shell",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "overwirehq/claude-code-telegram",
+   "path": null,
+   "stars": 2799,
+   "description": "A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence.",
+   "kind": "remote",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": null
+  },
+  {
    "repo_full_name": "grinev/opencode-telegram-bot",
    "path": null,
-   "stars": 1221,
+   "stars": 1233,
    "description": "OpenCode mobile client via Telegram: run and monitor AI coding tasks from your phone while everything runs locally on your machine. OpenCode V2 support.",
    "kind": "remote",
    "security_grade": "safe",
@@ -159,6 +999,16 @@
    "security_grade": "safe",
    "language": "Python",
    "license": "MIT"
+  },
+  {
+   "repo_full_name": "hanxiao/claudecode-telegram",
+   "path": null,
+   "stars": 608,
+   "description": "Telegram bridge for Claude Code",
+   "kind": "remote",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": null
   },
   {
    "repo_full_name": "duckbugio/flock",
@@ -181,12 +1031,32 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "godagoo/claude-telegram-relay",
+   "path": null,
+   "stars": 326,
+   "description": "Minimal pattern for running Claude Code as an always-on Telegram bot. Cross-platform daemon setup included.",
+   "kind": "remote",
+   "security_grade": "unknown",
+   "language": "TypeScript",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "alexei-led/ccgram",
    "path": null,
    "stars": 277,
    "description": "Telegram ↔ tmux/herdr/agterm bridge for Claude Code, Codex CLI, and Pi Agent. Monitor output, respond to prompts, manage parallel sessions.  Control AI coding agents from your phone.",
    "kind": "remote",
    "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "six-ddc/ccbot",
+   "path": null,
+   "stars": 276,
+   "description": "Telegram ↔ tmux bridge for Claude Code: 1 topic = 1 window = 1 session",
+   "kind": "remote",
+   "security_grade": "unknown",
    "language": "Python",
    "license": "MIT"
   },
@@ -198,6 +1068,36 @@
    "kind": "remote",
    "security_grade": "safe",
    "language": "TypeScript",
+   "license": null
+  },
+  {
+   "repo_full_name": "emreturkmencom/antigravity-telegram-suite",
+   "path": null,
+   "stars": 172,
+   "description": "Antigravity Telegram bot — remote-control your AI agent via Telegram. Chat, switch models, orchestrate multi-agent workflows, and manage workspaces from your phone.",
+   "kind": "remote",
+   "security_grade": "unknown",
+   "language": "JavaScript",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "NachoSEO/claudegram",
+   "path": null,
+   "stars": 153,
+   "description": "Telegram bot that bridges messages to Claude Code",
+   "kind": "remote",
+   "security_grade": "unknown",
+   "language": "TypeScript",
+   "license": null
+  },
+  {
+   "repo_full_name": "terranc/claude-telegram-bot-bridge",
+   "path": null,
+   "stars": 134,
+   "description": "A lightweight Telegram bot that bridges Claude Code to any local folder, with autostart support for remote mobile development.",
+   "kind": "remote",
+   "security_grade": "unknown",
+   "language": "Python",
    "license": null
   },
   {
@@ -221,6 +1121,16 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "Ansh-Vortex/Vortex-Advance-RAT",
+   "path": null,
+   "stars": 99,
+   "description": "Advance Open-Source RAT Builder Access via Telegram Bot with over 60+ commands",
+   "kind": "remote",
+   "security_grade": "unknown",
+   "language": null,
+   "license": null
+  },
+  {
    "repo_full_name": "alhinawi/telegram-notifier",
    "path": null,
    "stars": 95,
@@ -241,6 +1151,26 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "seedprod/openclaw-prompts-and-skills",
+   "path": null,
+   "stars": 93,
+   "description": "Telegram bot that talks to headless Claude Code - proof of concept",
+   "kind": "remote",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": null
+  },
+  {
+   "repo_full_name": "MaxMiksa/Tele-Bot",
+   "path": null,
+   "stars": 91,
+   "description": "A clean Bot running on your PC, interacting with you on Telegram via Claude or Codex.",
+   "kind": "remote",
+   "security_grade": "unknown",
+   "language": "TypeScript",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "b1rdmania/ghostclaw",
    "path": null,
    "stars": 91,
@@ -253,11 +1183,21 @@
   {
    "repo_full_name": "areweai/tsgram-mcp",
    "path": null,
-   "stars": 89,
+   "stars": 88,
    "description": "TSGram - Telegram MCP Server for local Claude Code integration - debug and vibe code on the go!",
    "kind": "remote",
    "security_grade": "caution",
    "language": "JavaScript",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "pavel-molyanov/telegram-ai-agent",
+   "path": null,
+   "stars": 85,
+   "description": "Generic Claude/Codex Telegram bot runtime",
+   "kind": "remote",
+   "security_grade": "unknown",
+   "language": "Python",
    "license": "MIT"
   },
   {
@@ -273,7 +1213,7 @@
   {
    "repo_full_name": "permgps/herdr-telegram-agents",
    "path": null,
-   "stars": 74,
+   "stars": 75,
    "description": "Drive your coding agents from Telegram like from the terminal. A topic per agent, live status in the topic icon, two-way chat with inline buttons for choices.",
    "kind": "remote",
    "security_grade": "safe",
@@ -283,12 +1223,22 @@
   {
    "repo_full_name": "littlebearapps/untether",
    "path": null,
-   "stars": 71,
+   "stars": 72,
    "description": "Code from anywhere — Telegram bridge for AI coding agents (Claude Code, Codex, OpenCode, Pi, Gemini CLI, Amp). Stream progress, approve actions, and send tasks by voice from your phone.",
    "kind": "remote",
    "security_grade": "safe",
    "language": "Python",
    "license": "MIT"
+  },
+  {
+   "repo_full_name": "suzuke/AgEnD",
+   "path": null,
+   "stars": 66,
+   "description": "Multi-agent fleet daemon — run Claude Code, Gemini CLI, Codex, and OpenCode from Telegram with cross-instance collaboration",
+   "kind": "remote",
+   "security_grade": "unknown",
+   "language": "TypeScript",
+   "license": null
   },
   {
    "repo_full_name": "Jeffrey0117/ClaudeBot",
@@ -301,6 +1251,26 @@
    "license": null
   },
   {
+   "repo_full_name": "bluzir/claude-telegram",
+   "path": null,
+   "stars": 42,
+   "description": "A simple and modular Telegram orchestrator on top of Claude Code CLI",
+   "kind": "remote",
+   "security_grade": "unknown",
+   "language": "TypeScript",
+   "license": null
+  },
+  {
+   "repo_full_name": "Tommertom/coderBOT",
+   "path": null,
+   "stars": 37,
+   "description": "CoderBOT - using Telegram to control your favorite AI coder CLI",
+   "kind": "remote",
+   "security_grade": "unknown",
+   "language": "TypeScript",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "Imolatte/claude-cli-telegram",
    "path": null,
    "stars": 36,
@@ -308,6 +1278,16 @@
    "kind": "remote",
    "security_grade": "safe",
    "language": "JavaScript",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "archetyx/telegram-mcp-server",
+   "path": null,
+   "stars": 30,
+   "description": "Remote control AI coding assistants (Claude Code/Codex) via Telegram",
+   "kind": "remote",
+   "security_grade": "unknown",
+   "language": "Python",
    "license": "MIT"
   },
   {
@@ -321,10 +1301,60 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "jsayubi/ccgram",
+   "path": null,
+   "stars": 27,
+   "description": "Control Claude Code from Telegram — remote notifications, permission approvals, and keystroke injection via Telegram bot",
+   "kind": "remote",
+   "security_grade": "unknown",
+   "language": "JavaScript",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "mmr710/nightmux",
    "path": null,
    "stars": 22,
    "description": "Your night crew, on Telegram. Run Claude Code, Codex or any terminal agent from a Telegram topic — one topic per tmux session. Watches the context window and the 5-hour limit, compacts before the wall, and holds prompts through a lockout instead of losing them. Python stdlib only, no relay server.",
+   "kind": "remote",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "petrludwig-collab/Agent2Telegram",
+   "path": null,
+   "stars": 21,
+   "description": "Connect a coding agent (Claude Code, Codex, Antigravity) to Telegram. Dependency-free, robust, secure.",
+   "kind": "remote",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "yschaub/codex-telegram",
+   "path": null,
+   "stars": 21,
+   "description": "A powerful Telegram bot that provides remote access to Codex CLI, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence.",
+   "kind": "remote",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "kcisoul/remotecode",
+   "path": null,
+   "stars": 17,
+   "description": "Control Claude Code remotely through Telegram.",
+   "kind": "remote",
+   "security_grade": "unknown",
+   "language": "TypeScript",
+   "license": null
+  },
+  {
+   "repo_full_name": "soulknight666/telegram-account-orchestrator",
+   "path": null,
+   "stars": 17,
+   "description": "Self-hosted Telegram multi-account management with Web UI, CLI, Bot, MCP, Telethon, and Telegram Desktop tdata import.",
    "kind": "remote",
    "security_grade": "safe",
    "language": "Python",
@@ -341,24 +1371,124 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "soulknight666/telegram-account-orchestrator",
-   "path": null,
-   "stars": 16,
-   "description": "Self-hosted Telegram multi-account management with Web UI, CLI, Bot, MCP, Telethon, and Telegram Desktop tdata import.",
-   "kind": "remote",
-   "security_grade": "safe",
-   "language": "Python",
-   "license": "MIT"
-  },
-  {
    "repo_full_name": "Zulut30/premium-telegram-emoji",
    "path": null,
-   "stars": 15,
-   "description": "Каталог 275+ premium Telegram emoji с ID и превью. Claude Code Skill + бот для пополнения каталога + автодеплой на GitHub Pages.",
+   "stars": 16,
+   "description": "Verified Telegram custom emoji catalog and portable Agent Skill. Meaning-aware selection, stable application styles, Windows/macOS/Linux.",
    "kind": "remote",
    "security_grade": "safe",
    "language": "Python",
    "license": null
+  },
+  {
+   "repo_full_name": "mgaitan/telegram-acp-bot",
+   "path": null,
+   "stars": 16,
+   "description": "A Telegram bot that implements Agent Client Protocol to interact with AI agents",
+   "kind": "remote",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "BSD-3-Clause"
+  },
+  {
+   "repo_full_name": "robertelee78/claude-telegram-mirror",
+   "path": null,
+   "stars": 16,
+   "description": "Bidirectional communication between Claude Code CLI and Telegram. Control your Claude Code sessions from your phone.",
+   "kind": "remote",
+   "security_grade": "unknown",
+   "language": "Rust",
+   "license": null
+  },
+  {
+   "repo_full_name": "hada0127/cc-telegram",
+   "path": null,
+   "stars": 14,
+   "description": "telegram bot for claude-code",
+   "kind": "remote",
+   "security_grade": "unknown",
+   "language": "JavaScript",
+   "license": null
+  },
+  {
+   "repo_full_name": "guzus/tg-claude",
+   "path": null,
+   "stars": 13,
+   "description": "Telegram/Discord client for Claude Code",
+   "kind": "remote",
+   "security_grade": "unknown",
+   "language": "TypeScript",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "sleeyax/claude-code-session-bot",
+   "path": null,
+   "stars": 11,
+   "description": "Telegram bot to warm up your Claude code session while you're AFK",
+   "kind": "remote",
+   "security_grade": "unknown",
+   "language": "TypeScript",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "kawaiipantsu/telegramdigger",
+   "path": null,
+   "stars": 10,
+   "description": "This tool is an implementation of the Telegram Bot API for Linux terminal use. It's ment for quick OSINT and grading useful information or to do things like takedown, destroy or grab messages. Note, this tool is converted from a web-tool I once made to C++ and done so via Claude.",
+   "kind": "remote",
+   "security_grade": "unknown",
+   "language": "C++",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "lucashcaraujo/claude-telegram",
+   "path": null,
+   "stars": 9,
+   "description": null,
+   "kind": "remote",
+   "security_grade": "unknown",
+   "language": "TypeScript",
+   "license": null
+  },
+  {
+   "repo_full_name": "choiyounggi/cliclaw",
+   "path": null,
+   "stars": 8,
+   "description": "Control coding agents on your Mac — Claude Code, Codex, Pi, Gemini — from your phone via Telegram. Kick off tasks, stream progress, and approve dangerous commands while away from your desk. Per-chat per-agent sessions, confirm gate, launchd auto-start, corporate-TLS (Zscaler) auto-detection.",
+   "kind": "remote",
+   "security_grade": "unknown",
+   "language": "TypeScript",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "moeacgx/cc-switch-bot",
+   "path": null,
+   "stars": 8,
+   "description": "Telegram Bot for managing Claude Code / Codex / Gemini provider switching, deployed on Cloudflare Workers",
+   "kind": "remote",
+   "security_grade": "unknown",
+   "language": "JavaScript",
+   "license": null
+  },
+  {
+   "repo_full_name": "0xkaz/codex-gemini-telegram-bridge",
+   "path": null,
+   "stars": 7,
+   "description": "Telegram bridges for running Codex CLI and Gemini CLI from a single authorized chat",
+   "kind": "remote",
+   "security_grade": "unknown",
+   "language": "JavaScript",
+   "license": null
+  },
+  {
+   "repo_full_name": "kky42/anyagent",
+   "path": null,
+   "stars": 7,
+   "description": "Run Codex, Claude, or Pi from Telegram.",
+   "kind": "remote",
+   "security_grade": "unknown",
+   "language": "JavaScript",
+   "license": "MIT"
   },
   {
    "repo_full_name": "azalio/claude-telegram-skill",
@@ -368,6 +1498,86 @@
    "kind": "remote",
    "security_grade": "safe",
    "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "probelabs/afk",
+   "path": null,
+   "stars": 6,
+   "description": "Remote control and approval system for Claude Code via Telegram. Zero dependencies, Node.js 18+ built-ins only.",
+   "kind": "remote",
+   "security_grade": "unknown",
+   "language": "JavaScript",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "simontt88/thronglets",
+   "path": null,
+   "stars": 6,
+   "description": "Spawn AI coding agents from Telegram. Each gets a name, pixel art avatar, and workspace. Fleet management for Cursor, Claude Code, and Codex.",
+   "kind": "remote",
+   "security_grade": "unknown",
+   "language": "HTML",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "stebou/claude-code-telegram-gcp",
+   "path": null,
+   "stars": 6,
+   "description": null,
+   "kind": "remote",
+   "security_grade": "unknown",
+   "language": "Shell",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "Hormold/cursor-telegram-bot",
+   "path": null,
+   "stars": 5,
+   "description": "A powerful Telegram bot for managing Cursor AI Background Composers with intelligent task management and real-time monitoring.",
+   "kind": "remote",
+   "security_grade": "unknown",
+   "language": "TypeScript",
+   "license": null
+  },
+  {
+   "repo_full_name": "asianviking/pochi",
+   "path": null,
+   "stars": 5,
+   "description": "Multi-model AI agent Telegram bot for multi-folder workspaces.",
+   "kind": "remote",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "danimoya/Claude-B",
+   "path": null,
+   "stars": 5,
+   "description": "Background-capable Claude Code wrapper with async workflows, session management, and multi-host orchestration. Telegram Integration, TTS-STT with multi-LLM transcript-to-structured-prompt pipeline",
+   "kind": "remote",
+   "security_grade": "unknown",
+   "language": "TypeScript",
+   "license": "Apache-2.0"
+  },
+  {
+   "repo_full_name": "junecv/vibeIDE",
+   "path": null,
+   "stars": 5,
+   "description": "Code from your phone. Telegram bot that gives you Claude Code. Start on your laptop, pick up on your phone.",
+   "kind": "remote",
+   "security_grade": "unknown",
+   "language": "TypeScript",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "switchroom/switchroom",
+   "path": null,
+   "stars": 5,
+   "description": "Run Claude Code 24/7 on your Claude Pro/Max subscription over Telegram.",
+   "kind": "remote",
+   "security_grade": "unknown",
+   "language": "TypeScript",
    "license": "MIT"
   },
   {
@@ -381,14 +1591,44 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "zertac/TeleClaude",
+   "path": null,
+   "stars": 5,
+   "description": "A Windows Telegram bot for Claude CLI. Control Claude remotely via Telegram with conversation persistence, working directory management, file transfers, and auto-restart daemon service.",
+   "kind": "remote",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "aiogram/aiogram",
+   "path": null,
+   "stars": 5887,
+   "description": "aiogram is a modern and fully asynchronous framework for Telegram Bot API written in Python using asyncio",
+   "kind": "framework",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "chigwell/telegram-mcp",
    "path": null,
-   "stars": 1747,
+   "stars": 1760,
    "description": "Telegram MCP server powered by Telethon to let MCP clients read chats, manage groups, and send/modify messages, media, contacts, and settings.",
    "kind": "framework",
    "security_grade": "safe",
    "language": "Python",
    "license": "Apache-2.0"
+  },
+  {
+   "repo_full_name": "szastupov/aiotg",
+   "path": null,
+   "stars": 377,
+   "description": "Asynchronous Python library for building Telegram bots",
+   "kind": "framework",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "MIT"
   },
   {
    "repo_full_name": "dryeab/mcp-telegram",
@@ -397,6 +1637,106 @@
    "description": "MCP Server for Telegram",
    "kind": "framework",
    "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "noXplode/aiogram_calendar",
+   "path": null,
+   "stars": 191,
+   "description": "Date Selection tool & Inline calendar for Aiogram telegram bots",
+   "kind": "framework",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "jossalgon/StableDiffusionTelegram",
+   "path": null,
+   "stars": 130,
+   "description": "StableDiffusionTelegram is a telegram bot that allows to generate images using the stable diffusion AI from a telegram bot, in a much more comfortable and simple way.",
+   "kind": "framework",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": null
+  },
+  {
+   "repo_full_name": "arturboyun/AiogramBotTemplate",
+   "path": null,
+   "stars": 128,
+   "description": "This is a template for easy start of bot development for Telegram",
+   "kind": "framework",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "BaggerFast/AiogramTemplate",
+   "path": null,
+   "stars": 113,
+   "description": "This is template for telegram bots by aiogram",
+   "kind": "framework",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "netbriler/aiogram-peewee-template",
+   "path": null,
+   "stars": 95,
+   "description": "Telegram Bot API template, with aiogram, peewee and docker",
+   "kind": "framework",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": null
+  },
+  {
+   "repo_full_name": "andrew000/aiogram-template",
+   "path": null,
+   "stars": 91,
+   "description": "Telegram Bot Template. aiogram, i18n, SQLAlchemy+Alembic, PostgreSQL, Redis, Caddy Server, Docker, uv, FTL-Extract",
+   "kind": "framework",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "TamilBots/TamiliniMusic",
+   "path": null,
+   "stars": 59,
+   "description": "A Free Open Source Group Music Voice Chat Bot Telegram.Give 🌟 And Fork This Repo Before Use ☺️",
+   "kind": "framework",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "GPL-3.0"
+  },
+  {
+   "repo_full_name": "realkarych/aioplate",
+   "path": null,
+   "stars": 56,
+   "description": "Template for creating Telegram bots on Python Aiogram",
+   "kind": "framework",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "mamashin/tg-bot-fastapi-aiogram",
+   "path": null,
+   "stars": 51,
+   "description": "FastAPI & Aiogram Telegram Bot Template",
+   "kind": "framework",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": null
+  },
+  {
+   "repo_full_name": "nessshon/aiogram-tonconnect",
+   "path": null,
+   "stars": 49,
+   "description": "aiogram-tonconnect is a user-friendly library for integrating TON Connect UI into aiogram-based Telegram bots.",
+   "kind": "framework",
+   "security_grade": "unknown",
    "language": "Python",
    "license": "MIT"
   },
@@ -411,6 +1751,46 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "qpd-v/mcp-communicator-telegram",
+   "path": null,
+   "stars": 47,
+   "description": "An MCP server that enables communication with users through Telegram. This server provides a tool to ask questions to users and receive their responses via a Telegram bot.",
+   "kind": "framework",
+   "security_grade": "unknown",
+   "language": "JavaScript",
+   "license": null
+  },
+  {
+   "repo_full_name": "ifokeev/telegram-ai-agent",
+   "path": null,
+   "stars": 44,
+   "description": "Telegram AI Agent: A powerful Python library for creating AI-powered Telegram bots",
+   "kind": "framework",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": null
+  },
+  {
+   "repo_full_name": "andrebuilds/hermes",
+   "path": null,
+   "stars": 43,
+   "description": "Send messages from AI agents, CLI, and MCP tools - powered by one shared TypeScript core.",
+   "kind": "framework",
+   "security_grade": "unknown",
+   "language": "TypeScript",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "coderroleggg/telegram-bot-mcp",
+   "path": null,
+   "stars": 37,
+   "description": "Telegram Bot MCP",
+   "kind": "framework",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": null
+  },
+  {
    "repo_full_name": "timoncool/telegram-api-mcp",
    "path": null,
    "stars": 30,
@@ -419,6 +1799,106 @@
    "security_grade": "safe",
    "language": "TypeScript",
    "license": "MIT"
+  },
+  {
+   "repo_full_name": "serejaris/telegram-skills",
+   "path": null,
+   "stars": 20,
+   "description": "Agent Skills for Telegram Bot API 10.2 Rich Messages — structured articles, media uploads, digests, and streaming AI replies from any bot",
+   "kind": "framework",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "ProKaiiddo/BotAlto",
+   "path": null,
+   "stars": 18,
+   "description": "BotAlto is an open-source platform for hosting and managing Telegram bots with a user-friendly dashboard. It allows you to create, manage, and deploy multiple Telegram bots from a single interface, complete with custom command creation and real-time control.",
+   "kind": "framework",
+   "security_grade": "unknown",
+   "language": "HTML",
+   "license": null
+  },
+  {
+   "repo_full_name": "mcieric/telegram-ai-bot-template",
+   "path": null,
+   "stars": 15,
+   "description": "A minimal AI-powered Telegram bot template using OpenAI 🤖",
+   "kind": "framework",
+   "security_grade": "unknown",
+   "language": "JavaScript",
+   "license": null
+  },
+  {
+   "repo_full_name": "TheOpenPrimary/giskard",
+   "path": null,
+   "stars": 11,
+   "description": "Open Source bot engine for Telegram bots and Facebook messenger bots",
+   "kind": "framework",
+   "security_grade": "unknown",
+   "language": "Ruby",
+   "license": "Apache-2.0"
+  },
+  {
+   "repo_full_name": "maratx86/aiogram-timepicker",
+   "path": null,
+   "stars": 11,
+   "description": "A simple inline time selection tool for aiogram telegram bots written in Python.",
+   "kind": "framework",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "BrainDAO/mcp-telegram",
+   "path": null,
+   "stars": 8,
+   "description": "Model Context Protocol Server for interacting with Telegram Channels",
+   "kind": "framework",
+   "security_grade": "unknown",
+   "language": "TypeScript",
+   "license": null
+  },
+  {
+   "repo_full_name": "habitual69/cutimagebg_bot",
+   "path": null,
+   "stars": 7,
+   "description": "Background Remover Bot. A Telegram bot that uses AI image processing to remove the background from images.",
+   "kind": "framework",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": null
+  },
+  {
+   "repo_full_name": "pengming273/TelegramAirdropBountyBot",
+   "path": null,
+   "stars": 7,
+   "description": "TelegramAirdropBountyBot",
+   "kind": "framework",
+   "security_grade": "unknown",
+   "language": "JavaScript",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "TgCaller/TgCaller",
+   "path": null,
+   "stars": 5,
+   "description": "An open-source library to handle high-quality group calls in Telegram bots.",
+   "kind": "framework",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "NOASSERTION"
+  },
+  {
+   "repo_full_name": "skrashevich/telegram-mock-ai",
+   "path": null,
+   "stars": 5,
+   "description": "Mock Telegram Bot API server with LLM-generated responses",
+   "kind": "framework",
+   "security_grade": "unknown",
+   "language": "Go",
+   "license": "Apache-2.0"
   },
   {
    "repo_full_name": "groupultra/telegram-search",
@@ -431,12 +1911,122 @@
    "license": "AGPL-3.0"
   },
   {
+   "repo_full_name": "SpEcHiDe/AnyDLBot",
+   "path": null,
+   "stars": 395,
+   "description": "An Open Source GPLv3 All-In-One Telegram Bot",
+   "kind": "utility",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "GPL-3.0"
+  },
+  {
+   "repo_full_name": "patheticGeek/torrent-aio-bot",
+   "path": null,
+   "stars": 328,
+   "description": "A bot for searching and downloading torrents easily with website and telegram bot",
+   "kind": "utility",
+   "security_grade": "unknown",
+   "language": "JavaScript",
+   "license": null
+  },
+  {
+   "repo_full_name": "Priler/samurai",
+   "path": null,
+   "stars": 305,
+   "description": "Simple, yet effective auto-moderator bot for Telegram. With reports, logs, profanity filter, anti-spam AI, NSFW detection AI and more :3",
+   "kind": "utility",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": null
+  },
+  {
+   "repo_full_name": "fabston/Telegram-Airdrop-Bot",
+   "path": null,
+   "stars": 215,
+   "description": "🎈 Manage your Telegram Airdrops on ERC-20, BEP-20 etc. tokens.",
+   "kind": "utility",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "akynazh/tg-search-bot",
+   "path": null,
+   "stars": 203,
+   "description": "A smart AI telegram bot for searching and auto-saving.",
+   "kind": "utility",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "GPL-3.0"
+  },
+  {
+   "repo_full_name": "TheCaduceus/FileStreamBot",
+   "path": null,
+   "stars": 133,
+   "description": "An open-source Python Telegram bot to transmit Telegram files over HTTP.",
+   "kind": "utility",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": null
+  },
+  {
+   "repo_full_name": "callsmusic/vcpb",
+   "path": null,
+   "stars": 121,
+   "description": "[UNMAINTAINED] The first voice chat-related Telegram bot to be open-sourced. Uses MPV and has queue, stream & YouTube support.",
+   "kind": "utility",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "AGPL-3.0"
+  },
+  {
+   "repo_full_name": "noob-mukesh/MukeshRobot",
+   "path": null,
+   "stars": 113,
+   "description": "An open source telegram group management and ai  bot written in python with the help of python-telegram-bot, telethon and pyrogram using sqlalchemy and mongodb as database.",
+   "kind": "utility",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "assimon/ai-anti-bot",
+   "path": null,
+   "stars": 108,
+   "description": "AI-based anti-advertising robot for Telegram(基于AI的telegram反垃圾广告机器人)",
+   "kind": "utility",
+   "security_grade": "unknown",
+   "language": "Go",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "joeseesun/AIGC_Telegram_Bot",
    "path": null,
    "stars": 101,
    "description": "编程新手用GPT4辅助开发的一个Telegram机器人，指定twitter ID，自动抓取推特消息并翻译成中文发给自己的Telegram账号。",
    "kind": "utility",
    "security_grade": "safe",
+   "language": "Python",
+   "license": "Apache-2.0"
+  },
+  {
+   "repo_full_name": "ruitunion-org/feedback-bot",
+   "path": null,
+   "stars": 65,
+   "description": "A free and open-source Telegram Bot that allows you to anonymously chat with multiple users in one Telegram Chat.",
+   "kind": "utility",
+   "security_grade": "unknown",
+   "language": "C#",
+   "license": "GPL-3.0"
+  },
+  {
+   "repo_full_name": "sliday/telegram-ai-digest",
+   "path": null,
+   "stars": 56,
+   "description": "Automates Telegram message digests using Claude AI for summaries and Replicate API for image generation, sending results to saved messages.",
+   "kind": "utility",
+   "security_grade": "unknown",
    "language": "Python",
    "license": "Apache-2.0"
   },
@@ -448,6 +2038,46 @@
    "kind": "utility",
    "security_grade": "safe",
    "language": "TypeScript",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "matterai/DataKitsune",
+   "path": null,
+   "stars": 55,
+   "description": "Introducing DataKitsune, an open-source Telegram bot designed to enhance the way you manage and retrieve links shared within your personal or group chats. By automatically indexing the content of these links, Data Kitsune allows you to efficiently search and access shared resources based on their content.​",
+   "kind": "utility",
+   "security_grade": "unknown",
+   "language": "TypeScript",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "LearningBotsOfficial/NomadeHelpBot",
+   "path": null,
+   "stars": 53,
+   "description": "🤖 Nomad — Advanced Telegram Group Manager Bot built with Pyrogram. Smart Anti-Spam, Adaptive Lock System, Inline UI, and full moderation suite. Open Source, but Credits Must Stay. No Resale or Rebranding Allowed.",
+   "kind": "utility",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "NOASSERTION"
+  },
+  {
+   "repo_full_name": "gth-ai/reclip-telegram-bot",
+   "path": null,
+   "stars": 53,
+   "description": "Self-hosted Telegram bot for downloading media from YouTube, TikTok, Instagram, and 1000+ sites. Powered by reclip + yt-dlp.",
+   "kind": "utility",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": null
+  },
+  {
+   "repo_full_name": "AI-XMLY/nodeseek-rss-telegram-bot",
+   "path": null,
+   "stars": 24,
+   "description": "RSS to Telegram bot with keyword filtering, multi-user subscriptions, SQLite and Docker support",
+   "kind": "utility",
+   "security_grade": "unknown",
+   "language": "Python",
    "license": "MIT"
   },
   {
@@ -471,6 +2101,136 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "bbharathbala/actual-budget-telegram-bot",
+   "path": null,
+   "stars": 17,
+   "description": "Telegram bot for household expense tracking with Actual Budget. No LLMs, no AI costs. Receipt scanning, auto-learning categories, tags, transfers, daily nudge.",
+   "kind": "utility",
+   "security_grade": "unknown",
+   "language": "JavaScript",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "sean-nicholas/parrot",
+   "path": null,
+   "stars": 13,
+   "description": "Telegram Bot for transcribing voice messages via wit.ai",
+   "kind": "utility",
+   "security_grade": "unknown",
+   "language": "JavaScript",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "AIOPrivacy/AIOPrivacyBot",
+   "path": null,
+   "stars": 12,
+   "description": "一个尝试在保护用户隐私的前提下，提供各类功能的类命令行Telegram机器人。",
+   "kind": "utility",
+   "security_grade": "unknown",
+   "language": "Go",
+   "license": "GPL-3.0"
+  },
+  {
+   "repo_full_name": "abirxdhack/Chat-ID-Bot-Aio",
+   "path": null,
+   "stars": 12,
+   "description": "The Chat ID Bot Aiogram is a Telegram bot built with Python and the @aiogram library. It allows users to quickly retrieve the unique IDs of Telegram entities (users, groups, channels, and bots) by sharing them through a user-friendly keyboard interface.",
+   "kind": "utility",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": null
+  },
+  {
+   "repo_full_name": "kyujin-cho/claude-code-remote",
+   "path": null,
+   "stars": 10,
+   "description": "Claude Code hook & Telegram Bot to notify user about active CC permission request and receive the decision via Telegram bot.",
+   "kind": "utility",
+   "security_grade": "unknown",
+   "language": "Rust",
+   "license": null
+  },
+  {
+   "repo_full_name": "Mr-SxR/Xmnit-range-forwarder-bot",
+   "path": null,
+   "stars": 9,
+   "description": "Telegram bot that polls a dashboard API and forwards OTP logs — Open Source | Mr-SxR",
+   "kind": "utility",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "pabletos/Hubot-Warframe",
+   "path": null,
+   "stars": 8,
+   "description": "A open source warframe bot for telegram",
+   "kind": "utility",
+   "security_grade": "unknown",
+   "language": "JavaScript",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "Kiryoko/claude-code-changelog-telegram-bot",
+   "path": null,
+   "stars": 6,
+   "description": null,
+   "kind": "utility",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": null
+  },
+  {
+   "repo_full_name": "jielosc/EigenDigest_bot",
+   "path": null,
+   "stars": 5,
+   "description": "Telegram 信息聚合机器人：定时从 RSS、新闻网站、微信公众号拉取内容，通过 LLM 生成摘要，每日推送。",
+   "kind": "utility",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "smurftyy/Whispr",
+   "path": null,
+   "stars": 5,
+   "description": "AI-powered Telegram reminder bot — NLP scheduling via chrono-node, Bull/Redis queue system, and smart notification management. Live.",
+   "kind": "utility",
+   "security_grade": "unknown",
+   "language": "JavaScript",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "xx0x0/video-transcript-bot",
+   "path": null,
+   "stars": 5,
+   "description": "Telegram bot that extracts transcripts from short-form video (Douyin, X/Twitter, YouTube, Bilibili) and summarises them with local AI — runs fully on your Mac, no cloud. | 抖音/X/YouTube/B站视频文案提取 Telegram Bot，本地运行",
+   "kind": "utility",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": null
+  },
+  {
+   "repo_full_name": "lmcsu/qq-neural-anime-tg",
+   "path": null,
+   "stars": 145,
+   "description": "A Telegram bot that converts your photos to 2D anime art via the new AI made by QQ",
+   "kind": "fun",
+   "security_grade": "unknown",
+   "language": "TypeScript",
+   "license": null
+  },
+  {
+   "repo_full_name": "PythonHubStudio/aiogram-3-course-telegram-bot",
+   "path": null,
+   "stars": 128,
+   "description": null,
+   "kind": "fun",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": null
+  },
+  {
    "repo_full_name": "LlmKira/Alice",
    "path": null,
    "stars": 94,
@@ -479,6 +2239,156 @@
    "security_grade": "caution",
    "language": "TypeScript",
    "license": null
+  },
+  {
+   "repo_full_name": "y9san9/prizebot",
+   "path": null,
+   "stars": 84,
+   "description": "Open source telegram bot to purely raffle prizes (giveaways) with random.org written in Kotlin",
+   "kind": "fun",
+   "security_grade": "unknown",
+   "language": "Kotlin",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "SWel1a/QuizBot",
+   "path": null,
+   "stars": 10,
+   "description": "Blossom the languagemaid is your personal language learning assistant on Telegram. ",
+   "kind": "fun",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "radyakaze/teleduckai",
+   "path": null,
+   "stars": 5,
+   "description": "A fun and experimental Telegram bot built using Deno, powered by Duck.ai",
+   "kind": "fun",
+   "security_grade": "unknown",
+   "language": "TypeScript",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "KEV0143/Telegram-MedicalBot",
+   "path": null,
+   "stars": 2109,
+   "description": "Система поддержки пользователей в Telegram: обработка пользовательских вопросов через тикет-систему и генерация ответов оператору как на основе базы знаний, так и с помощью AI.",
+   "kind": "business",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": null
+  },
+  {
+   "repo_full_name": "MiHaKun/Telegram-interactive-bot",
+   "path": null,
+   "stars": 367,
+   "description": "Telegram(电报/纸飞机)的开源双向机器人（客服机器人？）。避免垃圾信息；让被限制的客户可以顺利联系到你；支持后台分组，算是一个简易的CRM系统。Open-source interactive bot on Telegram. Avoid spam messages; allow restricted customers to contact you smoothly.Simple CRM system.",
+   "kind": "business",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "Apache-2.0"
+  },
+  {
+   "repo_full_name": "ilyarolf/AiogramShopBot",
+   "path": null,
+   "stars": 241,
+   "description": "Open-source Telegram e-commerce bot built with Aiogram 3 for selling digital and physical goods with crypto payments and referral system.",
+   "kind": "business",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "uerax/all-in-one-bot",
+   "path": null,
+   "stars": 185,
+   "description": "A Telegram-based DeFi tool for real-time on-chain data analysis, smart money tracking, and automated trade monitoring. Empowering users with open-source, actionable blockchain intelligence. // Telegram机器人一些自用功能,去中心化交易数据分析,聪明地址追踪, 分析和寻找",
+   "kind": "business",
+   "security_grade": "unknown",
+   "language": "Go",
+   "license": null
+  },
+  {
+   "repo_full_name": "trizin/Telegram-Airdrop-Bot",
+   "path": null,
+   "stars": 133,
+   "description": "Very simple telegram airdrop bot",
+   "kind": "business",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "ButaiKirin/MaiMaiBot",
+   "path": null,
+   "stars": 129,
+   "description": "A Telegram bot that calls the McDonald's MCP tools via Streamable HTTP.",
+   "kind": "business",
+   "security_grade": "unknown",
+   "language": "JavaScript",
+   "license": null
+  },
+  {
+   "repo_full_name": "bxdoan/airdrop-tools",
+   "path": null,
+   "stars": 110,
+   "description": "Airdrop tools for all telegram bot",
+   "kind": "business",
+   "security_grade": "unknown",
+   "language": "JavaScript",
+   "license": null
+  },
+  {
+   "repo_full_name": "guccidgi/AI-Stock-Technical-Analysis-n8n-x-FlowiseAI",
+   "path": null,
+   "stars": 75,
+   "description": "AI-powered stock analysis system: Telegram bot triggers n8n workflows with FlowiseAI to generate technical analysis reports. Stores trading opportunities in Airtable with earnings data and research. Automatically delivers updates to Telegram.",
+   "kind": "business",
+   "security_grade": "unknown",
+   "language": null,
+   "license": "NOASSERTION"
+  },
+  {
+   "repo_full_name": "FlipZ3ro/robinhood-lp-bot",
+   "path": null,
+   "stars": 64,
+   "description": "🐷 Telegram-controlled LP bot for Robinhood Chain — auto liquidity on Uniswap v2/v3/v4 (incl. USDG pairs) via KyberSwap best-route, with real-time Nitro sequencer feed, self-run honeypot tests, GMGN/LLM screening, and shareable profit cards.",
+   "kind": "business",
+   "security_grade": "unknown",
+   "language": "TypeScript",
+   "license": null
+  },
+  {
+   "repo_full_name": "kaiserern/Kaiser.charon",
+   "path": null,
+   "stars": 64,
+   "description": "Solana pump.fun trading bot — Telegram-driven screening, strategy gates, LLM entry selection, Jupiter execution. Fork of yunus-0x/charon.",
+   "kind": "business",
+   "security_grade": "unknown",
+   "language": "JavaScript",
+   "license": null
+  },
+  {
+   "repo_full_name": "SergiySW/NanoWalletBot",
+   "path": null,
+   "stars": 52,
+   "description": "[DISCONTINUED] Open source Telegram bot for Nano currency",
+   "kind": "business",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "BSD-3-Clause"
+  },
+  {
+   "repo_full_name": "Opselon/ForexTradingBot",
+   "path": null,
+   "stars": 48,
+   "description": "ForexSignalBot is an advanced, AI-driven Telegram bot meticulously engineered for the Forex market. It delivers real-time, high-precision trading signals, aggregates intelligent market news, and features an integrated auto-forwarder for seamless execution with trading clients. Built on .NET 9 with Clean Architecture and Domain-Driven Design",
+   "kind": "business",
+   "security_grade": "unknown",
+   "language": "C#",
+   "license": "MIT"
   },
   {
    "repo_full_name": "Kingler16/Velora",
@@ -491,6 +2401,106 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "JumpCodeFrog/telegram-shop-bot",
+   "path": null,
+   "stars": 19,
+   "description": "Open-source Telegram shop bot in Go — catalog, Stars & USDT payments, subscriptions, Mini App, admin panel · Telegram-магазин на Go — каталог, оплата Stars и USDT, подписки, Mini App и админ-панель",
+   "kind": "business",
+   "security_grade": "unknown",
+   "language": "Go",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "UzStack/paycue",
+   "path": null,
+   "stars": 14,
+   "description": "💳 Telegram va Humo bot orqali to‘lovlarni avtomatlashtirishga mo‘ljallangan open-source servis — yuridik shaxssiz ham tez va oson integratsiyasiz to‘lovlarni qabul qiling.",
+   "kind": "business",
+   "security_grade": "unknown",
+   "language": "JavaScript",
+   "license": null
+  },
+  {
+   "repo_full_name": "Awaisali36/stock-analysis-telegram-bot",
+   "path": null,
+   "stars": 13,
+   "description": "📈 Telegram bot that delivers comprehensive US stock analysis combining real-time technical data, AI-powered news sentiment, and fundamental metrics. Get dual-timeframe recommendations for day trading and long-term investing.",
+   "kind": "business",
+   "security_grade": "unknown",
+   "language": null,
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "siriusforex-ai/telegram_signal_copier",
+   "path": null,
+   "stars": 11,
+   "description": "Free AI-powered Telegram Signal Copier Bot — Monitors any Telegram signal channel, uses Claude AI to parse signals in any format, and automatically places trades on MetaTrader 5 with SL/TP in under 3 seconds. Supports market, limit, stop orders, multiple take profits, and close signals. Full source code, no subscriptions.",
+   "kind": "business",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": null
+  },
+  {
+   "repo_full_name": "TegroTON/ai-telegram-pay-miniapp",
+   "path": null,
+   "stars": 9,
+   "description": "Tegro.Money fiat-onramp helper for Telegram bots — createOrder + webhook verifier, MIT-licensed, grammY example included.",
+   "kind": "business",
+   "security_grade": "unknown",
+   "language": "TypeScript",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "omniores3/phpSearch",
+   "path": null,
+   "stars": 9,
+   "description": "Telegram搜索引擎,TG机器人,群组索引,电报搜索,Bot开发,Elasticsearch PHP,广告投放,AI审核,Swoole高性能,Redis缓存,社群工具,运营系统,搭建教程,二次开发,中文搜索",
+   "kind": "business",
+   "security_grade": "unknown",
+   "language": null,
+   "license": null
+  },
+  {
+   "repo_full_name": "BlackFoxGroup/smart-support-bot",
+   "path": null,
+   "stars": 8,
+   "description": "Smart Support Bot — open-source multilingual Telegram AI support bot",
+   "kind": "business",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": null
+  },
+  {
+   "repo_full_name": "Theraf1u/vps-multitest-bot",
+   "path": null,
+   "stars": 8,
+   "description": "Telegram-бот для диагностики VPS по SSH: 25 тестов (скорость, устойчивая нагрузка, UDP/QUIC-throttling, bufferbloat, IPv6, DNS-перехват, IP-репутация, гео/DPI-блокировки), PDF-отчёт с AI-анализом через OpenRouter. Данные сервера нигде не сохраняются и никуда не пересылаются — только память на время теста.",
+   "kind": "business",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": null
+  },
+  {
+   "repo_full_name": "Arash-Mansourpour/ultimate-crypto-trading-bot",
+   "path": null,
+   "stars": 6,
+   "description": "An advanced Telegram bot for cryptocurrency trading analysis, featuring multi-source data fetching, technical indicators (Heiken Ashi, Ichimoku, Fibonacci, etc.), on-chain metrics, social sentiment, and AI-powered signals with risk management.",
+   "kind": "business",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "Apache-2.0"
+  },
+  {
+   "repo_full_name": "Emadhabibnia1385/KasbBook",
+   "path": null,
+   "stars": 6,
+   "description": "KasbBook is an open-source project and Telegram bot for managing income, expenses and financial reports for small businesses.",
+   "kind": "business",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "mmchougule/stealth-trader",
    "path": null,
    "stars": 6,
@@ -499,6 +2509,36 @@
    "security_grade": "caution",
    "language": "TypeScript",
    "license": "NOASSERTION"
+  },
+  {
+   "repo_full_name": "sideshift/saier",
+   "path": null,
+   "stars": 6,
+   "description": "Cryptocurrency tipping bot for Telegram powered by SideShift.ai",
+   "kind": "business",
+   "security_grade": "unknown",
+   "language": "TypeScript",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "Kpavan63/telegram-bot-dash",
+   "path": null,
+   "stars": 5,
+   "description": "🤖 Welcome to AI Products Bot! 🤖  🌟 Your AI-powered shopping assistant! Find the latest Products From Amazon,Flipkart,Meesho  🔍 Search AI Products: Type the product name, and I’ll find the best matches. 🚀 Quick Ordering: Order AI products in seconds.",
+   "kind": "business",
+   "security_grade": "unknown",
+   "language": "JavaScript",
+   "license": "Apache-2.0"
+  },
+  {
+   "repo_full_name": "zooddd/tg-proxy-shop",
+   "path": null,
+   "stars": 5,
+   "description": "云海代理管理后台 YunHai Proxy Admin：开源 Telegram 代理自动售卖与多节点管理平台。机器人自助购买，SSH/Agent 自动部署 MTProto/SOCKS5 实例，Web 后台统一管理节点、套餐、用户、订单、代理与支付，含多渠道收款、全量审计与登录风控。An open-source Telegram proxy resale & multi-node admin panel: auto-sell bot, SSH/Agent auto node deployment, web console, multi payments and full audit. FastAPI + Vue3.",
+   "kind": "business",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "MIT"
   }
  ]
 }
