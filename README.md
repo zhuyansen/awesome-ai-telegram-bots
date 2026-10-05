@@ -2,7 +2,7 @@
 
 [中文](README.zh-CN.md)
 
-Open-source **Telegram bots built on AI**: GPT, Claude and local-model assistants, remote control for Claude Code and Codex, bot frameworks and MCP servers, utility, learning and business bots. 250 repos, each one read and security-graded by [Agent Skills Hub](https://agentskillshub.top?utm_source=github&utm_medium=awesome-list).
+Open-source **Telegram bots built on AI**: GPT, Claude and local-model assistants, remote control for Claude Code and Codex, bot frameworks and MCP servers, utility, learning and business bots. 249 repos, each one read and security-graded by [Agent Skills Hub](https://agentskillshub.top?utm_source=github&utm_medium=awesome-list).
 
 Live page with filters: **[https://agentskillshub.top/best/telegram-bot/](https://agentskillshub.top/best/telegram-bot/?utm_source=github&utm_medium=awesome-list)** · refreshed every 8 hours
 
@@ -10,7 +10,7 @@ Live page with filters: **[https://agentskillshub.top/best/telegram-bot/](https:
 
 <table>
 <tr>
-<td align="center" valign="top" width="33%"><b>💬 AI assistants</b><br><sub>93 repos</sub><br><br><sub>AI chat assistants in Telegram: GPT, Claude, Gemini, local models.</sub><br><a href="#type-assistant"><b>View the list →</b></a></td>
+<td align="center" valign="top" width="33%"><b>💬 AI assistants</b><br><sub>92 repos</sub><br><br><sub>AI chat assistants in Telegram: GPT, Claude, Gemini, local models.</sub><br><a href="#type-assistant"><b>View the list →</b></a></td>
 <td align="center" valign="top" width="33%"><b>🛰 Agent remote control</b><br><sub>63 repos</sub><br><br><sub>Control Claude Code, Codex or a computer from your phone.</sub><br><a href="#type-remote"><b>View the list →</b></a></td>
 <td align="center" valign="top" width="33%"><b>🧱 Frameworks & MCP</b><br><sub>30 repos</sub><br><br><sub>Libraries, templates and MCP servers for building bots.</sub><br><a href="#type-framework"><b>View the list →</b></a></td>
 </tr>
@@ -23,7 +23,7 @@ Live page with filters: **[https://agentskillshub.top/best/telegram-bot/](https:
 
 ## Contents
 
-- [💬 AI assistants](#type-assistant) (93)
+- [💬 AI assistants](#type-assistant) (92)
 - [🛰 Agent remote control](#type-remote) (63)
 - [🧱 Frameworks & MCP](#type-framework) (30)
 - [🧰 Utility bots](#type-utility) (31)
@@ -62,7 +62,6 @@ The questions are answered by a decision model reading each README, not by hand.
 | [14790897/tg-voice-ai](https://github.com/14790897/tg-voice-ai) | 254 | telegram voice chat ai bot with image generate | [*pending*](https://agentskillshub.top/skill/14790897/tg-voice-ai/?utm_source=github&utm_medium=awesome-list) |
 | [Helixform/TeleGPT](https://github.com/Helixform/TeleGPT) | 237 | An out-of-box ChatGPT bot for Telegram. | [*pending*](https://agentskillshub.top/skill/Helixform/TeleGPT/?utm_source=github&utm_medium=awesome-list) |
 | [tpai/summary-gpt-bot](https://github.com/tpai/summary-gpt-bot) | 234 | An AI-powered text summarization Telegram bot that generates concise summaries of text, URLs, PDFs, and YouTube videos. | [*pending*](https://agentskillshub.top/skill/tpai/summary-gpt-bot/?utm_source=github&utm_medium=awesome-list) |
-| [smixs/iva-agent](https://github.com/smixs/iva-agent) | 230 | AI assistant in Telegram that remembers everything and helps you run your life. Self-hosted in one command. | [SAFE](https://agentskillshub.top/skill/smixs/iva-agent/?utm_source=github&utm_medium=awesome-list) |
 | [smixs/iva-agent](https://github.com/smixs/iva-agent) | 230 | AI assistant in Telegram that remembers everything and helps you run your life. Self-hosted in one command. | [SAFE](https://agentskillshub.top/skill/smixs/iva-agent/?utm_source=github&utm_medium=awesome-list) |
 | [ciuzaak/Claude-Telegram-Bot](https://github.com/ciuzaak/Claude-Telegram-Bot) | 205 | Anthropic Claude & Google Bard Bot for Telegram. | [SAFE](https://agentskillshub.top/skill/ciuzaak/Claude-Telegram-Bot/?utm_source=github&utm_medium=awesome-list) |
 | [asukaminato0721/telegram-summary-bot](https://github.com/asukaminato0721/telegram-summary-bot) | 201 | Summarize group chat with AI, LLM && query group chat, FREE to deploy your own, support img, link meta info, reply to, auto fold result, 支持中文检索. | [*pending*](https://agentskillshub.top/skill/asukaminato0721/telegram-summary-bot/?utm_source=github&utm_medium=awesome-list) |
@@ -163,9 +162,9 @@ The questions are answered by a decision model reading each README, not by hand.
 | [k1p1l0/claude-telegram-supercharged](https://github.com/k1p1l0/claude-telegram-supercharged) | 128 | Run Claude Code 24/7 from Telegram. Drop-in upgrade for the official plugin: voice notes both ways, a self-healing daemon, memory across restarts, an… | [SAFE](https://agentskillshub.top/skill/k1p1l0/claude-telegram-supercharged/?utm_source=github&utm_medium=awesome-list) |
 | [kaida-palooza/ccpoke](https://github.com/kaida-palooza/ccpoke) | 103 | Bridge between AI coding agents and your phone — notifications, 2-way chat, permissions | [SAFE](https://agentskillshub.top/skill/kaida-palooza/ccpoke/?utm_source=github&utm_medium=awesome-list) |
 | [Ansh-Vortex/Vortex-Advance-RAT](https://github.com/Ansh-Vortex/Vortex-Advance-RAT) | 99 | Advance Open-Source RAT Builder Access via Telegram Bot with over 60+ commands | [*pending*](https://agentskillshub.top/skill/Ansh-Vortex/Vortex-Advance-RAT/?utm_source=github&utm_medium=awesome-list) |
-| [alhinawi/telegram-notifier](https://github.com/alhinawi/telegram-notifier) | 95 | Universal Telegram Notifier Plugin & Skill for AI Agents (Antigravity, Claude Code, Codex, Cursor, Windsurf) + Remote Control Setup | [SAFE](https://agentskillshub.top/skill/alhinawi/telegram-notifier/?utm_source=github&utm_medium=awesome-list) |
 | [gergomiklos/heyagent](https://github.com/gergomiklos/heyagent) | 94 | Telegram bridge for Claude Code and Codex CLI | [SAFE](https://agentskillshub.top/skill/gergomiklos/heyagent/?utm_source=github&utm_medium=awesome-list) |
 | [seedprod/openclaw-prompts-and-skills](https://github.com/seedprod/openclaw-prompts-and-skills) | 93 | Telegram bot that talks to headless Claude Code - proof of concept | [*pending*](https://agentskillshub.top/skill/seedprod/openclaw-prompts-and-skills/?utm_source=github&utm_medium=awesome-list) |
+| [alhinawi/telegram-notifier](https://github.com/alhinawi/telegram-notifier) | 92 | Universal Telegram Notifier Plugin & Skill for AI Agents (Antigravity, Claude Code, Codex, Cursor, Windsurf) + Remote Control Setup | [SAFE](https://agentskillshub.top/skill/alhinawi/telegram-notifier/?utm_source=github&utm_medium=awesome-list) |
 | [MaxMiksa/Tele-Bot](https://github.com/MaxMiksa/Tele-Bot) | 91 | A clean Bot running on your PC, interacting with you on Telegram via Claude or Codex. | [*pending*](https://agentskillshub.top/skill/MaxMiksa/Tele-Bot/?utm_source=github&utm_medium=awesome-list) |
 | [b1rdmania/ghostclaw](https://github.com/b1rdmania/ghostclaw) | 91 | an AI that lives on your computer and does stuff for you. Public beta. | [SAFE](https://agentskillshub.top/skill/b1rdmania/ghostclaw/?utm_source=github&utm_medium=awesome-list) |
 | [areweai/tsgram-mcp](https://github.com/areweai/tsgram-mcp) | 88 | TSGram - Telegram MCP Server for local Claude Code integration - debug and vibe code on the go! | [CAUTION](https://agentskillshub.top/skill/areweai/tsgram-mcp/?utm_source=github&utm_medium=awesome-list) |
@@ -258,7 +257,7 @@ The questions are answered by a decision model reading each README, not by hand.
 |---|---:|---|---|
 | [groupultra/telegram-search](https://github.com/groupultra/telegram-search) | 4.1k | 🔍 导出并模糊搜索 Telegram 聊天记录 \| Export and fuzzy search your Telegram chat history | [SAFE](https://agentskillshub.top/skill/groupultra/telegram-search/?utm_source=github&utm_medium=awesome-list) |
 | [SpEcHiDe/AnyDLBot](https://github.com/SpEcHiDe/AnyDLBot) | 395 | An Open Source GPLv3 All-In-One Telegram Bot | [*pending*](https://agentskillshub.top/skill/SpEcHiDe/AnyDLBot/?utm_source=github&utm_medium=awesome-list) |
-| [patheticGeek/torrent-aio-bot](https://github.com/patheticGeek/torrent-aio-bot) | 328 | A bot for searching and downloading torrents easily with website and telegram bot | [*pending*](https://agentskillshub.top/skill/patheticGeek/torrent-aio-bot/?utm_source=github&utm_medium=awesome-list) |
+| [patheticGeek/torrent-aio-bot](https://github.com/patheticGeek/torrent-aio-bot) | 329 | A bot for searching and downloading torrents easily with website and telegram bot | [*pending*](https://agentskillshub.top/skill/patheticGeek/torrent-aio-bot/?utm_source=github&utm_medium=awesome-list) |
 | [Priler/samurai](https://github.com/Priler/samurai) | 305 | Simple, yet effective auto-moderator bot for Telegram. With reports, logs, profanity filter, anti-spam AI, NSFW detection AI and more :3 | [*pending*](https://agentskillshub.top/skill/Priler/samurai/?utm_source=github&utm_medium=awesome-list) |
 | [fabston/Telegram-Airdrop-Bot](https://github.com/fabston/Telegram-Airdrop-Bot) | 215 | 🎈 Manage your Telegram Airdrops on ERC-20, BEP-20 etc. tokens. | [*pending*](https://agentskillshub.top/skill/fabston/Telegram-Airdrop-Bot/?utm_source=github&utm_medium=awesome-list) |
 | [akynazh/tg-search-bot](https://github.com/akynazh/tg-search-bot) | 203 | A smart AI telegram bot for searching and auto-saving. | [*pending*](https://agentskillshub.top/skill/akynazh/tg-search-bot/?utm_source=github&utm_medium=awesome-list) |
@@ -295,7 +294,7 @@ The questions are answered by a decision model reading each README, not by hand.
 
 | Repo | Stars | What it does | Security |
 |---|---:|---|---|
-| [lmcsu/qq-neural-anime-tg](https://github.com/lmcsu/qq-neural-anime-tg) | 145 | A Telegram bot that converts your photos to 2D anime art via the new AI made by QQ | [*pending*](https://agentskillshub.top/skill/lmcsu/qq-neural-anime-tg/?utm_source=github&utm_medium=awesome-list) |
+| [lmcsu/qq-neural-anime-tg](https://github.com/lmcsu/qq-neural-anime-tg) | 144 | A Telegram bot that converts your photos to 2D anime art via the new AI made by QQ | [*pending*](https://agentskillshub.top/skill/lmcsu/qq-neural-anime-tg/?utm_source=github&utm_medium=awesome-list) |
 | [PythonHubStudio/aiogram-3-course-telegram-bot](https://github.com/PythonHubStudio/aiogram-3-course-telegram-bot) | 128 |  | [*pending*](https://agentskillshub.top/skill/PythonHubStudio/aiogram-3-course-telegram-bot/?utm_source=github&utm_medium=awesome-list) |
 | [LlmKira/Alice](https://github.com/LlmKira/Alice) | 94 | ✨ An autonomous digital companion — pressure field engine + Telegram userbot / Infinite Axis Utility Systems | [CAUTION](https://agentskillshub.top/skill/LlmKira/Alice/?utm_source=github&utm_medium=awesome-list) |
 | [y9san9/prizebot](https://github.com/y9san9/prizebot) | 84 | Open source telegram bot to purely raffle prizes (giveaways) with random.org written in Kotlin | [*pending*](https://agentskillshub.top/skill/y9san9/prizebot/?utm_source=github&utm_medium=awesome-list) |
@@ -314,7 +313,7 @@ The questions are answered by a decision model reading each README, not by hand.
 | [ilyarolf/AiogramShopBot](https://github.com/ilyarolf/AiogramShopBot) | 241 | Open-source Telegram e-commerce bot built with Aiogram 3 for selling digital and physical goods with crypto payments and referral system. | [*pending*](https://agentskillshub.top/skill/ilyarolf/AiogramShopBot/?utm_source=github&utm_medium=awesome-list) |
 | [uerax/all-in-one-bot](https://github.com/uerax/all-in-one-bot) | 185 | A Telegram-based DeFi tool for real-time on-chain data analysis, smart money tracking, and automated trade monitoring. Empowering users with open-sou… | [*pending*](https://agentskillshub.top/skill/uerax/all-in-one-bot/?utm_source=github&utm_medium=awesome-list) |
 | [trizin/Telegram-Airdrop-Bot](https://github.com/trizin/Telegram-Airdrop-Bot) | 133 | Very simple telegram airdrop bot | [*pending*](https://agentskillshub.top/skill/trizin/Telegram-Airdrop-Bot/?utm_source=github&utm_medium=awesome-list) |
-| [ButaiKirin/MaiMaiBot](https://github.com/ButaiKirin/MaiMaiBot) | 129 | A Telegram bot that calls the McDonald's MCP tools via Streamable HTTP. | [*pending*](https://agentskillshub.top/skill/ButaiKirin/MaiMaiBot/?utm_source=github&utm_medium=awesome-list) |
+| [ButaiKirin/MaiMaiBot](https://github.com/ButaiKirin/MaiMaiBot) | 128 | A Telegram bot that calls the McDonald's MCP tools via Streamable HTTP. | [*pending*](https://agentskillshub.top/skill/ButaiKirin/MaiMaiBot/?utm_source=github&utm_medium=awesome-list) |
 | [bxdoan/airdrop-tools](https://github.com/bxdoan/airdrop-tools) | 110 | Airdrop tools for all telegram bot | [*pending*](https://agentskillshub.top/skill/bxdoan/airdrop-tools/?utm_source=github&utm_medium=awesome-list) |
 | [guccidgi/AI-Stock-Technical-Analysis-n8n-x-FlowiseAI](https://github.com/guccidgi/AI-Stock-Technical-Analysis-n8n-x-FlowiseAI) | 75 | AI-powered stock analysis system: Telegram bot triggers n8n workflows with FlowiseAI to generate technical analysis reports. Stores trading opportuni… | [*pending*](https://agentskillshub.top/skill/guccidgi/AI-Stock-Technical-Analysis-n8n-x-FlowiseAI/?utm_source=github&utm_medium=awesome-list) |
 | [FlipZ3ro/robinhood-lp-bot](https://github.com/FlipZ3ro/robinhood-lp-bot) | 64 | 🐷 Telegram-controlled LP bot for Robinhood Chain — auto liquidity on Uniswap v2/v3/v4 (incl. USDG pairs) via KyberSwap best-route, with real-time Nit… | [*pending*](https://agentskillshub.top/skill/FlipZ3ro/robinhood-lp-bot/?utm_source=github&utm_medium=awesome-list) |

@@ -211,16 +211,6 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "smixs/iva-agent",
-   "path": null,
-   "stars": 230,
-   "description": "AI assistant in Telegram that remembers everything and helps you run your life. Self-hosted in one command.",
-   "kind": "assistant",
-   "security_grade": "safe",
-   "language": "TypeScript",
-   "license": "MIT"
-  },
-  {
    "repo_full_name": "ciuzaak/Claude-Telegram-Bot",
    "path": null,
    "stars": 205,
@@ -973,7 +963,7 @@
   {
    "repo_full_name": "overwirehq/claude-code-telegram",
    "path": null,
-   "stars": 2799,
+   "stars": 2800,
    "description": "A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence.",
    "kind": "remote",
    "security_grade": "unknown",
@@ -1131,16 +1121,6 @@
    "license": null
   },
   {
-   "repo_full_name": "alhinawi/telegram-notifier",
-   "path": null,
-   "stars": 95,
-   "description": "Universal Telegram Notifier Plugin & Skill for AI Agents (Antigravity, Claude Code, Codex, Cursor, Windsurf) + Remote Control Setup",
-   "kind": "remote",
-   "security_grade": "safe",
-   "language": "JavaScript",
-   "license": "MIT"
-  },
-  {
    "repo_full_name": "gergomiklos/heyagent",
    "path": null,
    "stars": 94,
@@ -1159,6 +1139,16 @@
    "security_grade": "unknown",
    "language": "Python",
    "license": null
+  },
+  {
+   "repo_full_name": "alhinawi/telegram-notifier",
+   "path": null,
+   "stars": 92,
+   "description": "Universal Telegram Notifier Plugin & Skill for AI Agents (Antigravity, Claude Code, Codex, Cursor, Windsurf) + Remote Control Setup",
+   "kind": "remote",
+   "security_grade": "safe",
+   "language": "JavaScript",
+   "license": "MIT"
   },
   {
    "repo_full_name": "MaxMiksa/Tele-Bot",
@@ -1613,7 +1603,7 @@
   {
    "repo_full_name": "chigwell/telegram-mcp",
    "path": null,
-   "stars": 1760,
+   "stars": 1768,
    "description": "Telegram MCP server powered by Telethon to let MCP clients read chats, manage groups, and send/modify messages, media, contacts, and settings.",
    "kind": "framework",
    "security_grade": "safe",
@@ -1903,7 +1893,7 @@
   {
    "repo_full_name": "groupultra/telegram-search",
    "path": null,
-   "stars": 4114,
+   "stars": 4115,
    "description": "🔍 导出并模糊搜索 Telegram 聊天记录 | Export and fuzzy search your Telegram chat history",
    "kind": "utility",
    "security_grade": "safe",
@@ -1923,7 +1913,7 @@
   {
    "repo_full_name": "patheticGeek/torrent-aio-bot",
    "path": null,
-   "stars": 328,
+   "stars": 329,
    "description": "A bot for searching and downloading torrents easily with website and telegram bot",
    "kind": "utility",
    "security_grade": "unknown",
@@ -2213,7 +2203,7 @@
   {
    "repo_full_name": "lmcsu/qq-neural-anime-tg",
    "path": null,
-   "stars": 145,
+   "stars": 144,
    "description": "A Telegram bot that converts your photos to 2D anime art via the new AI made by QQ",
    "kind": "fun",
    "security_grade": "unknown",
@@ -2323,7 +2313,7 @@
   {
    "repo_full_name": "ButaiKirin/MaiMaiBot",
    "path": null,
-   "stars": 129,
+   "stars": 128,
    "description": "A Telegram bot that calls the McDonald's MCP tools via Streamable HTTP.",
    "kind": "business",
    "security_grade": "unknown",
