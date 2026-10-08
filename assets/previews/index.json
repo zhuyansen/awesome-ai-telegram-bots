@@ -1,1 +1,12 @@
-{}
+{
+ "HNF-FRN/Reel-watcher-telegram-Agent": {
+  "repo": "HNF-FRN/Reel-watcher-telegram-Agent",
+  "url": "https://raw.githubusercontent.com/HNF-FRN/Reel-watcher-telegram-Agent/HEAD/docs/assets/chat-demo.gif",
+  "alt": "A Telegram conversation playing out: a reel link, the bot",
+  "score": 4.65,
+  "type": "image/gif",
+  "bytes": 46291,
+  "file": "HNF-FRN__Reel-watcher-telegram-Agent.gif",
+  "still": "HNF-FRN__Reel-watcher-telegram-Agent.jpg"
+ }
+}

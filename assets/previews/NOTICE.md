@@ -6,3 +6,4 @@ authors and stay under the license of the project they come from. To have one re
 
 | File | Project | License | Original |
 |---|---|---|---|
+| `HNF-FRN__Reel-watcher-telegram-Agent.gif` | [HNF-FRN/Reel-watcher-telegram-Agent](https://github.com/HNF-FRN/Reel-watcher-telegram-Agent) | MIT | [source](https://raw.githubusercontent.com/HNF-FRN/Reel-watcher-telegram-Agent/HEAD/docs/assets/chat-demo.gif) |
