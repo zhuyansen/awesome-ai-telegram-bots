@@ -1,4 +1,14 @@
 {
+ "EvilFreelancer/tgfake": {
+  "repo": "EvilFreelancer/tgfake",
+  "url": "https://raw.githubusercontent.com/EvilFreelancer/tgfake/HEAD/docs/assets/chat-page.png",
+  "alt": "The chat page: the person's side of the conversation on the left, the bot's keyb",
+  "score": -2.5,
+  "type": "image/png",
+  "bytes": 85710,
+  "file": "EvilFreelancer__tgfake.jpg",
+  "still": "EvilFreelancer__tgfake.jpg"
+ },
  "HNF-FRN/Reel-watcher-telegram-Agent": {
   "repo": "HNF-FRN/Reel-watcher-telegram-Agent",
   "url": "https://raw.githubusercontent.com/HNF-FRN/Reel-watcher-telegram-Agent/HEAD/docs/assets/chat-demo.gif",
