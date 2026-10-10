@@ -6,6 +6,24 @@
 
 带类型筛选的在线页面:**[https://agentskillshub.top/best/telegram-bot/](https://agentskillshub.top/best/telegram-bot/?utm_source=github&utm_medium=awesome-list)** · 每 8 小时刷新
 
+## 到底跑哪个
+
+我们读了其中 20 个 bot 的源码:它为谁服务,能在你机器上做什么。结论如下,[完整审计](#tested)在下面。
+
+- 🥇 **想用手机遥控 Claude Code: [ccgram](https://github.com/alexei-led/ccgram)**  
+  14 个里只有两个同时做到：不填你的 Telegram ID 就拒绝启动，并且把 Claude 的权限确认发到 Telegram 让你点，所以危险命令仍然要等你同意。另一个是它的前身 six-ddc/ccbot；ccgram 本周还有提交，ccbot 最后一次提交在 7 月。
+- 🥈 **你用的是 OpenCode: [opencode-telegram-bot](https://github.com/grinev/opencode-telegram-bot)**  
+  只认一个 Telegram 用户 ID，不填就不启动。OpenCode 请求权限时，它在聊天里给你「允许 / 拒绝」按钮；多久问一次取决于你的 OpenCode 配置。
+- 🥉 **只想要一个 AI 聊天 bot: [ChatGPT-Telegram-Workers](https://github.com/tbxark/ChatGPT-Telegram-Workers)**  
+  这里唯一默认拒绝的热门聊天 bot：只回应管理员和你加进去的 ID。它跑在 Cloudflare Workers 上，没有你自己的服务器可被攻破。记得同时设 TELEGRAM_SECRET_TOKEN。
+
+**别按默认配置直接跑:** claudecode-telegram (完全没有访问控制，Claude 跳过权限确认，webhook 还监听所有网卡); claude-telegram-relay (漏填一个变量它也照常启动，并对所有人开放); claude-code-telegram (星数最高的一个；白名单为空且没设 ENVIRONMENT=production 时放所有人进来).
+
+不管选哪个：14 个 agent 类 bot 里有 9 个跳过权限确认，白名单就是唯一一道锁。谁控制了你的 Telegram 账号，谁就拿到那台机器的 shell。给 Telegram 开两步验证，并让 bot 跑在单独的系统用户或容器里。
+
+*排名规则：先看没设白名单时 bot 怎么做，再看（对能指挥编码 agent 的 bot）一条消息到一条命令之间隔着什么，最后看 GitHub 星数。结论来自各证据页所标 commit 的源码，没有实际运行。*
+
+
 ## 这些机器人长什么样
 
 <table>
@@ -23,6 +41,7 @@
 
 ## 目录
 
+- [🧪 源码审计](#tested)
 - [💬 AI 聊天助手](#type-assistant) (92)
 - [🛰 远程操控 Agent](#type-remote) (65)
 - [🧱 框架与 MCP](#type-framework) (31)
@@ -38,6 +57,45 @@
 4. 50 星及以上只看是否切题;50 星以下还要过 README 质量线(展示效果、一条命令上手、说清产出、文档完整),并且至少 5 星。
 
 这些问题由决策模型逐个读 README 回答,不是人工挑选。卡在线上的仓库可能判到任一边,归错了请提 issue。
+
+<a id="tested"></a>
+## 🧪 源码审计
+
+2026-10-10 我们读了其中 20 个 bot 的源码。bot 要有 BotFather token 才能跑，所以这是读代码，不是实跑：每个 bot 在你没设白名单时为谁服务；对能指挥编码 agent 的 bot，还看一条 Telegram 消息到你机器上的一条命令之间隔着什么。每个结论都标了文件和行号；所有「任何人可用」都人工复读过。
+
+**发现:** 14 个 agent 类 bot 里 10 个在你填 ID 之前谁都不服务，但有 9 个让 agent 跳过权限确认，于是白名单成了唯一一道锁。6 个聊天 bot 里 4 个默认对所有人开放。没有仓库提交了真实的 bot token。
+
+### 能在你机器上指挥编码 agent 的 bot（14 个）
+
+| # | Bot | ★ | 没设白名单时 | agent 动手之前 | 要检查的设置 |  |
+|---|---|---|---|---|---|---|
+| 1 | [opencode-telegram-bot](https://github.com/grinev/opencode-telegram-bot) | 1,234 | 谁都不服务 | agent 的确认发到 Telegram | TELEGRAM_ALLOWED_USER_ID (required) | [证据](https://agentskillshub.top/best-runs/telegram/grinev__opencode-telegram-bot.html) |
+| 2 | [ccgram](https://github.com/alexei-led/ccgram) | 277 | 谁都不服务 | 权限确认发到 Telegram | ALLOWED_USERS (required) | [证据](https://agentskillshub.top/best-runs/telegram/alexei-led__ccgram.html) |
+| 3 | [ccbot](https://github.com/six-ddc/ccbot) | 276 | 谁都不服务 | 权限确认发到 Telegram | ALLOWED_USERS (required) | [证据](https://agentskillshub.top/best-runs/telegram/six-ddc__ccbot.html) |
+| 4 | [takopi](https://github.com/banteg/takopi) | 1,049 | 谁都不服务 | 跳过权限确认直接执行 | chat_id (required); allowed_user_ids for groups | [证据](https://agentskillshub.top/best-runs/telegram/banteg__takopi.html) |
+| 5 | [flock](https://github.com/duckbugio/flock) | 502 | 谁都不服务 | 跳过权限确认直接执行 | ALLOWED_USERS | [证据](https://agentskillshub.top/best-runs/telegram/duckbugio__flock.html) |
+| 6 | [ductor](https://github.com/PleasePrompto/ductor) | 457 | 谁都不服务 | 跳过权限确认直接执行 | allowed_user_ids (required) | [证据](https://agentskillshub.top/best-runs/telegram/PleasePrompto__ductor.html) |
+| 7 | [claude-telegram-bot](https://github.com/linuz90/claude-telegram-bot) | 448 | 谁都不服务 | 跳过权限确认直接执行 | TELEGRAM_ALLOWED_USERS (required) | [证据](https://agentskillshub.top/best-runs/telegram/linuz90__claude-telegram-bot.html) |
+| 8 | [agent-second-brain](https://github.com/smixs/agent-second-brain) | 391 | 谁都不服务 | 跳过权限确认直接执行 | ALLOWED_USER_IDS | [证据](https://agentskillshub.top/best-runs/telegram/smixs__agent-second-brain.html) |
+| 9 | [antigravity-telegram-suite](https://github.com/emreturkmencom/antigravity-telegram-suite) | 172 | 谁都不服务 | 跳过权限确认直接执行 | ALLOWED_CHAT_ID (required) | [证据](https://agentskillshub.top/best-runs/telegram/emreturkmencom__antigravity-telegram-suite.html) |
+| 10 | [claudegram](https://github.com/NachoSEO/claudegram) | 153 | 谁都不服务 | 跳过权限确认直接执行 | ALLOWED_USER_IDS (required) | [证据](https://agentskillshub.top/best-runs/telegram/NachoSEO__claudegram.html) |
+| 11 | [claudeclaw](https://github.com/earlyaidopters/claudeclaw) | 173 | 部分命令对所有人开放 | 跳过权限确认直接执行 | ALLOWED_CHAT_ID | [证据](https://agentskillshub.top/best-runs/telegram/earlyaidopters__claudeclaw.html) |
+| 12 | [claude-code-telegram](https://github.com/overwirehq/claude-code-telegram) | 2,802 | 任何人可用 | 不确认；限制在一个目录内 | ALLOWED_USERS, and ENVIRONMENT=production | [证据](https://agentskillshub.top/best-runs/telegram/overwirehq__claude-code-telegram.html) |
+| 13 | [claude-telegram-relay](https://github.com/godagoo/claude-telegram-relay) | 326 | 任何人可用 | 取决于你本机 Claude Code 的设置 | TELEGRAM_USER_ID | [证据](https://agentskillshub.top/best-runs/telegram/godagoo__claude-telegram-relay.html) |
+| 14 | [claudecode-telegram](https://github.com/hanxiao/claudecode-telegram) | 608 | 任何人可用，且没有开关 | 跳过权限确认直接执行 | none exists | [证据](https://agentskillshub.top/best-runs/telegram/hanxiao__claudecode-telegram.html) |
+
+### 纯聊天 bot（6 个）
+
+| # | Bot | ★ | 没设白名单时 | 要检查的设置 |  |
+|---|---|---|---|---|---|
+| 1 | [ChatGPT-Telegram-Workers](https://github.com/tbxark/ChatGPT-Telegram-Workers) | 3,808 | 谁都不服务 | allowedUserIds (deny by default) | [证据](https://agentskillshub.top/best-runs/telegram/tbxark__ChatGPT-Telegram-Workers.html) |
+| 2 | [chatGPT-telegram-bot](https://github.com/altryne/chatGPT-telegram-bot) | 1,637 | 谁都不服务 | TELEGRAM_USER_ID (required) | [证据](https://agentskillshub.top/best-runs/telegram/altryne__chatGPT-telegram-bot.html) |
+| 3 | [chatgpt_telegram_bot](https://github.com/father-bot/chatgpt_telegram_bot) | 5,537 | 任何人可用 | allowed_telegram_usernames | [证据](https://agentskillshub.top/best-runs/telegram/father-bot__chatgpt_telegram_bot.html) |
+| 4 | [ChatGPT-Telegram-Bot](https://github.com/yym68686/ChatGPT-Telegram-Bot) | 1,290 | 任何人可用 | whitelist, ADMIN_LIST | [证据](https://agentskillshub.top/best-runs/telegram/yym68686__ChatGPT-Telegram-Bot.html) |
+| 5 | [ChatGPT-Telegram-Bot](https://github.com/V-know/ChatGPT-Telegram-Bot) | 649 | 任何人可用，且没有开关 | none exists (rate limits only) | [证据](https://agentskillshub.top/best-runs/telegram/V-know__ChatGPT-Telegram-Bot.html) |
+| 6 | [gpt2bot](https://github.com/polakowo/gpt2bot) | 442 | 任何人可用，且没有开关 | none exists | [证据](https://agentskillshub.top/best-runs/telegram/polakowo__gpt2bot.html) |
+
+[全部结果、提示词和脚本](https://github.com/zhuyansen/agent-skills-hub/blob/main/ops/telegram-audit/RESULTS.md) · [https://agentskillshub.top/best/telegram-bot/#test-results](https://agentskillshub.top/best/telegram-bot/?utm_source=github&utm_medium=awesome-list&utm_campaign=awesome-ai-telegram-bots#test-results)
 
 <a id="type-assistant"></a>
 ## 💬 AI 聊天助手

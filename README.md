@@ -6,6 +6,24 @@ Open-source **Telegram bots built on AI**: GPT, Claude and local-model assistant
 
 Live page with filters: **[https://agentskillshub.top/best/telegram-bot/](https://agentskillshub.top/best/telegram-bot/?utm_source=github&utm_medium=awesome-list)** · refreshed every 8 hours
 
+## Which one to run
+
+We read the source of 20 of these bots: who each one serves, and what it can do on your machine. This is what we would pick; the [full audit](#tested) is below.
+
+- 🥇 **To drive Claude Code from your phone: [ccgram](https://github.com/alexei-led/ccgram)**  
+  One of two bots of 14 that both refuse to start without your Telegram ID and send Claude's permission prompts to you in Telegram, so a risky command still waits for your tap. The other is six-ddc/ccbot, which it grew out of; ccgram had commits this week, ccbot's last was in July.
+- 🥈 **If your agent is OpenCode: [opencode-telegram-bot](https://github.com/grinev/opencode-telegram-bot)**  
+  Locked to exactly one Telegram user ID and will not start without it. When OpenCode asks for permission it shows Allow and Reject buttons in the chat; how often it asks is your OpenCode config.
+- 🥉 **If you only want an AI chat bot: [ChatGPT-Telegram-Workers](https://github.com/tbxark/ChatGPT-Telegram-Workers)**  
+  The only popular chat bot here that denies by default: it answers the admin and the IDs you add, nobody else. It runs on Cloudflare Workers, so there is no server of yours to break into. Set TELEGRAM_SECRET_TOKEN as well.
+
+**Do not run as shipped:** claudecode-telegram (no access check at all, Claude runs with permissions skipped, and the webhook listens on every interface); claude-telegram-relay (forget one variable and it starts anyway, serving anyone); claude-code-telegram (the most-starred one; with an empty allowlist it lets everyone in unless ENVIRONMENT=production).
+
+Whichever you pick: 9 of the 14 agent bots run with permission prompts off, so the allowlist is the only lock. Whoever controls your Telegram account then has a shell on that machine. Turn on Telegram two-step verification, and run the bot as its own user or in a container.
+
+*Ranked by what the bot does when no allowlist is set, then (for bots that drive a coding agent) by what stands between a message and a command, then GitHub stars. Read from the source at the commit on each evidence page; nothing was run.*
+
+
 ## What these bots look like
 
 <table>
@@ -23,6 +41,7 @@ Live page with filters: **[https://agentskillshub.top/best/telegram-bot/](https:
 
 ## Contents
 
+- [🧪 Source audit](#tested)
 - [💬 AI assistants](#type-assistant) (92)
 - [🛰 Agent remote control](#type-remote) (65)
 - [🧱 Frameworks & MCP](#type-framework) (31)
@@ -38,6 +57,45 @@ Live page with filters: **[https://agentskillshub.top/best/telegram-bot/](https:
 4. At 50 stars or more it is listed on topic alone. Under 50 it must also clear a README quality bar (shows it working, one-command start, a concrete outcome, complete docs), and have 5 stars.
 
 The questions are answered by a decision model reading each README, not by hand. A repo near a cut-off can land on either side; open an issue if one is misfiled.
+
+<a id="tested"></a>
+## 🧪 Source audit
+
+On 2026-10-10 we read the source of 20 of these bots. A bot needs a BotFather token to run, so this is a reading, not a run: for each one, who it serves when you set no allowlist, and for bots that drive a coding agent, what stands between a Telegram message and a command on your machine. Every answer cites its file and line; every "serves anyone" was re-read by hand.
+
+**What we found:** 10 of 14 agent bots serve nobody until you list your ID, but 9 of 14 run the agent with permission prompts off, so that list is the only lock. 4 of 6 chat bots answer anyone by default. No repository had a real bot token committed.
+
+### Bots that drive a coding agent on your machine (14)
+
+| # | Bot | ★ | With no allowlist set | Before the agent acts | Setting to check |  |
+|---|---|---|---|---|---|---|
+| 1 | [opencode-telegram-bot](https://github.com/grinev/opencode-telegram-bot) | 1,234 | Serves nobody | Agent's own prompts sent to Telegram | TELEGRAM_ALLOWED_USER_ID (required) | [evidence](https://agentskillshub.top/best-runs/telegram/grinev__opencode-telegram-bot.html) |
+| 2 | [ccgram](https://github.com/alexei-led/ccgram) | 277 | Serves nobody | Permission prompts sent to Telegram | ALLOWED_USERS (required) | [evidence](https://agentskillshub.top/best-runs/telegram/alexei-led__ccgram.html) |
+| 3 | [ccbot](https://github.com/six-ddc/ccbot) | 276 | Serves nobody | Permission prompts sent to Telegram | ALLOWED_USERS (required) | [evidence](https://agentskillshub.top/best-runs/telegram/six-ddc__ccbot.html) |
+| 4 | [takopi](https://github.com/banteg/takopi) | 1,049 | Serves nobody | Runs with permission prompts off | chat_id (required); allowed_user_ids for groups | [evidence](https://agentskillshub.top/best-runs/telegram/banteg__takopi.html) |
+| 5 | [flock](https://github.com/duckbugio/flock) | 502 | Serves nobody | Runs with permission prompts off | ALLOWED_USERS | [evidence](https://agentskillshub.top/best-runs/telegram/duckbugio__flock.html) |
+| 6 | [ductor](https://github.com/PleasePrompto/ductor) | 457 | Serves nobody | Runs with permission prompts off | allowed_user_ids (required) | [evidence](https://agentskillshub.top/best-runs/telegram/PleasePrompto__ductor.html) |
+| 7 | [claude-telegram-bot](https://github.com/linuz90/claude-telegram-bot) | 448 | Serves nobody | Runs with permission prompts off | TELEGRAM_ALLOWED_USERS (required) | [evidence](https://agentskillshub.top/best-runs/telegram/linuz90__claude-telegram-bot.html) |
+| 8 | [agent-second-brain](https://github.com/smixs/agent-second-brain) | 391 | Serves nobody | Runs with permission prompts off | ALLOWED_USER_IDS | [evidence](https://agentskillshub.top/best-runs/telegram/smixs__agent-second-brain.html) |
+| 9 | [antigravity-telegram-suite](https://github.com/emreturkmencom/antigravity-telegram-suite) | 172 | Serves nobody | Runs with permission prompts off | ALLOWED_CHAT_ID (required) | [evidence](https://agentskillshub.top/best-runs/telegram/emreturkmencom__antigravity-telegram-suite.html) |
+| 10 | [claudegram](https://github.com/NachoSEO/claudegram) | 153 | Serves nobody | Runs with permission prompts off | ALLOWED_USER_IDS (required) | [evidence](https://agentskillshub.top/best-runs/telegram/NachoSEO__claudegram.html) |
+| 11 | [claudeclaw](https://github.com/earlyaidopters/claudeclaw) | 173 | Side commands open to anyone | Runs with permission prompts off | ALLOWED_CHAT_ID | [evidence](https://agentskillshub.top/best-runs/telegram/earlyaidopters__claudeclaw.html) |
+| 12 | [claude-code-telegram](https://github.com/overwirehq/claude-code-telegram) | 2,802 | Serves anyone | No prompts; kept to one directory | ALLOWED_USERS, and ENVIRONMENT=production | [evidence](https://agentskillshub.top/best-runs/telegram/overwirehq__claude-code-telegram.html) |
+| 13 | [claude-telegram-relay](https://github.com/godagoo/claude-telegram-relay) | 326 | Serves anyone | Depends on your Claude Code settings | TELEGRAM_USER_ID | [evidence](https://agentskillshub.top/best-runs/telegram/godagoo__claude-telegram-relay.html) |
+| 14 | [claudecode-telegram](https://github.com/hanxiao/claudecode-telegram) | 608 | Serves anyone, no setting to change it | Runs with permission prompts off | none exists | [evidence](https://agentskillshub.top/best-runs/telegram/hanxiao__claudecode-telegram.html) |
+
+### Chat-only bots (6)
+
+| # | Bot | ★ | With no allowlist set | Setting to check |  |
+|---|---|---|---|---|---|
+| 1 | [ChatGPT-Telegram-Workers](https://github.com/tbxark/ChatGPT-Telegram-Workers) | 3,808 | Serves nobody | allowedUserIds (deny by default) | [evidence](https://agentskillshub.top/best-runs/telegram/tbxark__ChatGPT-Telegram-Workers.html) |
+| 2 | [chatGPT-telegram-bot](https://github.com/altryne/chatGPT-telegram-bot) | 1,637 | Serves nobody | TELEGRAM_USER_ID (required) | [evidence](https://agentskillshub.top/best-runs/telegram/altryne__chatGPT-telegram-bot.html) |
+| 3 | [chatgpt_telegram_bot](https://github.com/father-bot/chatgpt_telegram_bot) | 5,537 | Serves anyone | allowed_telegram_usernames | [evidence](https://agentskillshub.top/best-runs/telegram/father-bot__chatgpt_telegram_bot.html) |
+| 4 | [ChatGPT-Telegram-Bot](https://github.com/yym68686/ChatGPT-Telegram-Bot) | 1,290 | Serves anyone | whitelist, ADMIN_LIST | [evidence](https://agentskillshub.top/best-runs/telegram/yym68686__ChatGPT-Telegram-Bot.html) |
+| 5 | [ChatGPT-Telegram-Bot](https://github.com/V-know/ChatGPT-Telegram-Bot) | 649 | Serves anyone, no setting to change it | none exists (rate limits only) | [evidence](https://agentskillshub.top/best-runs/telegram/V-know__ChatGPT-Telegram-Bot.html) |
+| 6 | [gpt2bot](https://github.com/polakowo/gpt2bot) | 442 | Serves anyone, no setting to change it | none exists | [evidence](https://agentskillshub.top/best-runs/telegram/polakowo__gpt2bot.html) |
+
+[All results, prompts and scripts](https://github.com/zhuyansen/agent-skills-hub/blob/main/ops/telegram-audit/RESULTS.md) · [https://agentskillshub.top/best/telegram-bot/#test-results](https://agentskillshub.top/best/telegram-bot/?utm_source=github&utm_medium=awesome-list&utm_campaign=awesome-ai-telegram-bots#test-results)
 
 <a id="type-assistant"></a>
 ## 💬 AI assistants
