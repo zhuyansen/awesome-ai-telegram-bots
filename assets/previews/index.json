@@ -18,5 +18,15 @@
   "bytes": 46291,
   "file": "HNF-FRN__Reel-watcher-telegram-Agent.gif",
   "still": "HNF-FRN__Reel-watcher-telegram-Agent.jpg"
+ },
+ "tuuject/surowan": {
+  "repo": "tuuject/surowan",
+  "url": "https://raw.githubusercontent.com/tuuject/surowan/HEAD/assets/readme/author-notes.png",
+  "alt": "作者关于 BYOK 模型成本、Coding Plan 使用边界和群聊自动化用量的心得截图",
+  "score": -0.3,
+  "type": "image/png",
+  "bytes": 404819,
+  "file": "tuuject__surowan.jpg",
+  "still": "tuuject__surowan.jpg"
  }
 }

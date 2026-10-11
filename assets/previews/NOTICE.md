@@ -8,3 +8,4 @@ authors and stay under the license of the project they come from. To have one re
 |---|---|---|---|
 | `EvilFreelancer__tgfake.jpg` | [EvilFreelancer/tgfake](https://github.com/EvilFreelancer/tgfake) | MIT | [source](https://raw.githubusercontent.com/EvilFreelancer/tgfake/HEAD/docs/assets/chat-page.png) |
 | `HNF-FRN__Reel-watcher-telegram-Agent.gif` | [HNF-FRN/Reel-watcher-telegram-Agent](https://github.com/HNF-FRN/Reel-watcher-telegram-Agent) | MIT | [source](https://raw.githubusercontent.com/HNF-FRN/Reel-watcher-telegram-Agent/HEAD/docs/assets/chat-demo.gif) |
+| `tuuject__surowan.jpg` | [tuuject/surowan](https://github.com/tuuject/surowan) | Apache-2.0 | [source](https://raw.githubusercontent.com/tuuject/surowan/HEAD/assets/readme/author-notes.png) |
