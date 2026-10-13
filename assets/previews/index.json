@@ -19,6 +19,26 @@
   "file": "HNF-FRN__Reel-watcher-telegram-Agent.gif",
   "still": "HNF-FRN__Reel-watcher-telegram-Agent.jpg"
  },
+ "SouravBeraAkaSpeed/xiryn": {
+  "repo": "SouravBeraAkaSpeed/xiryn",
+  "url": "https://raw.githubusercontent.com/SouravBeraAkaSpeed/xiryn/HEAD/docs/assets/workstation.png",
+  "alt": "Atlas lists the nonstop Bengaluru to Lucknow flights it found on Google Flights,",
+  "score": -0.3,
+  "type": "image/png",
+  "bytes": 529449,
+  "file": "SouravBeraAkaSpeed__xiryn.jpg",
+  "still": "SouravBeraAkaSpeed__xiryn.jpg"
+ },
+ "smixs/pi-durable-telegram": {
+  "repo": "smixs/pi-durable-telegram",
+  "url": "https://raw.githubusercontent.com/smixs/pi-durable-telegram/HEAD/assets/header.webp",
+  "alt": "pi durable via telegram: an orange paper airplane flies across the sky toward a ",
+  "score": 0.0,
+  "type": "image/webp",
+  "bytes": 24594,
+  "file": "smixs__pi-durable-telegram.jpg",
+  "still": "smixs__pi-durable-telegram.jpg"
+ },
  "tuuject/surowan": {
   "repo": "tuuject/surowan",
   "url": "https://raw.githubusercontent.com/tuuject/surowan/HEAD/assets/readme/author-notes.png",
