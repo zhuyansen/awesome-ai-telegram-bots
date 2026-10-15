@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-14",
+ "generated": "2026-10-15",
  "source": "https://agentskillshub.top/best/telegram-bot/",
  "kinds": [
   {
@@ -43,7 +43,7 @@
   {
    "repo_full_name": "father-bot/chatgpt_telegram_bot",
    "path": null,
-   "stars": 5539,
+   "stars": 5540,
    "description": "💬 Telegram bot with ChatGPT & Claude Python-based, using OpenAI's API.",
    "kind": "assistant",
    "security_grade": "safe",
@@ -113,7 +113,7 @@
   {
    "repo_full_name": "smixs/agent-second-brain",
    "path": null,
-   "stars": 400,
+   "stars": 401,
    "description": "An always-on second brain you talk to. Voice notes in Telegram → typed, linked knowledge in your Obsidian vault. Runs 24/7 on the Claude subscription you already have.",
    "kind": "assistant",
    "security_grade": "safe",
@@ -123,7 +123,7 @@
   {
    "repo_full_name": "Johnsheng1/cf-ai-TGbot",
    "path": null,
-   "stars": 384,
+   "stars": 385,
    "description": "CF-ai-TGbot is a customizable Telegram bot powered by Node.js, integrating Cloudflare AI Gateway for smart, context-aware conversations. 🌐🤖",
    "kind": "assistant",
    "security_grade": "safe",
@@ -181,6 +181,16 @@
    "license": null
   },
   {
+   "repo_full_name": "smixs/iva-agent",
+   "path": null,
+   "stars": 239,
+   "description": "AI assistant in Telegram that remembers everything and helps you run your life. Self-hosted in one command.",
+   "kind": "assistant",
+   "security_grade": "safe",
+   "language": "TypeScript",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "Helixform/TeleGPT",
    "path": null,
    "stars": 237,
@@ -188,16 +198,6 @@
    "kind": "assistant",
    "security_grade": "safe",
    "language": "Rust",
-   "license": "MIT"
-  },
-  {
-   "repo_full_name": "smixs/iva-agent",
-   "path": null,
-   "stars": 237,
-   "description": "AI assistant in Telegram that remembers everything and helps you run your life. Self-hosted in one command.",
-   "kind": "assistant",
-   "security_grade": "safe",
-   "language": "TypeScript",
    "license": "MIT"
   },
   {
@@ -223,7 +223,7 @@
   {
    "repo_full_name": "asukaminato0721/telegram-summary-bot",
    "path": null,
-   "stars": 202,
+   "stars": 201,
    "description": "Summarize group chat with AI, LLM && query group chat, FREE to deploy your own, support img, link meta info, reply to, auto fold result, 支持中文检索.",
    "kind": "assistant",
    "security_grade": "safe",
@@ -273,7 +273,7 @@
   {
    "repo_full_name": "kargarisaac/telegram_link_summarizer_agent",
    "path": null,
-   "stars": 156,
+   "stars": 155,
    "description": "Agentic Telegram bot that summarizes links (articles, papers, tweets, LinkedIn posts, PDFs) shared in a channel. Instantly provides concise summaries so users can quickly decide what to read. Open source, deployed on Google Cloud Run. ",
    "kind": "assistant",
    "security_grade": "caution",
@@ -401,16 +401,6 @@
    "license": "GPL-3.0"
   },
   {
-   "repo_full_name": "Magerko/TelegramHelper",
-   "path": null,
-   "stars": 74,
-   "description": "Персональный AI-ассистент для Telegram: userbot + control bot с агентом, понимающим голос и свободный текст. SQLite FTS5, Qdrant, Whisper, OpenAI/Gemini.",
-   "kind": "assistant",
-   "security_grade": "safe",
-   "language": "Python",
-   "license": "MIT"
-  },
-  {
    "repo_full_name": "dudynets/Telegram-Summarize-Bot",
    "path": null,
    "stars": 74,
@@ -429,6 +419,16 @@
    "security_grade": "safe",
    "language": "Python",
    "license": "Apache-2.0"
+  },
+  {
+   "repo_full_name": "Magerko/TelegramHelper",
+   "path": null,
+   "stars": 73,
+   "description": "Персональный AI-ассистент для Telegram: userbot + control bot с агентом, понимающим голос и свободный текст. SQLite FTS5, Qdrant, Whisper, OpenAI/Gemini.",
+   "kind": "assistant",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
   },
   {
    "repo_full_name": "harshitethic/ChatGPT-Telegram-Bot",
@@ -713,7 +713,7 @@
   {
    "repo_full_name": "tuuject/surowan",
    "path": null,
-   "stars": 12,
+   "stars": 14,
    "description": "基于 Agent 的 AI 驱动 Telegram Bot「塑料碗」",
    "kind": "assistant",
    "security_grade": "safe",
@@ -1061,9 +1061,19 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "SouravBeraAkaSpeed/xiryn",
+   "path": null,
+   "stars": 179,
+   "description": "Xiryn — the open-source personal agent. Does everything Muse, Grok Bot and Dots do, on your own computer: each agent gets its own Linux desktop in Docker, any model with your keys, an encrypted vault, and control from Telegram.",
+   "kind": "remote",
+   "security_grade": "safe",
+   "language": "TypeScript",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "emreturkmencom/antigravity-telegram-suite",
    "path": null,
-   "stars": 174,
+   "stars": 175,
    "description": "Antigravity Telegram bot — remote-control your AI agent via Telegram. Chat, switch models, orchestrate multi-agent workflows, and manage workspaces from your phone.",
    "kind": "remote",
    "security_grade": "safe",
@@ -1079,16 +1089,6 @@
    "security_grade": "safe",
    "language": "TypeScript",
    "license": null
-  },
-  {
-   "repo_full_name": "SouravBeraAkaSpeed/xiryn",
-   "path": null,
-   "stars": 165,
-   "description": "Xiryn — the open-source personal agent. Does everything Muse, Grok Bot and Dots do, on your own computer: each agent gets its own Linux desktop in Docker, any model with your keys, an encrypted vault, and control from Telegram.",
-   "kind": "remote",
-   "security_grade": "safe",
-   "language": "TypeScript",
-   "license": "MIT"
   },
   {
    "repo_full_name": "NachoSEO/claudegram",
@@ -1351,6 +1351,16 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "soulknight666/telegram-account-orchestrator",
+   "path": null,
+   "stars": 18,
+   "description": "Self-hosted Telegram multi-account management with Web UI, CLI, Bot, MCP, Telethon, and Telegram Desktop tdata import.",
+   "kind": "remote",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "kcisoul/remotecode",
    "path": null,
    "stars": 17,
@@ -1359,16 +1369,6 @@
    "security_grade": "safe",
    "language": "TypeScript",
    "license": null
-  },
-  {
-   "repo_full_name": "soulknight666/telegram-account-orchestrator",
-   "path": null,
-   "stars": 17,
-   "description": "Self-hosted Telegram multi-account management with Web UI, CLI, Bot, MCP, Telethon, and Telegram Desktop tdata import.",
-   "kind": "remote",
-   "security_grade": "safe",
-   "language": "Python",
-   "license": "MIT"
   },
   {
    "repo_full_name": "TheStack-ai/mrstack",
@@ -1501,6 +1501,16 @@
    "license": null
   },
   {
+   "repo_full_name": "smixs/pi-durable-telegram",
+   "path": null,
+   "stars": 8,
+   "description": "Always-on durable pi agent on your server that you talk to in Telegram. Survives crashes and restarts, keeps history in SQLite. pi-durable Telegram gateway.",
+   "kind": "remote",
+   "security_grade": "safe",
+   "language": "TypeScript",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "0xkaz/codex-gemini-telegram-bridge",
    "path": null,
    "stars": 7,
@@ -1518,16 +1528,6 @@
    "kind": "remote",
    "security_grade": "safe",
    "language": "JavaScript",
-   "license": "MIT"
-  },
-  {
-   "repo_full_name": "smixs/pi-durable-telegram",
-   "path": null,
-   "stars": 7,
-   "description": "Always-on durable pi agent on your server that you talk to in Telegram. Survives crashes and restarts, keeps history in SQLite. pi-durable Telegram gateway.",
-   "kind": "remote",
-   "security_grade": "safe",
-   "language": "TypeScript",
    "license": "MIT"
   },
   {
@@ -1653,7 +1653,7 @@
   {
    "repo_full_name": "aiogram/aiogram",
    "path": null,
-   "stars": 5892,
+   "stars": 5893,
    "description": "aiogram is a modern and fully asynchronous framework for Telegram Bot API written in Python using asyncio",
    "kind": "framework",
    "security_grade": "safe",
@@ -1663,7 +1663,7 @@
   {
    "repo_full_name": "chigwell/telegram-mcp",
    "path": null,
-   "stars": 1820,
+   "stars": 1824,
    "description": "Telegram MCP server powered by Telethon to let MCP clients read chats, manage groups, and send/modify messages, media, contacts, and settings.",
    "kind": "framework",
    "security_grade": "safe",
@@ -1963,7 +1963,7 @@
   {
    "repo_full_name": "groupultra/telegram-search",
    "path": null,
-   "stars": 4121,
+   "stars": 4124,
    "description": "🔍 导出并模糊搜索 Telegram 聊天记录 | Export and fuzzy search your Telegram chat history",
    "kind": "utility",
    "security_grade": "safe",
@@ -2023,7 +2023,7 @@
   {
    "repo_full_name": "TheCaduceus/FileStreamBot",
    "path": null,
-   "stars": 133,
+   "stars": 134,
    "description": "An open-source Python Telegram bot to transmit Telegram files over HTTP.",
    "kind": "utility",
    "security_grade": "caution",
@@ -2101,6 +2101,16 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "gth-ai/reclip-telegram-bot",
+   "path": null,
+   "stars": 55,
+   "description": "Self-hosted Telegram bot for downloading media from YouTube, TikTok, Instagram, and 1000+ sites. Powered by reclip + yt-dlp.",
+   "kind": "utility",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": null
+  },
+  {
    "repo_full_name": "matterai/DataKitsune",
    "path": null,
    "stars": 55,
@@ -2119,16 +2129,6 @@
    "security_grade": "caution",
    "language": "Python",
    "license": "NOASSERTION"
-  },
-  {
-   "repo_full_name": "gth-ai/reclip-telegram-bot",
-   "path": null,
-   "stars": 54,
-   "description": "Self-hosted Telegram bot for downloading media from YouTube, TikTok, Instagram, and 1000+ sites. Powered by reclip + yt-dlp.",
-   "kind": "utility",
-   "security_grade": "safe",
-   "language": "Python",
-   "license": null
   },
   {
    "repo_full_name": "AI-XMLY/nodeseek-rss-telegram-bot",
@@ -2393,7 +2393,7 @@
   {
    "repo_full_name": "bxdoan/airdrop-tools",
    "path": null,
-   "stars": 111,
+   "stars": 110,
    "description": "Airdrop tools for all telegram bot",
    "kind": "business",
    "security_grade": "safe",
