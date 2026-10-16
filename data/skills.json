@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-15",
+ "generated": "2026-10-16",
  "source": "https://agentskillshub.top/best/telegram-bot/",
  "kinds": [
   {
@@ -43,7 +43,7 @@
   {
    "repo_full_name": "father-bot/chatgpt_telegram_bot",
    "path": null,
-   "stars": 5540,
+   "stars": 5542,
    "description": "💬 Telegram bot with ChatGPT & Claude Python-based, using OpenAI's API.",
    "kind": "assistant",
    "security_grade": "safe",
@@ -53,7 +53,7 @@
   {
    "repo_full_name": "tbxark/ChatGPT-Telegram-Workers",
    "path": null,
-   "stars": 3807,
+   "stars": 3808,
    "description": "Easily deploy your Telegram ChatGPT bot on Cloudflare Workers (or Vercel, Docker...).",
    "kind": "assistant",
    "security_grade": "safe",
@@ -113,7 +113,7 @@
   {
    "repo_full_name": "smixs/agent-second-brain",
    "path": null,
-   "stars": 401,
+   "stars": 402,
    "description": "An always-on second brain you talk to. Voice notes in Telegram → typed, linked knowledge in your Obsidian vault. Runs 24/7 on the Claude subscription you already have.",
    "kind": "assistant",
    "security_grade": "safe",
@@ -183,7 +183,7 @@
   {
    "repo_full_name": "smixs/iva-agent",
    "path": null,
-   "stars": 239,
+   "stars": 241,
    "description": "AI assistant in Telegram that remembers everything and helps you run your life. Self-hosted in one command.",
    "kind": "assistant",
    "security_grade": "safe",
@@ -973,7 +973,7 @@
   {
    "repo_full_name": "overwirehq/claude-code-telegram",
    "path": null,
-   "stars": 2814,
+   "stars": 2815,
    "description": "A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence.",
    "kind": "remote",
    "security_grade": "safe",
@@ -983,7 +983,7 @@
   {
    "repo_full_name": "grinev/opencode-telegram-bot",
    "path": null,
-   "stars": 1254,
+   "stars": 1257,
    "description": "OpenCode mobile client via Telegram: run and monitor AI coding tasks from your phone while everything runs locally on your machine. OpenCode V2 support.",
    "kind": "remote",
    "security_grade": "safe",
@@ -1063,7 +1063,7 @@
   {
    "repo_full_name": "SouravBeraAkaSpeed/xiryn",
    "path": null,
-   "stars": 179,
+   "stars": 182,
    "description": "Xiryn — the open-source personal agent. Does everything Muse, Grok Bot and Dots do, on your own computer: each agent gets its own Linux desktop in Docker, any model with your keys, an encrypted vault, and control from Telegram.",
    "kind": "remote",
    "security_grade": "safe",
@@ -1093,7 +1093,7 @@
   {
    "repo_full_name": "NachoSEO/claudegram",
    "path": null,
-   "stars": 153,
+   "stars": 155,
    "description": "Telegram bot that bridges messages to Claude Code",
    "kind": "remote",
    "security_grade": "safe",
@@ -1103,7 +1103,7 @@
   {
    "repo_full_name": "k1p1l0/claude-telegram-supercharged",
    "path": null,
-   "stars": 137,
+   "stars": 138,
    "description": "Run Claude Code 24/7 from Telegram. Drop-in upgrade for the official plugin: voice notes both ways, a self-healing daemon, memory across restarts, and Agentic Mode (watch every tool call live). One-line install.",
    "kind": "remote",
    "security_grade": "safe",
@@ -1201,6 +1201,16 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "permgps/herdr-telegram-agents",
+   "path": null,
+   "stars": 80,
+   "description": "Drive your coding agents from Telegram like from the terminal. A topic per agent, live status in the topic icon, two-way chat with inline buttons for choices.",
+   "kind": "remote",
+   "security_grade": "safe",
+   "language": "Go",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "0xtbug/telbot",
    "path": null,
    "stars": 79,
@@ -1209,16 +1219,6 @@
    "security_grade": "caution",
    "language": "Go",
    "license": null
-  },
-  {
-   "repo_full_name": "permgps/herdr-telegram-agents",
-   "path": null,
-   "stars": 79,
-   "description": "Drive your coding agents from Telegram like from the terminal. A topic per agent, live status in the topic icon, two-way chat with inline buttons for choices.",
-   "kind": "remote",
-   "security_grade": "safe",
-   "language": "Go",
-   "license": "MIT"
   },
   {
    "repo_full_name": "littlebearapps/untether",
@@ -1231,16 +1231,6 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "suzuke/AgEnD",
-   "path": null,
-   "stars": 65,
-   "description": "Multi-agent fleet daemon — run Claude Code, Gemini CLI, Codex, and OpenCode from Telegram with cross-instance collaboration",
-   "kind": "remote",
-   "security_grade": "safe",
-   "language": "Rust",
-   "license": "Apache-2.0"
-  },
-  {
    "repo_full_name": "Jeffrey0117/ClaudeBot",
    "path": null,
    "stars": 64,
@@ -1249,6 +1239,16 @@
    "security_grade": "safe",
    "language": "TypeScript",
    "license": null
+  },
+  {
+   "repo_full_name": "suzuke/AgEnD",
+   "path": null,
+   "stars": 64,
+   "description": "Multi-agent fleet daemon — run Claude Code, Gemini CLI, Codex, and OpenCode from Telegram with cross-instance collaboration",
+   "kind": "remote",
+   "security_grade": "safe",
+   "language": "Rust",
+   "license": "Apache-2.0"
   },
   {
    "repo_full_name": "bluzir/claude-telegram",
@@ -1261,6 +1261,16 @@
    "license": null
   },
   {
+   "repo_full_name": "alhinawi/telegram-notifier",
+   "path": null,
+   "stars": 38,
+   "description": "Universal Telegram Notifier Plugin & Skill for AI Agents (Antigravity, Claude Code, Codex, Cursor, Windsurf) + Remote Control Setup",
+   "kind": "remote",
+   "security_grade": "safe",
+   "language": "JavaScript",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "Tommertom/coderBOT",
    "path": null,
    "stars": 37,
@@ -1268,16 +1278,6 @@
    "kind": "remote",
    "security_grade": "safe",
    "language": "TypeScript",
-   "license": "MIT"
-  },
-  {
-   "repo_full_name": "alhinawi/telegram-notifier",
-   "path": null,
-   "stars": 37,
-   "description": "Universal Telegram Notifier Plugin & Skill for AI Agents (Antigravity, Claude Code, Codex, Cursor, Windsurf) + Remote Control Setup",
-   "kind": "remote",
-   "security_grade": "safe",
-   "language": "JavaScript",
    "license": "MIT"
   },
   {
@@ -1353,7 +1353,7 @@
   {
    "repo_full_name": "soulknight666/telegram-account-orchestrator",
    "path": null,
-   "stars": 18,
+   "stars": 20,
    "description": "Self-hosted Telegram multi-account management with Web UI, CLI, Bot, MCP, Telethon, and Telegram Desktop tdata import.",
    "kind": "remote",
    "security_grade": "safe",
@@ -1653,7 +1653,7 @@
   {
    "repo_full_name": "aiogram/aiogram",
    "path": null,
-   "stars": 5893,
+   "stars": 5894,
    "description": "aiogram is a modern and fully asynchronous framework for Telegram Bot API written in Python using asyncio",
    "kind": "framework",
    "security_grade": "safe",
@@ -1663,7 +1663,7 @@
   {
    "repo_full_name": "chigwell/telegram-mcp",
    "path": null,
-   "stars": 1824,
+   "stars": 1832,
    "description": "Telegram MCP server powered by Telethon to let MCP clients read chats, manage groups, and send/modify messages, media, contacts, and settings.",
    "kind": "framework",
    "security_grade": "safe",
@@ -1963,7 +1963,7 @@
   {
    "repo_full_name": "groupultra/telegram-search",
    "path": null,
-   "stars": 4124,
+   "stars": 4125,
    "description": "🔍 导出并模糊搜索 Telegram 聊天记录 | Export and fuzzy search your Telegram chat history",
    "kind": "utility",
    "security_grade": "safe",
@@ -2063,7 +2063,7 @@
   {
    "repo_full_name": "joeseesun/AIGC_Telegram_Bot",
    "path": null,
-   "stars": 101,
+   "stars": 102,
    "description": "编程新手用GPT4辅助开发的一个Telegram机器人，指定twitter ID，自动抓取推特消息并翻译成中文发给自己的Telegram账号。",
    "kind": "utility",
    "security_grade": "safe",
@@ -2453,7 +2453,7 @@
   {
    "repo_full_name": "Kingler16/Velora",
    "path": null,
-   "stars": 43,
+   "stars": 45,
    "description": "Your AI-powered personal wealth advisor. Automated portfolio monitoring, market analysis, and investment briefings delivered via Telegram. Runs on Claude Code with your existing Max/Pro subscription — no API costs.",
    "kind": "business",
    "security_grade": "caution",
