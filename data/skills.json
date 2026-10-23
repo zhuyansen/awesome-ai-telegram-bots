@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22",
+ "generated": "2026-10-23",
  "source": "https://agentskillshub.top/best/telegram-bot/",
  "kinds": [
   {
@@ -53,7 +53,7 @@
   {
    "repo_full_name": "tbxark/ChatGPT-Telegram-Workers",
    "path": null,
-   "stars": 3812,
+   "stars": 3813,
    "description": "Easily deploy your Telegram ChatGPT bot on Cloudflare Workers (or Vercel, Docker...).",
    "kind": "assistant",
    "security_grade": "safe",
@@ -173,7 +173,7 @@
   {
    "repo_full_name": "smixs/iva-agent",
    "path": null,
-   "stars": 265,
+   "stars": 266,
    "description": "AI assistant in Telegram that remembers everything and helps you run your life. Self-hosted in one command.",
    "kind": "assistant",
    "security_grade": "safe",
@@ -383,7 +383,7 @@
   {
    "repo_full_name": "noes14155/Telegrambot-with-GPT",
    "path": null,
-   "stars": 80,
+   "stars": 79,
    "description": "telegram bot with gpt",
    "kind": "assistant",
    "security_grade": "safe",
@@ -553,7 +553,7 @@
   {
    "repo_full_name": "ahkarimi/chapar",
    "path": null,
-   "stars": 43,
+   "stars": 44,
    "description": "Self-hosted Telegram bot for AI-driven chart analysis and market intelligence. FastAPI + Celery + Redis + PostgreSQL.",
    "kind": "assistant",
    "security_grade": "safe",
@@ -563,7 +563,7 @@
   {
    "repo_full_name": "AbuZar-Ansarii/Openclaw-phone-control",
    "path": null,
-   "stars": 37,
+   "stars": 36,
    "description": "OpenClaw allows you to manage your phone via a Telegram bot using the power of local AI (Ollama). No root access is required, making it accessible for almost any modern Android device",
    "kind": "assistant",
    "security_grade": "safe",
@@ -973,7 +973,7 @@
   {
    "repo_full_name": "overwirehq/claude-code-telegram",
    "path": null,
-   "stars": 2816,
+   "stars": 2817,
    "description": "A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence.",
    "kind": "remote",
    "security_grade": "safe",
@@ -983,7 +983,7 @@
   {
    "repo_full_name": "grinev/opencode-telegram-bot",
    "path": null,
-   "stars": 1276,
+   "stars": 1277,
    "description": "OpenCode mobile client via Telegram: run and monitor AI coding tasks from your phone while everything runs locally on your machine. OpenCode V2 support.",
    "kind": "remote",
    "security_grade": "safe",
@@ -1013,7 +1013,7 @@
   {
    "repo_full_name": "duckbugio/flock",
    "path": null,
-   "stars": 501,
+   "stars": 502,
    "description": "Autonomous AI dev-team bot",
    "kind": "remote",
    "security_grade": "safe",
@@ -1041,9 +1041,19 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "SouravBeraAkaSpeed/xiryn",
+   "path": null,
+   "stars": 298,
+   "description": "Xiryn — the open-source personal agent. Does everything Muse, Grok Bot and Dots do, on your own computer: each agent gets its own Linux desktop in Docker, any model with your keys, an encrypted vault, and control from Telegram.",
+   "kind": "remote",
+   "security_grade": "safe",
+   "language": "TypeScript",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "alexei-led/ccgram",
    "path": null,
-   "stars": 278,
+   "stars": 279,
    "description": "Telegram ↔ tmux/herdr/agterm bridge for Claude Code, Codex CLI, and Pi Agent. Monitor output, respond to prompts, manage parallel sessions.  Control AI coding agents from your phone.",
    "kind": "remote",
    "security_grade": "safe",
@@ -1061,19 +1071,9 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "SouravBeraAkaSpeed/xiryn",
-   "path": null,
-   "stars": 273,
-   "description": "Xiryn — the open-source personal agent. Does everything Muse, Grok Bot and Dots do, on your own computer: each agent gets its own Linux desktop in Docker, any model with your keys, an encrypted vault, and control from Telegram.",
-   "kind": "remote",
-   "security_grade": "safe",
-   "language": "TypeScript",
-   "license": "MIT"
-  },
-  {
    "repo_full_name": "emreturkmencom/antigravity-telegram-suite",
    "path": null,
-   "stars": 186,
+   "stars": 187,
    "description": "Antigravity Telegram bot — remote-control your AI agent via Telegram. Chat, switch models, orchestrate multi-agent workflows, and manage workspaces from your phone.",
    "kind": "remote",
    "security_grade": "safe",
@@ -1103,7 +1103,7 @@
   {
    "repo_full_name": "k1p1l0/claude-telegram-supercharged",
    "path": null,
-   "stars": 137,
+   "stars": 138,
    "description": "Run Claude Code 24/7 from Telegram. Drop-in upgrade for the official plugin: voice notes both ways, a self-healing daemon, memory across restarts, and Agentic Mode (watch every tool call live). One-line install.",
    "kind": "remote",
    "security_grade": "safe",
@@ -1223,7 +1223,7 @@
   {
    "repo_full_name": "littlebearapps/untether",
    "path": null,
-   "stars": 72,
+   "stars": 73,
    "description": "Run your coding agents from Telegram. A bridge for Claude Code, Codex, OpenCode, Pi and Antigravity CLI: send tasks by text or voice, watch them work and approve changes from your phone.",
    "kind": "remote",
    "security_grade": "safe",
@@ -1263,7 +1263,7 @@
   {
    "repo_full_name": "alhinawi/telegram-notifier",
    "path": null,
-   "stars": 39,
+   "stars": 40,
    "description": "Universal Telegram Notifier Plugin & Skill for AI Agents (Antigravity, Claude Code, Codex, Cursor, Windsurf) + Remote Control Setup",
    "kind": "remote",
    "security_grade": "safe",
@@ -1324,10 +1324,20 @@
    "repo_full_name": "mmr710/nightmux",
    "path": null,
    "stars": 25,
-   "description": "Your AI coding agents keep working while you sleep: drive Claude Code, Codex, Gemini, opencode & more from your phone; auto-resume past usage limits.",
+   "description": "Your AI coding agents keep working while you sleep. Drive Claude Code, Codex, Gemini, opencode & more from your phone: resume past usage limits, hand off between agents, loop until tests pass. Self-hosted, zero deps.",
    "kind": "remote",
    "security_grade": "safe",
    "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "smixs/pi-durable-telegram",
+   "path": null,
+   "stars": 23,
+   "description": "Always-on durable pi agent on your server that you talk to in Telegram. Survives crashes and restarts, keeps history in SQLite. pi-durable Telegram gateway.",
+   "kind": "remote",
+   "security_grade": "safe",
+   "language": "TypeScript",
    "license": "MIT"
   },
   {
@@ -1338,16 +1348,6 @@
    "kind": "remote",
    "security_grade": "safe",
    "language": "Python",
-   "license": "MIT"
-  },
-  {
-   "repo_full_name": "smixs/pi-durable-telegram",
-   "path": null,
-   "stars": 22,
-   "description": "Always-on durable pi agent on your server that you talk to in Telegram. Survives crashes and restarts, keeps history in SQLite. pi-durable Telegram gateway.",
-   "kind": "remote",
-   "security_grade": "safe",
-   "language": "TypeScript",
    "license": "MIT"
   },
   {
@@ -1663,7 +1663,7 @@
   {
    "repo_full_name": "chigwell/telegram-mcp",
    "path": null,
-   "stars": 1879,
+   "stars": 1885,
    "description": "Telegram MCP server powered by Telethon to let MCP clients read chats, manage groups, and send/modify messages, media, contacts, and settings.",
    "kind": "framework",
    "security_grade": "safe",
@@ -1813,7 +1813,7 @@
   {
    "repo_full_name": "ifokeev/telegram-ai-agent",
    "path": null,
-   "stars": 44,
+   "stars": 45,
    "description": "Telegram AI Agent: A powerful Python library for creating AI-powered Telegram bots",
    "kind": "framework",
    "security_grade": "safe",
@@ -2053,7 +2053,7 @@
   {
    "repo_full_name": "assimon/ai-anti-bot",
    "path": null,
-   "stars": 110,
+   "stars": 111,
    "description": "AI-based anti-advertising robot for Telegram(基于AI的telegram反垃圾广告机器人)",
    "kind": "utility",
    "security_grade": "safe",
@@ -2063,7 +2063,7 @@
   {
    "repo_full_name": "joeseesun/AIGC_Telegram_Bot",
    "path": null,
-   "stars": 102,
+   "stars": 103,
    "description": "编程新手用GPT4辅助开发的一个Telegram机器人，指定twitter ID，自动抓取推特消息并翻译成中文发给自己的Telegram账号。",
    "kind": "utility",
    "security_grade": "safe",
@@ -2081,6 +2081,16 @@
    "license": "GPL-3.0"
   },
   {
+   "repo_full_name": "vibe-with-me-tools/agent-reachout",
+   "path": null,
+   "stars": 57,
+   "description": "Let Claude Code reach you on Telegram when it finishes work or needs decisions",
+   "kind": "utility",
+   "security_grade": "safe",
+   "language": "TypeScript",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "sliday/telegram-ai-digest",
    "path": null,
    "stars": 56,
@@ -2089,16 +2099,6 @@
    "security_grade": "safe",
    "language": "Python",
    "license": "Apache-2.0"
-  },
-  {
-   "repo_full_name": "vibe-with-me-tools/agent-reachout",
-   "path": null,
-   "stars": 56,
-   "description": "Let Claude Code reach you on Telegram when it finishes work or needs decisions",
-   "kind": "utility",
-   "security_grade": "safe",
-   "language": "TypeScript",
-   "license": "MIT"
   },
   {
    "repo_full_name": "gth-ai/reclip-telegram-bot",
@@ -2353,7 +2353,7 @@
   {
    "repo_full_name": "ilyarolf/AiogramShopBot",
    "path": null,
-   "stars": 247,
+   "stars": 248,
    "description": "Open-source Telegram e-commerce bot built with Aiogram 3 for selling digital and physical goods with crypto payments and referral system.",
    "kind": "business",
    "security_grade": "safe",
@@ -2413,7 +2413,7 @@
   {
    "repo_full_name": "kaiserern/Kaiser.charon",
    "path": null,
-   "stars": 68,
+   "stars": 70,
    "description": "Solana pump.fun trading bot — Telegram-driven screening, strategy gates, LLM entry selection, Jupiter execution. Fork of yunus-0x/charon.",
    "kind": "business",
    "security_grade": "caution",
@@ -2463,7 +2463,7 @@
   {
    "repo_full_name": "JumpCodeFrog/telegram-shop-bot",
    "path": null,
-   "stars": 21,
+   "stars": 22,
    "description": "Open-source Telegram shop bot in Go — catalog, Stars & USDT payments, subscriptions, Mini App, admin panel · Telegram-магазин на Go — каталог, оплата Stars и USDT, подписки, Mini App и админ-панель",
    "kind": "business",
    "security_grade": "safe",
