@@ -29,6 +29,16 @@
   "file": "SouravBeraAkaSpeed__xiryn.jpg",
   "still": "SouravBeraAkaSpeed__xiryn.jpg"
  },
+ "imkofty/Hermuse": {
+  "repo": "imkofty/Hermuse",
+  "url": "https://raw.githubusercontent.com/imkofty/Hermuse/HEAD/assets/banner.png",
+  "alt": "Hermuse banner",
+  "score": -2.5,
+  "type": "image/png",
+  "bytes": 539352,
+  "file": "imkofty__Hermuse.jpg",
+  "still": "imkofty__Hermuse.jpg"
+ },
  "smixs/pi-durable-telegram": {
   "repo": "smixs/pi-durable-telegram",
   "url": "https://raw.githubusercontent.com/smixs/pi-durable-telegram/HEAD/assets/header.webp",
