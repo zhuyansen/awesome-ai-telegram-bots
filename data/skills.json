@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25",
+ "generated": "2026-10-26",
  "source": "https://agentskillshub.top/best/telegram-bot/",
  "kinds": [
   {
@@ -43,7 +43,7 @@
   {
    "repo_full_name": "father-bot/chatgpt_telegram_bot",
    "path": null,
-   "stars": 5548,
+   "stars": 5550,
    "description": "💬 Telegram bot with ChatGPT & Claude Python-based, using OpenAI's API.",
    "kind": "assistant",
    "security_grade": "safe",
@@ -93,7 +93,7 @@
   {
    "repo_full_name": "linuz90/claude-telegram-bot",
    "path": null,
-   "stars": 448,
+   "stars": 449,
    "description": null,
    "kind": "assistant",
    "security_grade": "safe",
@@ -211,6 +211,16 @@
    "license": null
   },
   {
+   "repo_full_name": "asukaminato0721/telegram-summary-bot",
+   "path": null,
+   "stars": 203,
+   "description": "Summarize group chat with AI, LLM && query group chat, FREE to deploy your own, support img, link meta info, reply to, auto fold result, 支持中文检索.",
+   "kind": "assistant",
+   "security_grade": "safe",
+   "language": "TypeScript",
+   "license": "Apache-2.0"
+  },
+  {
    "repo_full_name": "ciuzaak/Claude-Telegram-Bot",
    "path": null,
    "stars": 203,
@@ -219,16 +229,6 @@
    "security_grade": "safe",
    "language": "Python",
    "license": "MIT"
-  },
-  {
-   "repo_full_name": "asukaminato0721/telegram-summary-bot",
-   "path": null,
-   "stars": 202,
-   "description": "Summarize group chat with AI, LLM && query group chat, FREE to deploy your own, support img, link meta info, reply to, auto fold result, 支持中文检索.",
-   "kind": "assistant",
-   "security_grade": "safe",
-   "language": "TypeScript",
-   "license": "Apache-2.0"
   },
   {
    "repo_full_name": "sudo-eugene/Connect-Telegram-Bot-to-Google-Sheets-ChatGPT-OpenAI",
@@ -283,7 +283,7 @@
   {
    "repo_full_name": "imkofty/Hermuse",
    "path": null,
-   "stars": 136,
+   "stars": 137,
    "description": "Hermuse (Hermes + Muse) — personal AI agent stack built for Muse: Hermes + 9Router + Telegram gateway, automated install, Cloudflare tunnel, watchdog. Runs on a VPS or your own machine; works with other agents & tools too. | Stack agen AI pribadi yang dibangun untuk Muse — jalan di VPS/mesin sendiri, bisa dipakai agen & tool lain juga.",
    "kind": "assistant",
    "security_grade": "caution",
@@ -983,7 +983,7 @@
   {
    "repo_full_name": "overwirehq/claude-code-telegram",
    "path": null,
-   "stars": 2816,
+   "stars": 2817,
    "description": "A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence.",
    "kind": "remote",
    "security_grade": "safe",
@@ -993,7 +993,7 @@
   {
    "repo_full_name": "grinev/opencode-telegram-bot",
    "path": null,
-   "stars": 1283,
+   "stars": 1289,
    "description": "OpenCode mobile client via Telegram: run and monitor AI coding tasks from your phone while everything runs locally on your machine. OpenCode V2 support.",
    "kind": "remote",
    "security_grade": "safe",
@@ -1013,7 +1013,7 @@
   {
    "repo_full_name": "hanxiao/claudecode-telegram",
    "path": null,
-   "stars": 610,
+   "stars": 609,
    "description": "Telegram bridge for Claude Code",
    "kind": "remote",
    "security_grade": "safe",
@@ -1033,7 +1033,7 @@
   {
    "repo_full_name": "PleasePrompto/ductor",
    "path": null,
-   "stars": 463,
+   "stars": 462,
    "description": "Control Claude Code, Codex CLI and Gemini CLI from Telegram. Live streaming, persistent memory, cron jobs, webhooks, Docker sandboxing.",
    "kind": "remote",
    "security_grade": "safe",
@@ -1043,7 +1043,7 @@
   {
    "repo_full_name": "SouravBeraAkaSpeed/xiryn",
    "path": null,
-   "stars": 335,
+   "stars": 355,
    "description": "Xiryn — the open-source personal agent. Does everything Muse, Grok Bot and Dots do, on your own computer: each agent gets its own Linux desktop in Docker, any model with your keys, an encrypted vault, and control from Telegram.",
    "kind": "remote",
    "security_grade": "safe",
@@ -1201,6 +1201,16 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "0xtbug/telbot",
+   "path": null,
+   "stars": 83,
+   "description": "Go-based tool for managing Telkomsel accounts via Telegram Bot, Terminal CLI, or MCP Server (for AI agents).",
+   "kind": "remote",
+   "security_grade": "caution",
+   "language": "Go",
+   "license": null
+  },
+  {
    "repo_full_name": "permgps/herdr-telegram-agents",
    "path": null,
    "stars": 83,
@@ -1209,16 +1219,6 @@
    "security_grade": "safe",
    "language": "Go",
    "license": "MIT"
-  },
-  {
-   "repo_full_name": "0xtbug/telbot",
-   "path": null,
-   "stars": 82,
-   "description": "Go-based tool for managing Telkomsel accounts via Telegram Bot, Terminal CLI, or MCP Server (for AI agents).",
-   "kind": "remote",
-   "security_grade": "caution",
-   "language": "Go",
-   "license": null
   },
   {
    "repo_full_name": "b1rdmania/ghostclaw",
@@ -1281,6 +1281,16 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "smixs/pi-durable-telegram",
+   "path": null,
+   "stars": 37,
+   "description": "Always-on durable pi agent on your server that you talk to in Telegram. Survives crashes and restarts, keeps history in SQLite. pi-durable Telegram gateway.",
+   "kind": "remote",
+   "security_grade": "safe",
+   "language": "TypeScript",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "Imolatte/claude-cli-telegram",
    "path": null,
    "stars": 36,
@@ -1298,16 +1308,6 @@
    "kind": "remote",
    "security_grade": "safe",
    "language": "JavaScript",
-   "license": "MIT"
-  },
-  {
-   "repo_full_name": "smixs/pi-durable-telegram",
-   "path": null,
-   "stars": 34,
-   "description": "Always-on durable pi agent on your server that you talk to in Telegram. Survives crashes and restarts, keeps history in SQLite. pi-durable Telegram gateway.",
-   "kind": "remote",
-   "security_grade": "safe",
-   "language": "TypeScript",
    "license": "MIT"
   },
   {
@@ -1451,6 +1451,16 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "WireCatLabs/tg-cli",
+   "path": null,
+   "stars": 12,
+   "description": "Telegram CLI for AI agents — your whole account in the terminal, local-first search, MCP server and full Bot API.",
+   "kind": "remote",
+   "security_grade": "safe",
+   "language": "TypeScript",
+   "license": "Apache-2.0"
+  },
+  {
    "repo_full_name": "dewil/claude-control",
    "path": null,
    "stars": 12,
@@ -1459,16 +1469,6 @@
    "security_grade": "unsafe",
    "language": "Python",
    "license": "MIT"
-  },
-  {
-   "repo_full_name": "WireCatLabs/tg-cli",
-   "path": null,
-   "stars": 11,
-   "description": "Telegram CLI for AI agents — your whole account in the terminal, local-first search, MCP server and full Bot API.",
-   "kind": "remote",
-   "security_grade": "safe",
-   "language": "TypeScript",
-   "license": "Apache-2.0"
   },
   {
    "repo_full_name": "sleeyax/claude-code-session-bot",
@@ -1548,6 +1548,16 @@
    "kind": "remote",
    "security_grade": "safe",
    "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "ortegarod/openclaw-vps-deploy",
+   "path": null,
+   "stars": 6,
+   "description": "Deploy a personal OpenClaw agent to a fresh Ubuntu VPS with one command from your computer. Connects Claude and your Telegram bot, locks the server down, and runs 24/7.",
+   "kind": "remote",
+   "security_grade": "safe",
+   "language": "Shell",
    "license": "MIT"
   },
   {
@@ -1663,7 +1673,7 @@
   {
    "repo_full_name": "aiogram/aiogram",
    "path": null,
-   "stars": 5905,
+   "stars": 5908,
    "description": "aiogram is a modern and fully asynchronous framework for Telegram Bot API written in Python using asyncio",
    "kind": "framework",
    "security_grade": "safe",
@@ -1673,7 +1683,7 @@
   {
    "repo_full_name": "chigwell/telegram-mcp",
    "path": null,
-   "stars": 1894,
+   "stars": 1902,
    "description": "Telegram MCP server powered by Telethon to let MCP clients read chats, manage groups, and send/modify messages, media, contacts, and settings.",
    "kind": "framework",
    "security_grade": "safe",
@@ -1693,7 +1703,7 @@
   {
    "repo_full_name": "dryeab/mcp-telegram",
    "path": null,
-   "stars": 253,
+   "stars": 254,
    "description": "MCP Server for Telegram",
    "kind": "framework",
    "security_grade": "safe",
@@ -1753,7 +1763,7 @@
   {
    "repo_full_name": "andrew000/aiogram-template",
    "path": null,
-   "stars": 88,
+   "stars": 89,
    "description": "Telegram Bot Template. aiogram, i18n, SQLAlchemy+Alembic, PostgreSQL, Redis, Caddy Server, Docker, uv, FTL-Extract",
    "kind": "framework",
    "security_grade": "safe",
@@ -1831,16 +1841,6 @@
    "license": null
   },
   {
-   "repo_full_name": "andrebuilds/hermes",
-   "path": null,
-   "stars": 42,
-   "description": "Send messages from AI agents, CLI, and MCP tools - powered by one shared TypeScript core.",
-   "kind": "framework",
-   "security_grade": "safe",
-   "language": "TypeScript",
-   "license": "MIT"
-  },
-  {
    "repo_full_name": "coderroleggg/telegram-bot-mcp",
    "path": null,
    "stars": 37,
@@ -1889,6 +1889,16 @@
    "security_grade": "safe",
    "language": "HTML",
    "license": null
+  },
+  {
+   "repo_full_name": "andrebuilds/hermes",
+   "path": null,
+   "stars": 17,
+   "description": "Send messages from AI agents, CLI, and MCP tools - powered by one shared TypeScript core.",
+   "kind": "framework",
+   "security_grade": "safe",
+   "language": "TypeScript",
+   "license": "MIT"
   },
   {
    "repo_full_name": "mcieric/telegram-ai-bot-template",
@@ -1973,7 +1983,7 @@
   {
    "repo_full_name": "groupultra/telegram-search",
    "path": null,
-   "stars": 4131,
+   "stars": 4130,
    "description": "🔍 导出并模糊搜索 Telegram 聊天记录 | Export and fuzzy search your Telegram chat history",
    "kind": "utility",
    "security_grade": "safe",
@@ -2003,7 +2013,7 @@
   {
    "repo_full_name": "Priler/samurai",
    "path": null,
-   "stars": 304,
+   "stars": 305,
    "description": "Simple, yet effective auto-moderator bot for Telegram. With reports, logs, profanity filter, anti-spam AI, NSFW detection AI and more :3",
    "kind": "utility",
    "security_grade": "safe",
@@ -2093,7 +2103,7 @@
   {
    "repo_full_name": "vibe-with-me-tools/agent-reachout",
    "path": null,
-   "stars": 57,
+   "stars": 58,
    "description": "Let Claude Code reach you on Telegram when it finishes work or needs decisions",
    "kind": "utility",
    "security_grade": "safe",
@@ -2141,6 +2151,16 @@
    "license": "NOASSERTION"
   },
   {
+   "repo_full_name": "Derrors/reelay",
+   "path": null,
+   "stars": 30,
+   "description": "自托管的 Telegram → 115 网盘自动转存：AI 识别分享链接，审批后转存并按 Jellyfin/Emby 规范整理入库",
+   "kind": "utility",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "AI-XMLY/nodeseek-rss-telegram-bot",
    "path": null,
    "stars": 25,
@@ -2153,7 +2173,7 @@
   {
    "repo_full_name": "belaytzev/Telebrief",
    "path": null,
-   "stars": 24,
+   "stars": 25,
    "description": "Personal digests from Telegram channels and chats: summarizes threads, extracts key points, and delivers a clean daily/weekly brief with links and context.",
    "kind": "utility",
    "security_grade": "safe",
@@ -2168,16 +2188,6 @@
    "kind": "utility",
    "security_grade": "safe",
    "language": "TypeScript",
-   "license": "MIT"
-  },
-  {
-   "repo_full_name": "Derrors/reelay",
-   "path": null,
-   "stars": 19,
-   "description": "自托管的 Telegram → 115 网盘自动转存：AI 识别分享链接，审批后转存并按 Jellyfin/Emby 规范整理入库",
-   "kind": "utility",
-   "security_grade": "safe",
-   "language": "Python",
    "license": "MIT"
   },
   {
