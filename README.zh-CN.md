@@ -116,24 +116,24 @@
 | [linuz90/claude-telegram-bot](https://github.com/linuz90/claude-telegram-bot) | 450 | 通过 Telegram 随时使用 Claude Code 作为个人助手，支持文本、语音、图片、文件等。 | [SAFE](https://agentskillshub.top/skill/linuz90/claude-telegram-bot/) |
 | [polakowo/gpt2bot](https://github.com/polakowo/gpt2bot) | 443 | 由 transformers 驱动的 Telegram 新伙伴 | [SAFE](https://agentskillshub.top/skill/polakowo/gpt2bot/) |
 | [smixs/agent-second-brain](https://github.com/smixs/agent-second-brain) | 412 | 可随时对话的第二大脑。Telegram语音笔记转为Obsidian中的文字和关联知识，使用现有Claude订阅全天运行。 | [SAFE](https://agentskillshub.top/skill/smixs/agent-second-brain/) |
-| [Johnsheng1/cf-ai-TGbot](https://github.com/Johnsheng1/cf-ai-TGbot) | 385 | CF-ai-TGbot 是一个可定制的 Telegram 机器人，基于 Node.js，集成 Cloudflare AI Gateway，支持上下文对话。 | [SAFE](https://agentskillshub.top/skill/Johnsheng1/cf-ai-TGbot/) |
+| [Johnsheng1/cf-ai-TGbot](https://github.com/Johnsheng1/cf-ai-TGbot) | 378 | CF-ai-TGbot 是一个可定制的 Telegram 机器人，基于 Node.js，集成 Cloudflare AI Gateway，支持上下文对话。 | [SAFE](https://agentskillshub.top/skill/Johnsheng1/cf-ai-TGbot/) |
 | [F33RNI/GPT-Telegramus](https://github.com/F33RNI/GPT-Telegramus) | 352 | Telegram 机器人支持 ChatGPT、Microsoft Copilot、Microsoft Copilot Designer、Gemini、Groq… | [CAUTION](https://agentskillshub.top/skill/F33RNI/GPT-Telegramus/) |
 | [nalgeon/pokitoki](https://github.com/nalgeon/pokitoki) | 341 | Humble AI Telegram 机器人 | [SAFE](https://agentskillshub.top/skill/nalgeon/pokitoki/) |
 | [pyfbsdk59/Flask-ChatGPT-TelegramBot-Vercel](https://github.com/pyfbsdk59/Flask-ChatGPT-TelegramBot-Vercel) | 304 | 一个基于 Flask 的 ChatGPT TelegramBot，可快速部署到 Vercel。 | [SAFE](https://agentskillshub.top/skill/pyfbsdk59/Flask-ChatGPT-TelegramBot-Vercel/) |
-| [smixs/iva-agent](https://github.com/smixs/iva-agent) | 282 | 能记住所有信息、帮你管理生活的 Telegram AI 助手，一条命令即可自托管。 | [SAFE](https://agentskillshub.top/skill/smixs/iva-agent/) |
+| [smixs/iva-agent](https://github.com/smixs/iva-agent) | 283 | 能记住所有信息、帮你管理生活的 Telegram AI 助手，一条命令即可自托管。 | [SAFE](https://agentskillshub.top/skill/smixs/iva-agent/) |
 | [yesbhautik/Master-AI-BOT](https://github.com/yesbhautik/Master-AI-BOT) | 267 | Master AI BOT：Telegram bot，支持 GPT-4 Turbo、群聊、DALLE 2 和语音识别，可自部署。 | [SAFE](https://agentskillshub.top/skill/yesbhautik/Master-AI-BOT/) |
-| [14790897/tg-voice-ai](https://github.com/14790897/tg-voice-ai) | 250 | Telegram 语音聊天 AI 机器人，支持图像生成 | [SAFE](https://agentskillshub.top/skill/14790897/tg-voice-ai/) |
+| [14790897/tg-voice-ai](https://github.com/14790897/tg-voice-ai) | 245 | Telegram 语音聊天 AI 机器人，支持图像生成 | [SAFE](https://agentskillshub.top/skill/14790897/tg-voice-ai/) |
 | [Helixform/TeleGPT](https://github.com/Helixform/TeleGPT) | 236 | 开箱即用的 Telegram ChatGPT 机器人。 | [SAFE](https://agentskillshub.top/skill/Helixform/TeleGPT/) |
 | [tpai/summary-gpt-bot](https://github.com/tpai/summary-gpt-bot) | 234 | AI 驱动的 Telegram 文本摘要机器人，可生成文本、URL、PDF 和 YouTube 视频摘要。 | [SAFE](https://agentskillshub.top/skill/tpai/summary-gpt-bot/) |
 | [asukaminato0721/telegram-summary-bot](https://github.com/asukaminato0721/telegram-summary-bot) | 204 | 用 AI 总结和检索群聊，支持图片、链接元信息、回复、结果自动折叠和中文检索，可自行部署。 | [SAFE](https://agentskillshub.top/skill/asukaminato0721/telegram-summary-bot/) |
 | [ciuzaak/Claude-Telegram-Bot](https://github.com/ciuzaak/Claude-Telegram-Bot) | 202 | Telegram 上的 Anthropic Claude 和 Google Bard 机器人。 | [SAFE](https://agentskillshub.top/skill/ciuzaak/Claude-Telegram-Bot/) |
 | [missingus3r/friday-showcase](https://github.com/missingus3r/friday-showcase) | 195 | Friday — 基于 Claude Code 构建的 AI 助手，Tiny Moon Labs 产品 | [SAFE](https://agentskillshub.top/skill/missingus3r/friday-showcase/) |
 | [sudo-eugene/Connect-Telegram-Bot-to-Google-Sheets-ChatGPT-OpenAI](https://github.com/sudo-eugene/Connect-Telegram-Bot-to-Google-Sheets-ChatGPT-OpenAI) | 191 | 通过 Google Apps Script 将 Telegram Bot 连接到 Google Sheets | [SAFE](https://agentskillshub.top/skill/sudo-eugene/Connect-Telegram-Bot-to-Google-Sheets-ChatGPT-OpenAI/) |
-| [HexyeDEV/Telegram-Chatbot-Gpt4Free](https://github.com/HexyeDEV/Telegram-Chatbot-Gpt4Free) | 169 | 这是一个使用 telethon 库的 Python Telegram 机器人，使用 GPT4FREE 仓库中的 evagpt4 逆向 API 回复消息 | [SAFE](https://agentskillshub.top/skill/HexyeDEV/Telegram-Chatbot-Gpt4Free/) |
 | [flynnoct/chatgpt-telegram-bot](https://github.com/flynnoct/chatgpt-telegram-bot) | 169 | Telegram 机器人基于 OpenAI ChatGPT API（gpt-3.5-turbo，2023-03-01 发布） | [SAFE](https://agentskillshub.top/skill/flynnoct/chatgpt-telegram-bot/) |
+| [HexyeDEV/Telegram-Chatbot-Gpt4Free](https://github.com/HexyeDEV/Telegram-Chatbot-Gpt4Free) | 168 | 这是一个使用 telethon 库的 Python Telegram 机器人，使用 GPT4FREE 仓库中的 evagpt4 逆向 API 回复消息 | [SAFE](https://agentskillshub.top/skill/HexyeDEV/Telegram-Chatbot-Gpt4Free/) |
 | [Timmy-web/Poe-Telegram-Chatbot](https://github.com/Timmy-web/Poe-Telegram-Chatbot) | 167 | 使用Poe官方API实现Telegram对话机器人，调用GPT-4和Claude-3-Opus模型。 | [SAFE](https://agentskillshub.top/skill/Timmy-web/Poe-Telegram-Chatbot/) |
 | [kargarisaac/telegram_link_summarizer_agent](https://github.com/kargarisaac/telegram_link_summarizer_agent) | 155 | Telegram 机器人总结频道分享的文章、论文、推文、LinkedIn 帖子和 PDF 链接，提供简洁摘要。开源，部署于 Google Cloud Run。 | [CAUTION](https://agentskillshub.top/skill/kargarisaac/telegram_link_summarizer_agent/) |
-| [imkofty/Hermuse](https://github.com/imkofty/Hermuse) | 151 | Hermuse（Hermes + Muse）：个人 AI agent 栈，含 Hermes、9Router、Telegram gateway、Cloudfla… | [CAUTION](https://agentskillshub.top/skill/imkofty/Hermuse/) |
+| [imkofty/Hermuse](https://github.com/imkofty/Hermuse) | 153 | Hermuse（Hermes + Muse）：个人 AI agent 栈，含 Hermes、9Router、Telegram gateway、Cloudfla… | [CAUTION](https://agentskillshub.top/skill/imkofty/Hermuse/) |
 | [innightwolfsleep/llm_telegram_bot](https://github.com/innightwolfsleep/llm_telegram_bot) | 135 | LLM Telegram 机器人 | [SAFE](https://agentskillshub.top/skill/innightwolfsleep/llm_telegram_bot/) |
 | [Kourva/AwesomeChatGPTBot](https://github.com/Kourva/AwesomeChatGPTBot) | 122 | ChatGPT Telegram bot: Free & Rich-Feature bot for enhanced conversations. | [SAFE](https://agentskillshub.top/skill/Kourva/AwesomeChatGPTBot/) |
 | [ma2za/telegram-llm-bot](https://github.com/ma2za/telegram-llm-bot) | 114 | 本地优先的 Telegram AI 机器人，支持 Ollama 工具调用、语音转写、MinIO 存储、SearchApi 网络搜索和就绪检查 | [SAFE](https://agentskillshub.top/skill/ma2za/telegram-llm-bot/) |
@@ -161,8 +161,8 @@
 | [AlexTs10/ai-girlfriend-with-voice-telegram-bot](https://github.com/AlexTs10/ai-girlfriend-with-voice-telegram-bot) | 52 | GPT Telegram 机器人 | [SAFE](https://agentskillshub.top/skill/AlexTs10/ai-girlfriend-with-voice-telegram-bot/) |
 | [ahkarimi/chapar](https://github.com/ahkarimi/chapar) | 44 | 自托管 Telegram 机器人，用于 AI 驱动的图表分析和市场情报。基于 FastAPI、Celery、Redis、PostgreSQL。 | [SAFE](https://agentskillshub.top/skill/ahkarimi/chapar/) |
 | [AbuZar-Ansarii/Openclaw-phone-control](https://github.com/AbuZar-Ansarii/Openclaw-phone-control) | 36 | OpenClaw 通过 Telegram bot 使用本地 AI（Ollama）管理手机，无需 root，适用于大多数现代 Android 设备 | [CAUTION](https://agentskillshub.top/skill/AbuZar-Ansarii/Openclaw-phone-control/) |
+| [tuuject/surowan](https://github.com/tuuject/surowan) | 32 | 基于 Agent 的 AI Telegram 机器人「塑料碗」 | [SAFE](https://agentskillshub.top/skill/tuuject/surowan/) |
 | [zhuchangyi/Gemini2tg](https://github.com/zhuchangyi/Gemini2tg) | 31 | Gemini2tg：将 Google Gemini API 部署到 Telegram bot，提供 Gemini AI bot | [CAUTION](https://agentskillshub.top/skill/zhuchangyi/Gemini2tg/) |
-| [tuuject/surowan](https://github.com/tuuject/surowan) | 30 | 基于 Agent 的 AI Telegram 机器人「塑料碗」 | [SAFE](https://agentskillshub.top/skill/tuuject/surowan/) |
 | [xingty/CatGPT](https://github.com/xingty/CatGPT) | 30 | OpenAI API 的 Telegram 机器人 | [SAFE](https://agentskillshub.top/skill/xingty/CatGPT/) |
 | [aneeshjoy/llama-telegram-bot](https://github.com/aneeshjoy/llama-telegram-bot) | 28 | 基于 llama.cpp、支持 LLM 的简易 Telegram 聊天机器人 | [CAUTION](https://agentskillshub.top/skill/aneeshjoy/llama-telegram-bot/) |
 | [maddness/vkusvill-mcp-bot](https://github.com/maddness/vkusvill-mcp-bot) | 28 | 通过 MCP 收集ВкусВилл购物车的 Telegram 机器人 | [CAUTION](https://agentskillshub.top/skill/maddness/vkusvill-mcp-bot/) |
@@ -220,9 +220,9 @@
 | [hanxiao/claudecode-telegram](https://github.com/hanxiao/claudecode-telegram) | 610 | Claude Code 的 Telegram 桥接工具 | [SAFE](https://agentskillshub.top/skill/hanxiao/claudecode-telegram/) |
 | [duckbugio/flock](https://github.com/duckbugio/flock) | 501 | 自主 AI 开发团队机器人 | [SAFE](https://agentskillshub.top/skill/duckbugio/flock/) |
 | [PleasePrompto/ductor](https://github.com/PleasePrompto/ductor) | 465 | 通过 Telegram 控制 Claude Code、Codex CLI 和 Gemini CLI，支持实时流、持久记忆、cron 任务、webhook 和… | [SAFE](https://agentskillshub.top/skill/PleasePrompto/ductor/) |
-| [SouravBeraAkaSpeed/xiryn](https://github.com/SouravBeraAkaSpeed/xiryn) | 399 | Xiryn：开源个人 agent，在本地运行；每个 agent 在 Docker 中拥有独立 Linux 桌面，可用你的密钥调用模型，使用加密 vault，并… | [SAFE](https://agentskillshub.top/skill/SouravBeraAkaSpeed/xiryn/) |
+| [SouravBeraAkaSpeed/xiryn](https://github.com/SouravBeraAkaSpeed/xiryn) | 410 | Xiryn：开源个人 agent，在本地运行；每个 agent 在 Docker 中拥有独立 Linux 桌面，可用你的密钥调用模型，使用加密 vault，并… | [SAFE](https://agentskillshub.top/skill/SouravBeraAkaSpeed/xiryn/) |
 | [godagoo/claude-telegram-relay](https://github.com/godagoo/claude-telegram-relay) | 329 | 持续运行 Claude Code Telegram 机器人的简易方案，包含跨平台守护进程配置。 | [SAFE](https://agentskillshub.top/skill/godagoo/claude-telegram-relay/) |
-| [alexei-led/ccgram](https://github.com/alexei-led/ccgram) | 284 | Telegram ↔ tmux/herdr/agterm 桥接工具，支持 Claude Code、Codex CLI 和 Pi Agent。监控输出、响应提示… | [SAFE](https://agentskillshub.top/skill/alexei-led/ccgram/) |
+| [alexei-led/ccgram](https://github.com/alexei-led/ccgram) | 286 | Telegram ↔ tmux/herdr/agterm 桥接工具，支持 Claude Code、Codex CLI 和 Pi Agent。监控输出、响应提示… | [SAFE](https://agentskillshub.top/skill/alexei-led/ccgram/) |
 | [six-ddc/ccbot](https://github.com/six-ddc/ccbot) | 277 | Claude Code 的 Telegram ↔ tmux 桥接：1 个主题 = 1 个窗口 = 1 个会话 | [SAFE](https://agentskillshub.top/skill/six-ddc/ccbot/) |
 | [emreturkmencom/antigravity-telegram-suite](https://github.com/emreturkmencom/antigravity-telegram-suite) | 192 | Antigravity Telegram bot——通过 Telegram 远程控制 AI agent，聊天、切换模型、编排多 agent 工作流并管理工作区。 | [SAFE](https://agentskillshub.top/skill/emreturkmencom/antigravity-telegram-suite/) |
 | [earlyaidopters/claudeclaw](https://github.com/earlyaidopters/claudeclaw) | 173 | Claude Code CLI 作为个人 Telegram bot，支持语音、记忆、定时任务和全部 skill。 | [SAFE](https://agentskillshub.top/skill/earlyaidopters/claudeclaw/) |
@@ -238,11 +238,11 @@
 | [areweai/tsgram-mcp](https://github.com/areweai/tsgram-mcp) | 88 | TSGram - 用于本地 Claude Code 集成的 Telegram MCP Server，可进行调试和编程。 | [CAUTION](https://agentskillshub.top/skill/areweai/tsgram-mcp/) |
 | [permgps/herdr-telegram-agents](https://github.com/permgps/herdr-telegram-agents) | 86 | 在 Telegram 中像使用终端一样操控 coding agent：每个 agent 一个主题，图标显示实时状态，支持双向聊天和内联按钮选择。 | [SAFE](https://agentskillshub.top/skill/permgps/herdr-telegram-agents/) |
 | [0xtbug/telbot](https://github.com/0xtbug/telbot) | 85 | 基于 Go 的工具，通过 Telegram Bot、Terminal CLI 或 MCP Server 管理 Telkomsel 账户。 | [CAUTION](https://agentskillshub.top/skill/0xtbug/telbot/) |
-| [b1rdmania/ghostclaw](https://github.com/b1rdmania/ghostclaw) | 78 | 驻留在电脑上并帮你做事的 AI，公测版。 | [SAFE](https://agentskillshub.top/skill/b1rdmania/ghostclaw/) |
 | [littlebearapps/untether](https://github.com/littlebearapps/untether) | 74 | 从任意位置编码：连接 Claude Code、Codex、OpenCode、Pi、Gemini CLI 和 Amp 的 Telegram 桥接工具，可查看进度… | [SAFE](https://agentskillshub.top/skill/littlebearapps/untether/) |
+| [b1rdmania/ghostclaw](https://github.com/b1rdmania/ghostclaw) | 71 | 驻留在电脑上并帮你做事的 AI，公测版。 | [SAFE](https://agentskillshub.top/skill/b1rdmania/ghostclaw/) |
 | [Jeffrey0117/ClaudeBot](https://github.com/Jeffrey0117/ClaudeBot) | 65 | 手机上的 Claude Code CLI Telegram 机器人，支持插件、多机器人、队列、流式传输和热重载。 | [SAFE](https://agentskillshub.top/skill/Jeffrey0117/ClaudeBot/) |
 | [suzuke/AgEnD](https://github.com/suzuke/AgEnD) | 64 | 多智能体集群守护进程：通过 Telegram 运行 Claude Code、Gemini CLI、Codex 和 OpenCode，支持跨实例协作 | [SAFE](https://agentskillshub.top/skill/suzuke/AgEnD/) |
-| [smixs/pi-durable-telegram](https://github.com/smixs/pi-durable-telegram) | 43 | 服务器上常驻的 pi agent，通过 Telegram 对话；崩溃和重启后可恢复，历史记录存于 SQLite。pi-durable Telegram 网关。 | [SAFE](https://agentskillshub.top/skill/smixs/pi-durable-telegram/) |
+| [smixs/pi-durable-telegram](https://github.com/smixs/pi-durable-telegram) | 45 | 服务器上常驻的 pi agent，通过 Telegram 对话；崩溃和重启后可恢复，历史记录存于 SQLite。pi-durable Telegram 网关。 | [SAFE](https://agentskillshub.top/skill/smixs/pi-durable-telegram/) |
 | [bluzir/claude-telegram](https://github.com/bluzir/claude-telegram) | 42 | 基于 Claude Code CLI 的简单、模块化 Telegram 编排器 | [SAFE](https://agentskillshub.top/skill/bluzir/claude-telegram/) |
 | [Tommertom/coderBOT](https://github.com/Tommertom/coderBOT) | 37 | CoderBOT - 用 Telegram 控制你常用的 AI 编程 CLI | [SAFE](https://agentskillshub.top/skill/Tommertom/coderBOT/) |
 | [Imolatte/claude-cli-telegram](https://github.com/Imolatte/claude-cli-telegram) | 36 | 通过 Telegram 将 Mac/Linux 变为远程 Claude Code 终端，运行真实 CLI，支持会话、流式输出、审批、语音、Git 面板及 30… | [SAFE](https://agentskillshub.top/skill/Imolatte/claude-cli-telegram/) |
@@ -307,17 +307,17 @@
 | [mamashin/tg-bot-fastapi-aiogram](https://github.com/mamashin/tg-bot-fastapi-aiogram) | 50 | FastAPI 与 Aiogram Telegram 机器人模板 | [SAFE](https://agentskillshub.top/skill/mamashin/tg-bot-fastapi-aiogram/) |
 | [nessshon/aiogram-tonconnect](https://github.com/nessshon/aiogram-tonconnect) | 49 | aiogram-tonconnect：用于将 TON Connect UI 集成到 aiogram Telegram 机器人中。 | [SAFE](https://agentskillshub.top/skill/nessshon/aiogram-tonconnect/) |
 | [qpd-v/mcp-communicator-telegram](https://github.com/qpd-v/mcp-communicator-telegram) | 47 | 通过 Telegram 与用户通信的 MCP 服务器，可通过 Telegram 机器人提问并接收回复。 | [SAFE](https://agentskillshub.top/skill/qpd-v/mcp-communicator-telegram/) |
-| [ifokeev/telegram-ai-agent](https://github.com/ifokeev/telegram-ai-agent) | 45 | Telegram AI Agent：用于创建 AI Telegram 机器人的 Python 库 | [SAFE](https://agentskillshub.top/skill/ifokeev/telegram-ai-agent/) |
+| [ifokeev/telegram-ai-agent](https://github.com/ifokeev/telegram-ai-agent) | 46 | Telegram AI Agent：用于创建 AI Telegram 机器人的 Python 库 | [SAFE](https://agentskillshub.top/skill/ifokeev/telegram-ai-agent/) |
 | [coderroleggg/telegram-bot-mcp](https://github.com/coderroleggg/telegram-bot-mcp) | 37 | Telegram Bot 的 MCP | [SAFE](https://agentskillshub.top/skill/coderroleggg/telegram-bot-mcp/) |
 | [timoncool/telegram-api-mcp](https://github.com/timoncool/telegram-api-mcp) | 34 | Telegram Bot API MCP 服务器，覆盖 v9.6，支持元模式、限流和熔断器。TypeScript | [SAFE](https://agentskillshub.top/skill/timoncool/telegram-api-mcp/) |
 | [serejaris/telegram-skills](https://github.com/serejaris/telegram-skills) | 22 | Telegram Bot API 10.2 的 Agent Skills：结构化文章、媒体上传、摘要和流式 AI 回复 | [SAFE](https://agentskillshub.top/skill/serejaris/telegram-skills/) |
 | [EvilFreelancer/tgfake](https://github.com/EvilFreelancer/tgfake) | 18 | 离线 Telegram Bot API，用于测试机器人、Mini Apps 和 LLM 集成。 | [SAFE](https://agentskillshub.top/skill/EvilFreelancer/tgfake/) |
 | [ProKaiiddo/BotAlto](https://github.com/ProKaiiddo/BotAlto) | 18 | BotAlto 是开源的 Telegram bots 托管管理平台，支持创建、部署多个 bots、自定义命令和实时控制。 | [SAFE](https://agentskillshub.top/skill/ProKaiiddo/BotAlto/) |
-| [andrebuilds/hermes](https://github.com/andrebuilds/hermes) | 17 | 通过共享的 TypeScript 核心发送 AI agents、CLI 和 MCP 工具消息 | [SAFE](https://agentskillshub.top/skill/andrebuilds/hermes/) |
 | [mcieric/telegram-ai-bot-template](https://github.com/mcieric/telegram-ai-bot-template) | 15 | 基于 OpenAI 的极简 AI Telegram 机器人模板 | [SAFE](https://agentskillshub.top/skill/mcieric/telegram-ai-bot-template/) |
 | [TheOpenPrimary/giskard](https://github.com/TheOpenPrimary/giskard) | 11 | Telegram 和 Facebook Messenger 机器人开源引擎 | [SAFE](https://agentskillshub.top/skill/TheOpenPrimary/giskard/) |
 | [maratx86/aiogram-timepicker](https://github.com/maratx86/aiogram-timepicker) | 11 | 适用于 Python 编写的 aiogram Telegram 机器人的简单内联时间选择工具。 | [SAFE](https://agentskillshub.top/skill/maratx86/aiogram-timepicker/) |
 | [BrainDAO/mcp-telegram](https://github.com/BrainDAO/mcp-telegram) | 8 | 用于与 Telegram 频道交互的 Model Context Protocol 服务器 | [SAFE](https://agentskillshub.top/skill/BrainDAO/mcp-telegram/) |
+| [andrebuilds/hermes](https://github.com/andrebuilds/hermes) | 8 | 通过共享的 TypeScript 核心发送 AI agents、CLI 和 MCP 工具消息 | [SAFE](https://agentskillshub.top/skill/andrebuilds/hermes/) |
 | [habitual69/cutimagebg_bot](https://github.com/habitual69/cutimagebg_bot) | 7 | 背景移除机器人：使用 AI 图像处理移除图片背景的 Telegram bot。 | [SAFE](https://agentskillshub.top/skill/habitual69/cutimagebg_bot/) |
 | [pengming273/TelegramAirdropBountyBot](https://github.com/pengming273/TelegramAirdropBountyBot) | 7 | TelegramAirdropBountyBot | [SAFE](https://agentskillshub.top/skill/pengming273/TelegramAirdropBountyBot/) |
 | [TgCaller/TgCaller](https://github.com/TgCaller/TgCaller) | 5 | 用于在 Telegram 机器人中处理高质量群组通话的开源库。 | [SAFE](https://agentskillshub.top/skill/TgCaller/TgCaller/) |
@@ -340,7 +340,7 @@
 | [akynazh/tg-search-bot](https://github.com/akynazh/tg-search-bot) | 205 | 用于搜索和自动保存的智能 AI Telegram 机器人。 | [SAFE](https://agentskillshub.top/skill/akynazh/tg-search-bot/) |
 | [TheCaduceus/FileStreamBot](https://github.com/TheCaduceus/FileStreamBot) | 134 | 开源 Python Telegram 机器人，通过 HTTP 传输 Telegram 文件。 | [CAUTION](https://agentskillshub.top/skill/TheCaduceus/FileStreamBot/) |
 | [callsmusic/vcpb](https://github.com/callsmusic/vcpb) | 121 | 未维护的 Telegram 语音聊天机器人，使用 MPV，支持队列、串流和 YouTube。 | [SAFE](https://agentskillshub.top/skill/callsmusic/vcpb/) |
-| [noob-mukesh/MukeshRobot](https://github.com/noob-mukesh/MukeshRobot) | 113 | python编写telegram群管与AI机器人python-telegram-bot/telethon/pyrogram/sqlalchemy/mongodb | [SAFE](https://agentskillshub.top/skill/noob-mukesh/MukeshRobot/) |
+| [noob-mukesh/MukeshRobot](https://github.com/noob-mukesh/MukeshRobot) | 114 | python编写telegram群管与AI机器人python-telegram-bot/telethon/pyrogram/sqlalchemy/mongodb | [SAFE](https://agentskillshub.top/skill/noob-mukesh/MukeshRobot/) |
 | [assimon/ai-anti-bot](https://github.com/assimon/ai-anti-bot) | 111 | 基于 AI 的 Telegram 反广告机器人 | [SAFE](https://agentskillshub.top/skill/assimon/ai-anti-bot/) |
 | [joeseesun/AIGC_Telegram_Bot](https://github.com/joeseesun/AIGC_Telegram_Bot) | 103 | 用 GPT4 辅助开发的 Telegram 机器人：抓取指定 Twitter ID 的推文，翻译成中文并发送到 Telegram。 | [SAFE](https://agentskillshub.top/skill/joeseesun/AIGC_Telegram_Bot/) |
 | [ruitunion-org/feedback-bot](https://github.com/ruitunion-org/feedback-bot) | 67 | 开源免费的 Telegram Bot，让多个用户在同一聊天中匿名交流。 | [SAFE](https://agentskillshub.top/skill/ruitunion-org/feedback-bot/) |
@@ -349,7 +349,7 @@
 | [sliday/telegram-ai-digest](https://github.com/sliday/telegram-ai-digest) | 56 | 使用 Claude AI 总结、Replicate API 生成图片，自动整理 Telegram 消息并发送至已保存消息。 | [SAFE](https://agentskillshub.top/skill/sliday/telegram-ai-digest/) |
 | [matterai/DataKitsune](https://github.com/matterai/DataKitsune) | 55 | DataKitsune：开源 Telegram 机器人，自动索引个人或群聊中的链接内容，便于按内容搜索和访问共享资源。 | [SAFE](https://agentskillshub.top/skill/matterai/DataKitsune/) |
 | [LearningBotsOfficial/NomadeHelpBot](https://github.com/LearningBotsOfficial/NomadeHelpBot) | 54 | Nomad — 基于 Pyrogram 的 Telegram 群组管理机器人，含反垃圾、锁定、内联界面和审核功能。开源，须保留署名，不得转售或改名。 | [CAUTION](https://agentskillshub.top/skill/LearningBotsOfficial/NomadeHelpBot/) |
-| [Derrors/reelay](https://github.com/Derrors/reelay) | 35 | 自托管的 Telegram → 115 网盘自动转存：AI 识别分享链接，审批后转存并按 Jellyfin/Emby 规范整理入库 | [SAFE](https://agentskillshub.top/skill/Derrors/reelay/) |
+| [Derrors/reelay](https://github.com/Derrors/reelay) | 36 | 自托管的 Telegram → 115 网盘自动转存：AI 识别分享链接，审批后转存并按 Jellyfin/Emby 规范整理入库 | [SAFE](https://agentskillshub.top/skill/Derrors/reelay/) |
 | [AI-XMLY/nodeseek-rss-telegram-bot](https://github.com/AI-XMLY/nodeseek-rss-telegram-bot) | 26 | 将 RSS 推送到 Telegram 的机器人，支持关键词过滤、多用户订阅、SQLite 和 Docker | [SAFE](https://agentskillshub.top/skill/AI-XMLY/nodeseek-rss-telegram-bot/) |
 | [belaytzev/Telebrief](https://github.com/belaytzev/Telebrief) | 25 | Telegram频道和聊天的个人摘要：总结讨论串，提取要点，提供带链接和背景的每日或每周简报。 | [SAFE](https://agentskillshub.top/skill/belaytzev/Telebrief/) |
 | [kstonekuan/telegram-notification-mcp](https://github.com/kstonekuan/telegram-notification-mcp) | 22 | 用于发送 Telegram 通知的简单 MCP 服务器 | [SAFE](https://agentskillshub.top/skill/kstonekuan/telegram-notification-mcp/) |
@@ -427,4 +427,4 @@
 
 ---
 
-机器可读版本:[`data/skills.json`](data/skills.json)。生成于 2026-11-03。
+机器可读版本:[`data/skills.json`](data/skills.json)。生成于 2026-11-04。
