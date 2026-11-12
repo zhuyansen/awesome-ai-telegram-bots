@@ -12,4 +12,5 @@ authors and stay under the license of the project they come from. To have one re
 | `ortegarod__openclaw-vps-deploy.jpg` | [ortegarod/openclaw-vps-deploy](https://github.com/ortegarod/openclaw-vps-deploy) | MIT | [source](https://raw.githubusercontent.com/ortegarod/openclaw-vps-deploy/HEAD/assets/first-reply.jpg) |
 | `smixs__pi-durable-telegram.jpg` | [smixs/pi-durable-telegram](https://github.com/smixs/pi-durable-telegram) | MIT | [source](https://raw.githubusercontent.com/smixs/pi-durable-telegram/HEAD/assets/header.webp) |
 | `SouravBeraAkaSpeed__xiryn.jpg` | [SouravBeraAkaSpeed/xiryn](https://github.com/SouravBeraAkaSpeed/xiryn) | MIT | [source](https://raw.githubusercontent.com/SouravBeraAkaSpeed/xiryn/HEAD/docs/assets/workstation.png) |
+| `turmyshevd__openclawgotchi.gif` | [turmyshevd/openclawgotchi](https://github.com/turmyshevd/openclawgotchi) | MIT | [source](https://raw.githubusercontent.com/turmyshevd/openclawgotchi/HEAD/docs/assets/demo.gif) |
 | `tuuject__surowan.jpg` | [tuuject/surowan](https://github.com/tuuject/surowan) | Apache-2.0 | [source](https://raw.githubusercontent.com/tuuject/surowan/HEAD/assets/readme/author-notes.png) |

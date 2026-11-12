@@ -59,6 +59,16 @@
   "file": "smixs__pi-durable-telegram.jpg",
   "still": "smixs__pi-durable-telegram.jpg"
  },
+ "turmyshevd/openclawgotchi": {
+  "repo": "turmyshevd/openclawgotchi",
+  "url": "https://raw.githubusercontent.com/turmyshevd/openclawgotchi/HEAD/docs/assets/demo.gif",
+  "alt": "OpenClawGotchi Demo",
+  "score": 4.85,
+  "type": "image/gif",
+  "bytes": 921283,
+  "file": "turmyshevd__openclawgotchi.gif",
+  "still": "turmyshevd__openclawgotchi.jpg"
+ },
  "tuuject/surowan": {
   "repo": "tuuject/surowan",
   "url": "https://raw.githubusercontent.com/tuuject/surowan/HEAD/assets/readme/author-notes.png",
