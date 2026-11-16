@@ -29,6 +29,16 @@
   "file": "SouravBeraAkaSpeed__xiryn.jpg",
   "still": "SouravBeraAkaSpeed__xiryn.jpg"
  },
+ "hlibsuslov/telegram-bot-ui": {
+  "repo": "hlibsuslov/telegram-bot-ui",
+  "url": "https://raw.githubusercontent.com/hlibsuslov/telegram-bot-ui/HEAD/docs/assets/demo.gif",
+  "alt": "Demo: one sentence to the coding agent turns a cluttered bot menu into a clean s",
+  "score": 4.55,
+  "type": "image/gif",
+  "bytes": 2688362,
+  "file": "hlibsuslov__telegram-bot-ui.gif",
+  "still": "hlibsuslov__telegram-bot-ui.jpg"
+ },
  "imkofty/Hermuse": {
   "repo": "imkofty/Hermuse",
   "url": "https://raw.githubusercontent.com/imkofty/Hermuse/HEAD/assets/banner.png",

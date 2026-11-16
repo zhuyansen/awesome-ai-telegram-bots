@@ -7,6 +7,7 @@ authors and stay under the license of the project they come from. To have one re
 | File | Project | License | Original |
 |---|---|---|---|
 | `EvilFreelancer__tgfake.jpg` | [EvilFreelancer/tgfake](https://github.com/EvilFreelancer/tgfake) | MIT | [source](https://raw.githubusercontent.com/EvilFreelancer/tgfake/HEAD/docs/assets/chat-page.png) |
+| `hlibsuslov__telegram-bot-ui.gif` | [hlibsuslov/telegram-bot-ui](https://github.com/hlibsuslov/telegram-bot-ui) | MIT | [source](https://raw.githubusercontent.com/hlibsuslov/telegram-bot-ui/HEAD/docs/assets/demo.gif) |
 | `HNF-FRN__Reel-watcher-telegram-Agent.gif` | [HNF-FRN/Reel-watcher-telegram-Agent](https://github.com/HNF-FRN/Reel-watcher-telegram-Agent) | MIT | [source](https://raw.githubusercontent.com/HNF-FRN/Reel-watcher-telegram-Agent/HEAD/docs/assets/chat-demo.gif) |
 | `imkofty__Hermuse.jpg` | [imkofty/Hermuse](https://github.com/imkofty/Hermuse) | MIT | [source](https://raw.githubusercontent.com/imkofty/Hermuse/HEAD/assets/banner.png) |
 | `ortegarod__openclaw-vps-deploy.jpg` | [ortegarod/openclaw-vps-deploy](https://github.com/ortegarod/openclaw-vps-deploy) | MIT | [source](https://raw.githubusercontent.com/ortegarod/openclaw-vps-deploy/HEAD/assets/first-reply.jpg) |
