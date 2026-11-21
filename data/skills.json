@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20",
+ "generated": "2026-11-21",
  "source": "https://agentskillshub.top/best/telegram-bot/",
  "kinds": [
   {
@@ -43,7 +43,7 @@
   {
    "repo_full_name": "father-bot/chatgpt_telegram_bot",
    "path": null,
-   "stars": 5556,
+   "stars": 5555,
    "description": "💬 Telegram bot with ChatGPT & Claude Python-based, using OpenAI's API.",
    "kind": "assistant",
    "security_grade": "safe",
@@ -53,7 +53,7 @@
   {
    "repo_full_name": "tbxark/ChatGPT-Telegram-Workers",
    "path": null,
-   "stars": 3815,
+   "stars": 3816,
    "description": "Easily deploy your Telegram ChatGPT bot on Cloudflare Workers (or Vercel, Docker...).",
    "kind": "assistant",
    "security_grade": "safe",
@@ -953,7 +953,7 @@
   {
    "repo_full_name": "overwirehq/claude-code-telegram",
    "path": null,
-   "stars": 2828,
+   "stars": 2830,
    "description": "A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence.",
    "kind": "remote",
    "security_grade": "safe",
@@ -993,7 +993,7 @@
   {
    "repo_full_name": "PleasePrompto/ductor",
    "path": null,
-   "stars": 467,
+   "stars": 468,
    "description": "Control Claude Code, Codex CLI and Gemini CLI from Telegram. Live streaming, persistent memory, cron jobs, webhooks, Docker sandboxing.",
    "kind": "remote",
    "security_grade": "safe",
@@ -1053,7 +1053,7 @@
   {
    "repo_full_name": "emreturkmencom/antigravity-telegram-suite",
    "path": null,
-   "stars": 195,
+   "stars": 196,
    "description": "Antigravity Telegram bot — remote-control your AI agent via Telegram. Chat, switch models, orchestrate multi-agent workflows, and manage workspaces from your phone.",
    "kind": "remote",
    "security_grade": "safe",
@@ -1063,7 +1063,7 @@
   {
    "repo_full_name": "earlyaidopters/claudeclaw",
    "path": null,
-   "stars": 174,
+   "stars": 175,
    "description": "Claude Code CLI as a personal Telegram bot — voice, memory, scheduled tasks, all your skills from your pocket.",
    "kind": "remote",
    "security_grade": "safe",
@@ -1141,6 +1141,16 @@
    "license": null
   },
   {
+   "repo_full_name": "permgps/herdr-telegram-agents",
+   "path": null,
+   "stars": 93,
+   "description": "Drive your coding agents from Telegram like from the terminal. A topic per agent, live status in the topic icon, two-way chat with inline buttons for choices.",
+   "kind": "remote",
+   "security_grade": "safe",
+   "language": "Go",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "pavel-molyanov/telegram-ai-agent",
    "path": null,
    "stars": 92,
@@ -1148,16 +1158,6 @@
    "kind": "remote",
    "security_grade": "safe",
    "language": "Python",
-   "license": "MIT"
-  },
-  {
-   "repo_full_name": "permgps/herdr-telegram-agents",
-   "path": null,
-   "stars": 92,
-   "description": "Drive your coding agents from Telegram like from the terminal. A topic per agent, live status in the topic icon, two-way chat with inline buttons for choices.",
-   "kind": "remote",
-   "security_grade": "safe",
-   "language": "Go",
    "license": "MIT"
   },
   {
@@ -1401,6 +1401,16 @@
    "license": "BSD-3-Clause"
   },
   {
+   "repo_full_name": "hlibsuslov/telegram-bot-ui",
+   "path": null,
+   "stars": 15,
+   "description": "Telegram bot UI/UX skill for Claude Code, Codex, Cursor, Gemini CLI and Copilot: messages, keyboards, buttons, navigation, streaming AI replies with Stop, Rich Messages, HTML widgets, premium emoji, channel publishing and agent-operated bots. Updated for every new Bot API release.",
+   "kind": "remote",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "hada0127/cc-telegram",
    "path": null,
    "stars": 14,
@@ -1418,16 +1428,6 @@
    "kind": "remote",
    "security_grade": "safe",
    "language": "TypeScript",
-   "license": "MIT"
-  },
-  {
-   "repo_full_name": "hlibsuslov/telegram-bot-ui",
-   "path": null,
-   "stars": 13,
-   "description": "Telegram bot UI/UX skill for Claude Code, Codex, Cursor, Gemini CLI and Copilot: messages, keyboards, buttons, navigation, streaming AI replies with Stop, Rich Messages, HTML widgets, premium emoji, channel publishing and agent-operated bots. Updated for every new Bot API release.",
-   "kind": "remote",
-   "security_grade": "safe",
-   "language": "Python",
    "license": "MIT"
   },
   {
@@ -1473,7 +1473,7 @@
   {
    "repo_full_name": "moeacgx/cc-switch-bot",
    "path": null,
-   "stars": 9,
+   "stars": 8,
    "description": "Telegram Bot for managing Claude Code / Codex / Gemini provider switching, deployed on Cloudflare Workers",
    "kind": "remote",
    "security_grade": "caution",
@@ -1663,7 +1663,7 @@
   {
    "repo_full_name": "chigwell/telegram-mcp",
    "path": null,
-   "stars": 2069,
+   "stars": 2073,
    "description": "Telegram MCP server powered by Telethon to let MCP clients read chats, manage groups, and send/modify messages, media, contacts, and settings.",
    "kind": "framework",
    "security_grade": "safe",
@@ -1801,6 +1801,16 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "serejaris/telegram-skills",
+   "path": null,
+   "stars": 48,
+   "description": "Telegram skills for AI agents (Claude Code, Codex, Cursor): Agent Skills that teach your agent the Telegram Bot API. Rich Messages, streaming AI replies, HTML widgets, polls, sticker packs, Mini Apps and Stars payments. Raw HTTP, no bot framework.",
+   "kind": "framework",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "ifokeev/telegram-ai-agent",
    "path": null,
    "stars": 46,
@@ -1821,13 +1831,13 @@
    "license": null
   },
   {
-   "repo_full_name": "serejaris/telegram-skills",
+   "repo_full_name": "timoncool/telegram-api-mcp",
    "path": null,
-   "stars": 43,
-   "description": "Telegram skills for AI agents (Claude Code, Codex, Cursor): Agent Skills that teach your agent the Telegram Bot API. Rich Messages, streaming AI replies, HTML widgets, polls, sticker packs, Mini Apps and Stars payments. Raw HTTP, no bot framework.",
+   "stars": 38,
+   "description": "Ultimate Telegram Bot API MCP server — full v9.6 coverage, meta-mode, rate limiting, circuit breaker. TypeScript.",
    "kind": "framework",
    "security_grade": "safe",
-   "language": "Python",
+   "language": "TypeScript",
    "license": "MIT"
   },
   {
@@ -1839,16 +1849,6 @@
    "security_grade": "safe",
    "language": "Python",
    "license": null
-  },
-  {
-   "repo_full_name": "timoncool/telegram-api-mcp",
-   "path": null,
-   "stars": 37,
-   "description": "Ultimate Telegram Bot API MCP server — full v9.6 coverage, meta-mode, rate limiting, circuit breaker. TypeScript.",
-   "kind": "framework",
-   "security_grade": "safe",
-   "language": "TypeScript",
-   "license": "MIT"
   },
   {
    "repo_full_name": "EvilFreelancer/tgfake",
@@ -1941,6 +1941,16 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "azdaev/tgmock",
+   "path": null,
+   "stars": 6,
+   "description": "Fake Telegram API server for testing bots — pytest plugin + Claude Code MCP server",
+   "kind": "framework",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": null
+  },
+  {
    "repo_full_name": "TgCaller/TgCaller",
    "path": null,
    "stars": 5,
@@ -1949,16 +1959,6 @@
    "security_grade": "safe",
    "language": "Python",
    "license": "NOASSERTION"
-  },
-  {
-   "repo_full_name": "azdaev/tgmock",
-   "path": null,
-   "stars": 5,
-   "description": "Fake Telegram API server for testing bots — pytest plugin + Claude Code MCP server",
-   "kind": "framework",
-   "security_grade": "safe",
-   "language": "Python",
-   "license": null
   },
   {
    "repo_full_name": "skrashevich/telegram-mock-ai",
@@ -2338,7 +2338,7 @@
    "kind": "fun",
    "security_grade": "caution",
    "language": "TypeScript",
-   "license": "MIT"
+   "license": "NOASSERTION"
   },
   {
    "repo_full_name": "y9san9/prizebot",
@@ -2363,7 +2363,7 @@
   {
    "repo_full_name": "SWel1a/QuizBot",
    "path": null,
-   "stars": 10,
+   "stars": 11,
    "description": "Blossom the languagemaid is your personal language learning assistant on Telegram. ",
    "kind": "fun",
    "security_grade": "safe",
@@ -2473,7 +2473,7 @@
   {
    "repo_full_name": "FlipZ3ro/robinhood-lp-bot",
    "path": null,
-   "stars": 69,
+   "stars": 70,
    "description": "🐷 Telegram-controlled LP bot for Robinhood Chain — auto liquidity on Uniswap v2/v3/v4 (incl. USDG pairs) via KyberSwap best-route, with real-time Nitro sequencer feed, self-run honeypot tests, GMGN/LLM screening, and shareable profit cards.",
    "kind": "business",
    "security_grade": "safe",
@@ -2483,7 +2483,7 @@
   {
    "repo_full_name": "Opselon/ForexTradingBot",
    "path": null,
-   "stars": 59,
+   "stars": 60,
    "description": "ForexSignalBot is an advanced, AI-driven Telegram bot meticulously engineered for the Forex market. It delivers real-time, high-precision trading signals, aggregates intelligent market news, and features an integrated auto-forwarder for seamless execution with trading clients. Built on .NET 9 with Clean Architecture and Domain-Driven Design",
    "kind": "business",
    "security_grade": "caution",
