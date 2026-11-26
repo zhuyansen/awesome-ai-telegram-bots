@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25",
+ "generated": "2026-11-26",
  "source": "https://agentskillshub.top/best/telegram-bot/",
  "kinds": [
   {
@@ -43,7 +43,7 @@
   {
    "repo_full_name": "father-bot/chatgpt_telegram_bot",
    "path": null,
-   "stars": 5558,
+   "stars": 5559,
    "description": "💬 Telegram bot with ChatGPT & Claude Python-based, using OpenAI's API.",
    "kind": "assistant",
    "security_grade": "safe",
@@ -53,7 +53,7 @@
   {
    "repo_full_name": "tbxark/ChatGPT-Telegram-Workers",
    "path": null,
-   "stars": 3815,
+   "stars": 3816,
    "description": "Easily deploy your Telegram ChatGPT bot on Cloudflare Workers (or Vercel, Docker...).",
    "kind": "assistant",
    "security_grade": "safe",
@@ -123,7 +123,7 @@
   {
    "repo_full_name": "Johnsheng1/cf-ai-TGbot",
    "path": null,
-   "stars": 381,
+   "stars": 382,
    "description": "CF-ai-TGbot is a customizable Telegram bot powered by Node.js, integrating Cloudflare AI Gateway for smart, context-aware conversations. 🌐🤖",
    "kind": "assistant",
    "security_grade": "safe",
@@ -223,7 +223,7 @@
   {
    "repo_full_name": "ciuzaak/Claude-Telegram-Bot",
    "path": null,
-   "stars": 202,
+   "stars": 203,
    "description": "Anthropic Claude & Google Bard Bot for Telegram.",
    "kind": "assistant",
    "security_grade": "safe",
@@ -253,7 +253,7 @@
   {
    "repo_full_name": "imkofty/Hermuse",
    "path": null,
-   "stars": 176,
+   "stars": 177,
    "description": "Hermuse (Hermes + Muse) — personal AI agent stack built for Muse: Hermes + 9Router + Telegram gateway, automated install, Cloudflare tunnel, watchdog. Runs on a VPS or your own machine; works with other agents & tools too. | Stack agen AI pribadi yang dibangun untuk Muse — jalan di VPS/mesin sendiri, bisa dipakai agen & tool lain juga.",
    "kind": "assistant",
    "security_grade": "caution",
@@ -303,7 +303,7 @@
   {
    "repo_full_name": "Kourva/AwesomeChatGPTBot",
    "path": null,
-   "stars": 150,
+   "stars": 151,
    "description": "ChatGPT Telegram bot: Free & Rich-Feature bot for enhanced conversations.",
    "kind": "assistant",
    "security_grade": "safe",
@@ -553,7 +553,7 @@
   {
    "repo_full_name": "tuuject/surowan",
    "path": null,
-   "stars": 47,
+   "stars": 48,
    "description": "基于 Agent 的 AI 驱动 Telegram Bot「塑料碗」",
    "kind": "assistant",
    "security_grade": "safe",
@@ -761,6 +761,16 @@
    "license": null
   },
   {
+   "repo_full_name": "irfan-yulianto/Telegram-Finance-Bot",
+   "path": null,
+   "stars": 9,
+   "description": "AI-powered personal finance tracker bot for Telegram. Track income &  expenses with receipt scanning, natural language input, and automatic  Google Sheets sync. Built with Python & Google Gemini API.",
+   "kind": "assistant",
+   "security_grade": "caution",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "Aman262626/DarkGPT-Telegram-Bot",
    "path": null,
    "stars": 8,
@@ -769,16 +779,6 @@
    "security_grade": "safe",
    "language": "Python",
    "license": null
-  },
-  {
-   "repo_full_name": "irfan-yulianto/Telegram-Finance-Bot",
-   "path": null,
-   "stars": 8,
-   "description": "AI-powered personal finance tracker bot for Telegram. Track income &  expenses with receipt scanning, natural language input, and automatic  Google Sheets sync. Built with Python & Google Gemini API.",
-   "kind": "assistant",
-   "security_grade": "caution",
-   "language": "Python",
-   "license": "MIT"
   },
   {
    "repo_full_name": "aleksbuss/termux-voice-bot",
@@ -953,7 +953,7 @@
   {
    "repo_full_name": "overwirehq/claude-code-telegram",
    "path": null,
-   "stars": 2831,
+   "stars": 2833,
    "description": "A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence.",
    "kind": "remote",
    "security_grade": "safe",
@@ -963,7 +963,7 @@
   {
    "repo_full_name": "grinev/opencode-telegram-bot",
    "path": null,
-   "stars": 1376,
+   "stars": 1377,
    "description": "OpenCode mobile client via Telegram: run and monitor AI coding tasks from your phone while everything runs locally on your machine. OpenCode V2 support.",
    "kind": "remote",
    "security_grade": "safe",
@@ -1653,7 +1653,7 @@
   {
    "repo_full_name": "aiogram/aiogram",
    "path": null,
-   "stars": 5947,
+   "stars": 5948,
    "description": "aiogram is a modern and fully asynchronous framework for Telegram Bot API written in Python using asyncio",
    "kind": "framework",
    "security_grade": "safe",
@@ -1663,7 +1663,7 @@
   {
    "repo_full_name": "chigwell/telegram-mcp",
    "path": null,
-   "stars": 2091,
+   "stars": 2095,
    "description": "Telegram MCP server powered by Telethon to let MCP clients read chats, manage groups, and send/modify messages, media, contacts, and settings.",
    "kind": "framework",
    "security_grade": "safe",
@@ -1983,7 +1983,7 @@
   {
    "repo_full_name": "groupultra/telegram-search",
    "path": null,
-   "stars": 4155,
+   "stars": 4157,
    "description": "🔍 导出并模糊搜索 Telegram 聊天记录 | Export and fuzzy search your Telegram chat history",
    "kind": "utility",
    "security_grade": "safe",
@@ -2113,7 +2113,7 @@
   {
    "repo_full_name": "gth-ai/reclip-telegram-bot",
    "path": null,
-   "stars": 56,
+   "stars": 57,
    "description": "Self-hosted Telegram bot for downloading media from YouTube, TikTok, Instagram, and 1000+ sites. Powered by reclip + yt-dlp.",
    "kind": "utility",
    "security_grade": "safe",
@@ -2393,7 +2393,7 @@
   {
    "repo_full_name": "ilyarolf/AiogramShopBot",
    "path": null,
-   "stars": 256,
+   "stars": 257,
    "description": "Open-source Telegram e-commerce bot built with Aiogram 3 for selling digital and physical goods with crypto payments and referral system.",
    "kind": "business",
    "security_grade": "safe",
@@ -2453,7 +2453,7 @@
   {
    "repo_full_name": "guccidgi/AI-Stock-Technical-Analysis-n8n-x-FlowiseAI",
    "path": null,
-   "stars": 78,
+   "stars": 79,
    "description": "AI-powered stock analysis system: Telegram bot triggers n8n workflows with FlowiseAI to generate technical analysis reports. Stores trading opportunities in Airtable with earnings data and research. Automatically delivers updates to Telegram.",
    "kind": "business",
    "security_grade": "safe",
